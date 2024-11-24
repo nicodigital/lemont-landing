@@ -1,0 +1,101 @@
+[
+    {
+        "id": 125,
+        "date": "2024-08-18T12:27:40",
+        "date_gmt": "2024-08-18T12:27:40",
+        "guid": {
+            "rendered": "https:\/\/alohaus.uy\/gestor\/?page_id=125"
+        },
+        "modified": "2024-08-18T12:30:31",
+        "modified_gmt": "2024-08-18T12:30:31",
+        "slug": "proyectos-en",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/alohaus.uy\/gestor\/proyectos-en\/",
+        "title": {
+            "rendered": "Proyectos En"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "page.php",
+        "meta": {
+            "_acf_changed": false,
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-125",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry"
+        ],
+        "acf": {
+            "projects_intro": "Each new project,<br \/>\r\na growth,<br \/>\r\nEvery new tool,<br \/>\r\na conquest."
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/alohaus.uy\/gestor\/wp-json\/wp\/v2\/pages\/125"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/alohaus.uy\/gestor\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/alohaus.uy\/gestor\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/alohaus.uy\/gestor\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/alohaus.uy\/gestor\/wp-json\/wp\/v2\/comments?post=125"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https:\/\/alohaus.uy\/gestor\/wp-json\/wp\/v2\/pages\/125\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 127,
+                    "href": "https:\/\/alohaus.uy\/gestor\/wp-json\/wp\/v2\/pages\/125\/revisions\/127"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/alohaus.uy\/gestor\/wp-json\/wp\/v2\/media?parent=125"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

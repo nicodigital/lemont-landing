@@ -1,0 +1,68 @@
+:root{
+	--burger-color: #000;
+	--burger-size: 3.5rem;
+	--burger-line-width: .4rem;
+	--burger-line-size: 1rem;
+}
+
+.burger {
+	@apply absolute cursor-pointer top-[2.5rem] z-[9999] xg:hidden ;
+	width: var(--burger-size);
+	height: var(--burger-size);
+	right: var(--container-gap);
+}
+
+.burger-box {
+	@apply relative inline-block h-[24px];
+	width: var(--burger-size);
+  perspective: 8rem;
+}
+
+.burger-inner {
+	@apply block top-[50%] transition-all;
+	margin-top: -2px;
+}
+
+.burger-inner,
+.burger-inner::after,
+.burger-inner::before {
+  @apply absolute w-100% transition-all duration-[0.2s] ease-in-out	;
+	height: var(--burger-line-width);
+	background-color: var(--burger-color);
+}
+
+
+
+body.menu-in .burger-inner::after,
+body.menu-in .burger-inner::before {
+	background-color: #fff;
+}
+
+.burger-inner::after,
+.burger-inner::before {
+	content: "";
+	display: block;
+}
+
+.burger-inner::before {
+	top: calc(-1 * var(--burger-line-size));
+}
+
+.burger-inner::after {
+	bottom: calc(-1 * var(--burger-line-size));
+}
+
+
+body.menu-in .burger-inner{
+	@apply bg-transparent;
+  transform: rotateY(180deg);
+}
+
+body.menu-in .burger-inner::before {
+	transform: translate3d(0, var(--burger-line-size), 0) rotate(45deg);
+}
+
+body.menu-in .burger-inner::after {
+	transform: translate3d(0, calc(-1 * var(--burger-line-size)), 0) rotate(-45deg);
+}
+

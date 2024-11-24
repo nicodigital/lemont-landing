@@ -1,0 +1,23 @@
+#go-top {
+  @apply fixed
+            bottom-0
+            xg:bottom-3
+            left-4
+            translate-y-full
+            xg:translate-y-[175%]
+            transition-all
+            z-[99];
+}
+
+
+#go-top svg{
+  @apply w-[5rem] h-[5rem];
+}
+
+body:not([data-scroll="top"]) #go-top {
+
+    @apply translate-y-[-50%] xg:translate-y-[0];
+
+}
+  
+

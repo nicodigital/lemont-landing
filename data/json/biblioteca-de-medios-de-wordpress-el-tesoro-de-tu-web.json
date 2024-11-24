@@ -1,0 +1,653 @@
+[
+    {
+        "id": 3311,
+        "date": "2019-07-28T17:35:43",
+        "date_gmt": "2019-07-28T20:35:43",
+        "guid": {
+            "rendered": "https:\/\/nicowebsite.com\/?p=3311"
+        },
+        "modified": "2019-08-31T00:48:38",
+        "modified_gmt": "2019-08-31T03:48:38",
+        "slug": "biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/",
+        "title": {
+            "rendered": "Biblioteca de medios de WordPress: el tesoro de tu web"
+        },
+        "content": {
+            "rendered": "\n<p>La Biblioteca de Medios de WordPress es el lugar donde almacenamos elementos multimedia para luego agregarlos en nuestro contenido. Es un espacio muy valioso, por eso debemos conocerla bien y  mantenerla ordenada. Esto nos ser\u00e1 de gran utilidad cuando el sitio vaya creciendo. <\/p>\n\n\n\n<p>El presente art\u00edculo te brinda una gu\u00eda de como subir los diferentes archivos a la Biblioteca de Medios y algunas ideas para su organizaci\u00f3n. <\/p>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">1. \u00bfD\u00f3nde est\u00e1 la Biblioteca de Medios?<\/h2>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p> Cuando haces click en <em>Medios<\/em> del men\u00fa lateral izquierdo de tu WordPress accedes directamente a la&nbsp;<strong>Biblioteca de Medios.<\/strong> All\u00ed te da la opci\u00f3n de ir directamente a la Biblioteca o a\u00f1adir un nuevo elemento. Dicho espacio puede contener casi cualquier tipo de archivo. <\/p>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<figure class=\"wp-block-image is-resized\"><img loading=\"lazy\" decoding=\"async\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_7-Nico.-Free-Lance-Web-Developer-1024x102.jpg\" alt=\"Biblioteca de Medios\" class=\"wp-image-3419\" width=\"471\" height=\"46\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_7-Nico.-Free-Lance-Web-Developer-1024x102.jpg 1024w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_7-Nico.-Free-Lance-Web-Developer-580x58.jpg 580w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_7-Nico.-Free-Lance-Web-Developer-768x77.jpg 768w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_7-Nico.-Free-Lance-Web-Developer.jpg 1149w\" sizes=\"(max-width: 471px) 100vw, 471px\" \/><\/figure>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">2. C\u00f3mo a\u00f1adir elementos a la Biblioteca Multimedia<\/h2>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>El contenido de una p\u00e1gina web puede contener texto, im\u00e1genes, audios, videos,  y documentos que ir\u00e1s a\u00f1adiendo a tus entradas o p\u00e1ginas. Tienes diferentes procesos para agregar cada uno de ellos.   <\/p>\n\n\n\n<h3 class=\"wp-block-heading\">Imagen destacada<\/h3>\n\n\n\n<p>Como su nombre indica es la imagen que quieres destacar en tu publicaci\u00f3n. Generalmente la usamos como cabecera y puede tener diferentes posiciones seg\u00fan el tema que estemos usando. <\/p>\n\n\n\n<p>Es un elemento muy importante, porque esa imagen es lo primero que va a captar la atenci\u00f3n del usuario. Y adem\u00e1s le va a indicar de que trata tu publicaci\u00f3n. <\/p>\n\n\n\n<p><strong>\u00bfC\u00f3mo agregar la imagen destacada?<\/strong><\/p>\n\n\n\n<p> En la edici\u00f3n de cada entrada o p\u00e1gina tenemos la herramienta que nos permite a\u00f1adirla.  En primer lugar selecciona <em>Establecer imagen destacada,<\/em> lo que te dirigir\u00e1 a la Biblioteca de Medios. All\u00ed puedes elegir una que ya tengas en la biblioteca. O tambi\u00e9n puedes <em>Subir archivo<\/em> para optar por alguna que tengas en tu escritorio. <\/p>\n\n\n\n<p>Cuando selecciones tu imagen destacada, te mostrar\u00e1 detalles que incluyen la fecha, el tama\u00f1o y el tipo de archivo seleccionado. Asimismo tendr\u00e1s la posibilidad de editarla y agregar el <em>Texto alternativo<\/em>, <em>el T\u00edtulo, la Leyenda<\/em> y la <em>Descripci\u00f3n.<\/em> <\/p>\n\n\n\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"578\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/espa\u00f1ol-Nico.-Free-Lance-Web-Developer-1024x578.png\" alt=\"Espa\u00f1ol Nico. Free Lance Web Developer\" class=\"wp-image-3546\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/espa\u00f1ol-Nico.-Free-Lance-Web-Developer-1024x578.png 1024w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/espa\u00f1ol-Nico.-Free-Lance-Web-Developer-535x302.png 535w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/espa\u00f1ol-Nico.-Free-Lance-Web-Developer-768x433.png 768w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/espa\u00f1ol-Nico.-Free-Lance-Web-Developer.png 1395w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/figure><\/div>\n\n\n\n<p>La imagen destacada es la que va a acompa\u00f1ar tu art\u00edculo cuando se comparta en las redes sociales por tanto debemos ser muy cuidadosos al elegirla.  Debe ser de buena calidad, tener relaci\u00f3n con el contenido y cumplir con los requerimientos de SEO.<\/p>\n\n\n\n<h3 class=\"wp-block-heading\">Im\u00e1genes, videos, documentos etc.<\/h3>\n\n\n\n<p>Si el art\u00edculo que estas elaborando es extenso conviene agregar tambi\u00e9n im\u00e1genes, documentos, videos, infografias u otros objetos que hagan atractivo el desarrollo del texto. De esta forma introduces un espacio que altera la lectura y la vuelve m\u00e1s interesante. <\/p>\n\n\n\n<p>Imagina que debes subir un art\u00edculo de 2.000 o 3.000 palabras. Es muy dif\u00edcil que el usuario est\u00e9 atento durante todo ese tiempo. Para ello es necesario un agregado de valor que mantenga amena y disfrutable la visita en tu p\u00e1gina. <\/p>\n\n\n\n<p>Esta necesidad se plantea con fuerza en la actualidad porque el algoritmo de Google tiene en cuenta la extensi\u00f3n de tus art\u00edculos. Tambi\u00e9n considera la profundidad que otorgues al tratamiento del tema que est\u00e1s desarrollando.  Lo que el buscador persigue es mejorar cada vez m\u00e1s la experiencia de usuario. <\/p>\n\n\n\n<p>Esto ha llevado los sitios web que realmente desean mejorar su posicionamiento, se esfuercen por hacer publicaciones extensas y que aporten mucho valor al visitante. Entonces, los objetos que incluyas en la Biblioteca de Medios son fundamentales para lograr una entrada o p\u00e1gina atractiva.<\/p>\n\n\n\n<p><strong>\u00bfComo agregar estos elementos?<\/strong><\/p>\n\n\n\n<p>Para agregar los diferentes elementos a tu publicaci\u00f3n debes seguir el siguiente proceso. Si estas usando Gutenberg, s\u00f3lo debes pararte sobre  el bloque correspondiente y cuando aparece la cruz haces clic en <em>A\u00f1adir bloque<\/em>. Te despliega una serie de opciones, entonces buscas el elemento que deseas agregar. Luego  haces clic en el lugar desde donde quieres agregar tu elemento. Si se trata de una imagen o un audio, te dar\u00e1 las opciones de arrastrar, subir uno nuevo o eligir un archivo de tu biblioteca. <em>(Subir, Biblioteca de Medios o Insertar desde URL)<\/em> . En el caso de videos debes agregar la URL. <\/p>\n\n\n\n<figure class=\"wp-block-image\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"670\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/imagenes-videos-Nico.-Free-Lance-Web-Developer-1024x670.jpg\" alt=\"Imagenes Videos Nico. Free Lance Web Developer\" class=\"wp-image-3553\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/imagenes-videos-Nico.-Free-Lance-Web-Developer-1024x670.jpg 1024w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/imagenes-videos-Nico.-Free-Lance-Web-Developer-461x302.jpg 461w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/imagenes-videos-Nico.-Free-Lance-Web-Developer-768x503.jpg 768w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/imagenes-videos-Nico.-Free-Lance-Web-Developer.jpg 1083w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/figure>\n\n\n\n<p>Si no usas Gutenberg, WordPress en la parte superior de tu publicaci\u00f3n tambi\u00e9n te brinda la posibilidad de subir tus imagenes u otros archivos.<\/p>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">3. <strong>Consejos \u00fatiles <\/strong><\/h2>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p> En primer lugar,  los objeto se pueden subir directamente desde la biblioteca o desde una publicaci\u00f3n. Sin embargo siempre es conveniente hacerlo directamente desde la biblioteca. Porque si a\u00f1adimos un archivo desde una publicaci\u00f3n y luego la borramos tambi\u00e9n se borraran todos los objetos vinculados a esa publicaci\u00f3n que hayamos subido a la biblioteca.  <\/p>\n\n\n\n<p>En segundo lugar es importante tener presente que podemos editar las Im\u00e1genes desde la Biblioteca de Medios. Si abrimos la imagen y hacemos click en editar podemos realizar modificaciones. Aunque sean b\u00e1sicas, sin duda nos ayudan a prescindir en algunos casos del Photoshop o alg\u00fan programa similar, y de esta forma ahorramos tiempo en la creaci\u00f3n de nuestro contenido.<\/p>\n\n\n\n<p> Ya hablamos de c\u00f3mo optimizar las im\u00e1genes antes de publicarlas, pero s\u00f3lo recordar\u00e9 brevemente lo que all\u00ed expresaba: Debemos agregar t\u00edtulo, Atributo Alt, descripci\u00f3n y leyenda. Lo mismo podemos hacer con los videos y audios. Incluye la palabra clave en cada uno de lo \u00edtems referidos. Usa medios de calidad, comprime, edita y haz de tu objeto multimedia algo original y que no se repita en la web. &nbsp;Estos, entres otros factores, favorecen el posicionamiento de nuestra web en la p\u00e1gina de resultados de un buscador. En consecuencia deben ser considerados y trabajados con especial cuidado. <\/p>\n\n\n\n<p>\n\nSi te interesa ampliar la informaci\u00f3n puedes ver nuestro art\u00edculo sobre <a href=\"https:\/\/nicowebsite.com\/como-usar-imagenes-en-una-pagina-web-tips-para-2019\/\">Sugerencias para usar im\u00e1genes en una pagina web<\/a><\/p>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">4. <strong>C\u00f3mo organizar la Biblioteca de Medios<\/strong><\/h2>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>A todos nos pasa que en poco tiempo, ese espacio se transforma en un deposito de objetos donde guardamos de todo. Y en medio del caos debemos elaborar nuestro contenido y encontrar lo que precisamos deambulando por un laberinto sin fin.   <\/p>\n\n\n\n<p>Para que esa situaci\u00f3n no nos desborde llevando al l\u00edmite el espacio en el servidor, y para que no perdamos tiempo con b\u00fasquedas eternas, tenemos que ordenar la Biblioteca de Medios. <\/p>\n\n\n\n<p> Una forma de eliminar el desorden es evitar la duplicaci\u00f3n de archivos en WordPress. Antes de insertar un archivo en una p\u00e1gina o publicaci\u00f3n, verifica si est\u00e1 en la Biblioteca Multimedia. Si es as\u00ed, ins\u00e9rtalo desde all\u00ed, en lugar de volver a cargarlo desde tu computadora.  <\/p>\n\n\n\n<p>Pero tambi\u00e9n podemos recurrir al repositorio de complementos de WordPress  que tiene una serie de plugins muy buenos para ayudarnos en la organizaci\u00f3n. Sirven para clasificar los archivos multimedia, cambiar el nombre de archivos antiguos, asi como ubicar archivos de medios en carpetas y subcarpetas.<\/p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>FileBird<\/strong><\/h3>\n\n\n\n<figure class=\"wp-block-image\"><img loading=\"lazy\" decoding=\"async\" width=\"943\" height=\"426\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_13-Nico.-Free-Lance-Web-Developer-2.jpg\" alt=\"\" class=\"wp-image-3601\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_13-Nico.-Free-Lance-Web-Developer-2.jpg 943w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_13-Nico.-Free-Lance-Web-Developer-2-580x262.jpg 580w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_13-Nico.-Free-Lance-Web-Developer-2-768x347.jpg 768w\" sizes=\"(max-width: 943px) 100vw, 943px\" \/><\/figure>\n\n\n\n<p>Este complemento funciona como si organizaras los archivos en tu computadora. Se pueden ordenar miles de im\u00e1genes y otros archivos en carpetas y categor\u00edas con la simple acci\u00f3n de arrastrar y soltar. <\/p>\n\n\n\n<p>Con el bot\u00f3n derecho podemos crear, modificar el nombre o eliminar carpetas. Asimismo crea carpetas y subcarpetas con diferentes tipos de archivos. <\/p>\n\n\n\n<p>Facilita much\u00edsimo el trabajo a la hora de tener que elegir los objetos que incluir\u00e1 nuestro contenido. Tiene una versi\u00f3n gratuita y mayores funcionalidades con la versi\u00f3n pro. Aqu\u00ed te dejo un video muy claro sobre como usar dicho complemento.<\/p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Easily Organize<\/strong><\/h3>\n\n\n\n<figure class=\"wp-block-image\"><img loading=\"lazy\" decoding=\"async\" width=\"947\" height=\"450\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_14-Nico.-Free-Lance-Web-Developer-1.jpg\" alt=\"\" class=\"wp-image-3607\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_14-Nico.-Free-Lance-Web-Developer-1.jpg 947w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_14-Nico.-Free-Lance-Web-Developer-1-580x276.jpg 580w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Screenshot_14-Nico.-Free-Lance-Web-Developer-1-768x365.jpg 768w\" sizes=\"(max-width: 947px) 100vw, 947px\" \/><\/figure>\n\n\n\n<p> Se trata de un complemento de WordPress que permite a los usuarios organizar r\u00e1pidamente todas sus p\u00e1ginas, publicaciones y archivos multimedia en carpetas.&nbsp; <\/p>\n\n\n\n<p>Como estamos tratando la Biblioteca de Medios este plugins tambi\u00e9n resulta muy conveniente para nuestros elementos multimedia. A la fecha tiene 8.000 instalaciones activas y una actualizaci\u00f3n reciente (6 d\u00edas), lo que lo convierte en una herramienta fiable. <\/p>\n\n\n\n<p>Mantiene los archivos organizados en carpetas y subcarpetas, incluidas fotos, videos, m\u00fasica, p\u00e1ginas web principales y publicaciones de blogs.&nbsp;Adem\u00e1s se los puede colocar en varias subcarpetas, como las im\u00e1genes que se usan en diferentes p\u00e1ginas.<\/p>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">5. <strong>Controlar el uso del disco<\/strong><\/h2>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Los elementos multimedia que vamos subiendo a la Biblioteca de Medios ocupan espacio en el disco. El espacio en disco en el alojamiento web es muy importante porque si el sitio crece llegar\u00e1 un momento en que llegue al l\u00edmite de su capacidad. &nbsp;<\/p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Disk Usage Sunburst<\/strong><\/h3>\n\n\n\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"611\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/disk-usage-uploads-folder-Nico.-Free-Lance-Web-Developer-1024x611.png\" alt=\"Biblioteca de Medios\" class=\"wp-image-3356\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/disk-usage-uploads-folder-Nico.-Free-Lance-Web-Developer-1024x611.png 1024w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/disk-usage-uploads-folder-Nico.-Free-Lance-Web-Developer-506x302.png 506w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/disk-usage-uploads-folder-Nico.-Free-Lance-Web-Developer-768x458.png 768w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/disk-usage-uploads-folder-Nico.-Free-Lance-Web-Developer.png 1364w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/figure><\/div>\n\n\n\n<p><a href=\"https:\/\/kinsta.com\/es\/blog\/uso-del-disco\/\">En este art\u00edculo del Kinsta<\/a> se\u00f1alan el plugin <a rel=\"noreferrer noopener\" aria-label=\"Disk Usage Sunburst  (abre en una nueva pesta\u00f1a)\" href=\"https:\/\/es.wordpress.org\/plugins\/disk-usage-sunburst\/\" target=\"_blank\">Disk Usage Sunburst <\/a>del equipo RaidBoxes para ver el uso del disco. Se trata de un complemento gratuito a que permite analizar y ver que archivos y medios ocupan m\u00e1s espacio. Ellos recomiendan usarlo para realizar el&nbsp; proceso de verificaci\u00f3n&nbsp; pero no dejarlos instalados ya que enlentece el sitio. <\/p>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">6. Descargar una copia de la Biblioteca de Medios<\/h2>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p> Siempre es conveniente tener un respaldo de nuestro trabajo. Cualquier actividad que realizamos en el sitio como por ejemplo un cambio de hosting o simplemente reordenar nuestros medios puede ocasionar perdidas muy dif\u00edciles de revertir. Para evitar esta situaci\u00f3n debemos tener una copia de seguridad que nos permita mantener nuestros elementos ante cualquier eventualidad. <a rel=\"noreferrer noopener\" aria-label=\"Export Media Library (abre en una nueva pesta\u00f1a)\" href=\"https:\/\/wordpress.org\/plugins\/export-media-library\/\" target=\"_blank\">Export Media Library<\/a> puede ser uno de los plugins aconsejados porque nos permite descargar una copia en formato zip. <\/p>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">7. Recomendaci\u00f3n<\/h2>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Como siempre digo estos son s\u00f3lo sugerencias que deber\u00e1s evaluar de acuerdo a tus necesidades. No olvides que la instalaci\u00f3n de plugins puede afectar el funcionamiento de tu sitio. Por tanto elige cual de ellos resulta imprescindible para tu labor. \u00dasalo y luego desinst\u00e1lalo para evitar problemas de espacio. <\/p>\n\n\n\n<p>Adem\u00e1s puedes buscar m\u00e1s datos sobre la Biblioteca de Medios en este sitio o en otros que te ofrezcan informaci\u00f3n al respecto. El capital de conocimientos que existe en la web es infinito, s\u00f3lo ten presente consultar foros y p\u00e1ginas especializadas. Selecciona bien tu fuente para estar actualizado. Aqu\u00ed te dejo el link de <a rel=\"noreferrer noopener\" aria-label=\"Soporte de WordPress (abre en una nueva pesta\u00f1a)\" href=\"https:\/\/es.wordpress.org\/support\/\" target=\"_blank\">Soporte de WordPress<\/a> para que puedas formular tus consultas. <\/p>\n\n\n\n<p><\/p>\n\n\n\n<p>Imagen: <a href=\"https:\/\/www.freepik.es\/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Freepik (abre en una nueva pesta\u00f1a)\">Freepik<\/a><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>La Biblioteca de Medios de WordPress es el lugar donde almacenamos elementos multimedia para luego agregarlos en nuestro contenido. Es un espacio muy valioso, por eso debemos conocerla bien y mantenerla ordenada. Esto nos ser\u00e1 de gran utilidad cuando el sitio vaya creciendo. El presente art\u00edculo te brinda una gu\u00eda de como subir los diferentes [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 3460,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "_acf_changed": false,
+            "inline_featured_image": false,
+            "footnotes": ""
+        },
+        "categories": [
+            2,
+            4
+        ],
+        "class_list": [
+            "post-3311",
+            "post",
+            "type-post",
+            "status-publish",
+            "format-standard",
+            "has-post-thumbnail",
+            "hentry",
+            "category-diseno-web-y-desarrollo",
+            "category-seo"
+        ],
+        "acf": {
+            "custom-title": "Biblioteca de  | medios | de Wordpress: | el tesoro  | de tu web",
+            "head-img": true,
+            "color-title": "#ffffff",
+            "offset-title": "",
+            "offset-x-title": "35",
+            "poster-style": "white",
+            "resume_txt": "50",
+            "back-type": "imagen",
+            "back-alpha": "1",
+            "mob-feat-img": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-Nico.-Free-Lance-Web-Developer.jpg",
+            "last-post-offset": "left"
+        },
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Biblioteca de medios de Wordpress: el tesoro de tu web - Nico.<\/title>\n<meta name=\"description\" content=\"La Biblioteca de Medios es el lugar donde almacenamos elementos multimedia. Aqu\u00ed tienes una gu\u00eda para subir archivos y organizarla.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Biblioteca de medios de Wordpress: el tesoro de tu web - Nico.\" \/>\n<meta property=\"og:description\" content=\"La Biblioteca de Medios es el lugar donde almacenamos elementos multimedia. Aqu\u00ed tienes una gu\u00eda para subir archivos y organizarla.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/nicolook.webdeveloper\/\" \/>\n<meta property=\"article:published_time\" content=\"2019-07-28T20:35:43+00:00\" \/>\n<meta property=\"article:modified_time\" content=\"2019-08-31T03:48:38+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1920\" \/>\n\t<meta property=\"og:image:height\" content=\"1005\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"author\" content=\"Nicolook Admin 2019\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:label1\" content=\"Escrito por\" \/>\n\t<meta name=\"twitter:data1\" content=\"Nicolook Admin 2019\" \/>\n\t<meta name=\"twitter:label2\" content=\"Tiempo de lectura\" \/>\n\t<meta name=\"twitter:data2\" content=\"8 minutos\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/\",\"url\":\"https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/\",\"name\":\"Biblioteca de medios de Wordpress: el tesoro de tu web - Nico.\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/#primaryimage\"},\"image\":{\"@id\":\"https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/#primaryimage\"},\"thumbnailUrl\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer.jpg\",\"datePublished\":\"2019-07-28T20:35:43+00:00\",\"dateModified\":\"2019-08-31T03:48:38+00:00\",\"author\":{\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1\"},\"description\":\"La Biblioteca de Medios es el lugar donde almacenamos elementos multimedia. Aqu\u00ed tienes una gu\u00eda para subir archivos y organizarla.\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/#primaryimage\",\"url\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer.jpg\",\"contentUrl\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer.jpg\",\"width\":1920,\"height\":1005,\"caption\":\"Biblioteca De Medios\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Biblioteca de medios de WordPress: el tesoro de tu web\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"},{\"@type\":\"Person\",\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1\",\"name\":\"Nicolook Admin 2019\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g\",\"caption\":\"Nicolook Admin 2019\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "yoast_head_json": {
+            "title": "Biblioteca de medios de Wordpress: el tesoro de tu web - Nico.",
+            "description": "La Biblioteca de Medios es el lugar donde almacenamos elementos multimedia. Aqu\u00ed tienes una gu\u00eda para subir archivos y organizarla.",
+            "robots": {
+                "index": "index",
+                "follow": "follow",
+                "max-snippet": "max-snippet:-1",
+                "max-image-preview": "max-image-preview:large",
+                "max-video-preview": "max-video-preview:-1"
+            },
+            "canonical": "https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/",
+            "og_locale": "es_ES",
+            "og_type": "article",
+            "og_title": "Biblioteca de medios de Wordpress: el tesoro de tu web - Nico.",
+            "og_description": "La Biblioteca de Medios es el lugar donde almacenamos elementos multimedia. Aqu\u00ed tienes una gu\u00eda para subir archivos y organizarla.",
+            "og_url": "https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/",
+            "og_site_name": "Nico.",
+            "article_publisher": "https:\/\/www.facebook.com\/nicolook.webdeveloper\/",
+            "article_published_time": "2019-07-28T20:35:43+00:00",
+            "article_modified_time": "2019-08-31T03:48:38+00:00",
+            "og_image": [
+                {
+                    "width": 1920,
+                    "height": 1005,
+                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer.jpg",
+                    "type": "image\/jpeg"
+                }
+            ],
+            "author": "Nicolook Admin 2019",
+            "twitter_card": "summary_large_image",
+            "twitter_misc": {
+                "Escrito por": "Nicolook Admin 2019",
+                "Tiempo de lectura": "8 minutos"
+            },
+            "schema": {
+                "@context": "https:\/\/schema.org",
+                "@graph": [
+                    {
+                        "@type": "WebPage",
+                        "@id": "https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/",
+                        "url": "https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/",
+                        "name": "Biblioteca de medios de Wordpress: el tesoro de tu web - Nico.",
+                        "isPartOf": {
+                            "@id": "https:\/\/nicowebsite.com\/#website"
+                        },
+                        "primaryImageOfPage": {
+                            "@id": "https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/#primaryimage"
+                        },
+                        "image": {
+                            "@id": "https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/#primaryimage"
+                        },
+                        "thumbnailUrl": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer.jpg",
+                        "datePublished": "2019-07-28T20:35:43+00:00",
+                        "dateModified": "2019-08-31T03:48:38+00:00",
+                        "author": {
+                            "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1"
+                        },
+                        "description": "La Biblioteca de Medios es el lugar donde almacenamos elementos multimedia. Aqu\u00ed tienes una gu\u00eda para subir archivos y organizarla.",
+                        "breadcrumb": {
+                            "@id": "https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/#breadcrumb"
+                        },
+                        "inLanguage": "es",
+                        "potentialAction": [
+                            {
+                                "@type": "ReadAction",
+                                "target": [
+                                    "https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "inLanguage": "es",
+                        "@id": "https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/#primaryimage",
+                        "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer.jpg",
+                        "contentUrl": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer.jpg",
+                        "width": 1920,
+                        "height": 1005,
+                        "caption": "Biblioteca De Medios"
+                    },
+                    {
+                        "@type": "BreadcrumbList",
+                        "@id": "https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/#breadcrumb",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Portada",
+                                "item": "https:\/\/nicowebsite.com\/"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "Biblioteca de medios de WordPress: el tesoro de tu web"
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "WebSite",
+                        "@id": "https:\/\/nicowebsite.com\/#website",
+                        "url": "https:\/\/nicowebsite.com\/",
+                        "name": "Nico.",
+                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                        "potentialAction": [
+                            {
+                                "@type": "SearchAction",
+                                "target": {
+                                    "@type": "EntryPoint",
+                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                },
+                                "query-input": {
+                                    "@type": "PropertyValueSpecification",
+                                    "valueRequired": true,
+                                    "valueName": "search_term_string"
+                                }
+                            }
+                        ],
+                        "inLanguage": "es"
+                    },
+                    {
+                        "@type": "Person",
+                        "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1",
+                        "name": "Nicolook Admin 2019",
+                        "image": {
+                            "@type": "ImageObject",
+                            "inLanguage": "es",
+                            "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/image\/",
+                            "url": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g",
+                            "contentUrl": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g",
+                            "caption": "Nicolook Admin 2019"
+                        }
+                    }
+                ]
+            }
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts\/3311"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/comments?post=3311"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 0,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts\/3311\/revisions"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media\/3460"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media?parent=3311"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories?post=3311"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "Nicolook Admin 2019",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/nicowebsite.com\/author\/nicolook-admin-2019\/",
+                    "slug": "nicolook-admin-2019",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g"
+                    },
+                    "yoast_head": null,
+                    "yoast_head_json": null,
+                    "acf": [],
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/1"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "id": 3460,
+                    "date": "2019-07-28T19:04:06",
+                    "slug": "biblioteca-de-medios-side",
+                    "type": "attachment",
+                    "link": "https:\/\/nicowebsite.com\/biblioteca-de-medios-de-wordpress-el-tesoro-de-tu-web\/biblioteca-de-medios-side\/",
+                    "title": {
+                        "rendered": "Biblioteca De Medios"
+                    },
+                    "author": 2,
+                    "featured_media": 0,
+                    "acf": [],
+                    "caption": {
+                        "rendered": "<p>Biblioteca De Medios <\/p>\n"
+                    },
+                    "alt_text": "Biblioteca De Medios",
+                    "media_type": "image",
+                    "mime_type": "image\/jpeg",
+                    "media_details": {
+                        "width": 1920,
+                        "height": 1005,
+                        "file": "2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer.jpg",
+                        "sizes": {
+                            "thumbnail": {
+                                "file": "Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer-150x150.jpg",
+                                "width": 150,
+                                "height": 150,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer-150x150.jpg"
+                            },
+                            "medium": {
+                                "file": "Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer-577x302.jpg",
+                                "width": 577,
+                                "height": 302,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer-577x302.jpg"
+                            },
+                            "medium_large": {
+                                "file": "Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer-768x402.jpg",
+                                "width": 768,
+                                "height": 402,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer-768x402.jpg"
+                            },
+                            "large": {
+                                "file": "Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer-1024x536.jpg",
+                                "width": 1024,
+                                "height": 536,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer-1024x536.jpg"
+                            },
+                            "full": {
+                                "file": "Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer.jpg",
+                                "width": 1920,
+                                "height": 1005,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer.jpg"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/07\/Biblioteca-de-Medios-SIDE-Nico.-Free-Lance-Web-Developer.jpg",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media\/3460"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/2"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/comments?post=3460"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:term": [
+                [
+                    {
+                        "id": 2,
+                        "link": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                        "name": "Dise\u00f1o web y desarrollo",
+                        "slug": "diseno-web-y-desarrollo",
+                        "taxonomy": "category",
+                        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Dise\u00f1o web y desarrollo - Nico. Desarrollador Web &amp; Wordpress Freelance<\/title>\n<meta name=\"description\" content=\"El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Dise\u00f1o web y desarrollo - Nico. Desarrollador Web &amp; Wordpress Freelance\" \/>\n<meta property=\"og:description\" content=\"El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1200\" \/>\n\t<meta property=\"og:image:height\" content=\"800\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\",\"url\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\",\"name\":\"Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"description\":\"El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb\"},\"inLanguage\":\"es\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Dise\u00f1o web y desarrollo\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+                        "yoast_head_json": {
+                            "title": "Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance",
+                            "description": "El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.",
+                            "robots": {
+                                "index": "index",
+                                "follow": "follow",
+                                "max-snippet": "max-snippet:-1",
+                                "max-image-preview": "max-image-preview:large",
+                                "max-video-preview": "max-video-preview:-1"
+                            },
+                            "canonical": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                            "og_locale": "es_ES",
+                            "og_type": "article",
+                            "og_title": "Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance",
+                            "og_description": "El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.",
+                            "og_url": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                            "og_site_name": "Nico.",
+                            "og_image": [
+                                {
+                                    "width": 1200,
+                                    "height": 800,
+                                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg",
+                                    "type": "image\/jpeg"
+                                }
+                            ],
+                            "twitter_card": "summary_large_image",
+                            "schema": {
+                                "@context": "https:\/\/schema.org",
+                                "@graph": [
+                                    {
+                                        "@type": "CollectionPage",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                                        "url": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                                        "name": "Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance",
+                                        "isPartOf": {
+                                            "@id": "https:\/\/nicowebsite.com\/#website"
+                                        },
+                                        "description": "El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.",
+                                        "breadcrumb": {
+                                            "@id": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb"
+                                        },
+                                        "inLanguage": "es"
+                                    },
+                                    {
+                                        "@type": "BreadcrumbList",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb",
+                                        "itemListElement": [
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 1,
+                                                "name": "Portada",
+                                                "item": "https:\/\/nicowebsite.com\/"
+                                            },
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 2,
+                                                "name": "Dise\u00f1o web y desarrollo"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@type": "WebSite",
+                                        "@id": "https:\/\/nicowebsite.com\/#website",
+                                        "url": "https:\/\/nicowebsite.com\/",
+                                        "name": "Nico.",
+                                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                                        "potentialAction": [
+                                            {
+                                                "@type": "SearchAction",
+                                                "target": {
+                                                    "@type": "EntryPoint",
+                                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                                },
+                                                "query-input": {
+                                                    "@type": "PropertyValueSpecification",
+                                                    "valueRequired": true,
+                                                    "valueName": "search_term_string"
+                                                }
+                                            }
+                                        ],
+                                        "inLanguage": "es"
+                                    }
+                                ]
+                            }
+                        },
+                        "acf": [],
+                        "_links": {
+                            "self": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories\/2"
+                                }
+                            ],
+                            "collection": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories"
+                                }
+                            ],
+                            "about": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/taxonomies\/category"
+                                }
+                            ],
+                            "wp:post_type": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts?categories=2"
+                                }
+                            ],
+                            "curies": [
+                                {
+                                    "name": "wp",
+                                    "href": "https:\/\/api.w.org\/{rel}",
+                                    "templated": true
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "link": "https:\/\/nicowebsite.com\/category\/seo\/",
+                        "name": "SEO",
+                        "slug": "seo",
+                        "taxonomy": "category",
+                        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>SEO archivos - Nico. Desarrollador Web &amp; Wordpress Freelance<\/title>\n<meta name=\"description\" content=\"\u00bfCansado de trabajar en tu web y que nadie la vea? Necesitas una buena estrategia SEO. Son buenas pr\u00e1cticas que mejoran nuestra posici\u00f3n en los buscadores.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/category\/seo\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"SEO archivos - Nico. Desarrollador Web &amp; Wordpress Freelance\" \/>\n<meta property=\"og:description\" content=\"\u00bfCansado de trabajar en tu web y que nadie la vea? Necesitas una buena estrategia SEO. Son buenas pr\u00e1cticas que mejoran nuestra posici\u00f3n en los buscadores.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/category\/seo\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1200\" \/>\n\t<meta property=\"og:image:height\" content=\"800\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\/\/nicowebsite.com\/category\/seo\/\",\"url\":\"https:\/\/nicowebsite.com\/category\/seo\/\",\"name\":\"SEO archivos - Nico. Desarrollador Web & Wordpress Freelance\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"description\":\"\u00bfCansado de trabajar en tu web y que nadie la vea? Necesitas una buena estrategia SEO. Son buenas pr\u00e1cticas que mejoran nuestra posici\u00f3n en los buscadores.\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/category\/seo\/#breadcrumb\"},\"inLanguage\":\"es\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/category\/seo\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SEO\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+                        "yoast_head_json": {
+                            "title": "SEO archivos - Nico. Desarrollador Web & Wordpress Freelance",
+                            "description": "\u00bfCansado de trabajar en tu web y que nadie la vea? Necesitas una buena estrategia SEO. Son buenas pr\u00e1cticas que mejoran nuestra posici\u00f3n en los buscadores.",
+                            "robots": {
+                                "index": "index",
+                                "follow": "follow",
+                                "max-snippet": "max-snippet:-1",
+                                "max-image-preview": "max-image-preview:large",
+                                "max-video-preview": "max-video-preview:-1"
+                            },
+                            "canonical": "https:\/\/nicowebsite.com\/category\/seo\/",
+                            "og_locale": "es_ES",
+                            "og_type": "article",
+                            "og_title": "SEO archivos - Nico. Desarrollador Web & Wordpress Freelance",
+                            "og_description": "\u00bfCansado de trabajar en tu web y que nadie la vea? Necesitas una buena estrategia SEO. Son buenas pr\u00e1cticas que mejoran nuestra posici\u00f3n en los buscadores.",
+                            "og_url": "https:\/\/nicowebsite.com\/category\/seo\/",
+                            "og_site_name": "Nico.",
+                            "og_image": [
+                                {
+                                    "width": 1200,
+                                    "height": 800,
+                                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg",
+                                    "type": "image\/jpeg"
+                                }
+                            ],
+                            "twitter_card": "summary_large_image",
+                            "schema": {
+                                "@context": "https:\/\/schema.org",
+                                "@graph": [
+                                    {
+                                        "@type": "CollectionPage",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/seo\/",
+                                        "url": "https:\/\/nicowebsite.com\/category\/seo\/",
+                                        "name": "SEO archivos - Nico. Desarrollador Web & Wordpress Freelance",
+                                        "isPartOf": {
+                                            "@id": "https:\/\/nicowebsite.com\/#website"
+                                        },
+                                        "description": "\u00bfCansado de trabajar en tu web y que nadie la vea? Necesitas una buena estrategia SEO. Son buenas pr\u00e1cticas que mejoran nuestra posici\u00f3n en los buscadores.",
+                                        "breadcrumb": {
+                                            "@id": "https:\/\/nicowebsite.com\/category\/seo\/#breadcrumb"
+                                        },
+                                        "inLanguage": "es"
+                                    },
+                                    {
+                                        "@type": "BreadcrumbList",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/seo\/#breadcrumb",
+                                        "itemListElement": [
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 1,
+                                                "name": "Portada",
+                                                "item": "https:\/\/nicowebsite.com\/"
+                                            },
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 2,
+                                                "name": "SEO"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@type": "WebSite",
+                                        "@id": "https:\/\/nicowebsite.com\/#website",
+                                        "url": "https:\/\/nicowebsite.com\/",
+                                        "name": "Nico.",
+                                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                                        "potentialAction": [
+                                            {
+                                                "@type": "SearchAction",
+                                                "target": {
+                                                    "@type": "EntryPoint",
+                                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                                },
+                                                "query-input": {
+                                                    "@type": "PropertyValueSpecification",
+                                                    "valueRequired": true,
+                                                    "valueName": "search_term_string"
+                                                }
+                                            }
+                                        ],
+                                        "inLanguage": "es"
+                                    }
+                                ]
+                            }
+                        },
+                        "acf": [],
+                        "_links": {
+                            "self": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories\/4"
+                                }
+                            ],
+                            "collection": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories"
+                                }
+                            ],
+                            "about": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/taxonomies\/category"
+                                }
+                            ],
+                            "wp:post_type": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts?categories=4"
+                                }
+                            ],
+                            "curies": [
+                                {
+                                    "name": "wp",
+                                    "href": "https:\/\/api.w.org\/{rel}",
+                                    "templated": true
+                                }
+                            ]
+                        }
+                    }
+                ]
+            ]
+        }
+    }
+]

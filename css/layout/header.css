@@ -1,0 +1,46 @@
+header {
+   @apply 
+      relative flex items-center
+      xg:h-[10rem]
+      py-2 xg:py-0
+      z-[99] transition-all;
+}
+
+header .row {
+   @apply w-full items-center;
+}
+
+#menu {
+  @apply 
+    fixed xg:relative w-100% top-0 right-0 h-screen xg:h-auto
+    flex flex-col xg:flex-row  gap-2
+    ctr-px py-2 xg:p-0 
+    bg-neutral-700 xg:bg-transparent
+    translate-x-[100%]	xg:translate-x-[0%]
+    z-[999] transition-all ease-in-out duration-[.4s];
+}
+
+#menu nav {
+  @apply 
+  relative flex flex-col xg:flex-row justify-start xg:justify-between gap-2
+  w-full top-5 xg:top-0;
+}
+
+header a,
+.m-item {
+  @apply text-white xg:text-black;
+}
+ 
+ #menu .m-item{
+   @apply text-h1 xg:text-body cursor-pointer;
+ }
+ 
+ .menu-in #menu{
+    @apply translate-x-[0%];
+ }
+
+ #menu .brand path{
+  fill: white;
+ }
+
+

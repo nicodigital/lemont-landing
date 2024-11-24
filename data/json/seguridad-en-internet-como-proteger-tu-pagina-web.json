@@ -1,0 +1,471 @@
+[
+    {
+        "id": 2282,
+        "date": "2019-04-22T16:00:39",
+        "date_gmt": "2019-04-22T19:00:39",
+        "guid": {
+            "rendered": "https:\/\/nicowebsite.com\/?p=2282"
+        },
+        "modified": "2019-04-22T17:37:18",
+        "modified_gmt": "2019-04-22T20:37:18",
+        "slug": "seguridad-en-internet-como-proteger-tu-pagina-web",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/",
+        "title": {
+            "rendered": "Seguridad en Internet: C\u00f3mo proteger tu p\u00e1gina web"
+        },
+        "content": {
+            "rendered": "\n<p>La Seguridad en Internet es m\u00e1s necesaria ahora que nunca, debido al aumento significativo de los ataques a sitios web que crece cada a\u00f1o. Seg\u00fan la revista Security, en promedio, cada 39 segundos un hacker efect\u00faa un ataque. <\/p>\n\n\n\n<p>Esto demuestra lo crucial que es fortalecer la seguridad de tu sitio y protegerlo de todas las amenazas existentes y potenciales. As\u00ed que veamos algunos consejos de seguridad.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>7 Consejos de seguridad en Internet para proteger tu sitio web<\/strong><\/h2>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>1. Instalar el Web Application Firewall<\/strong><\/h3>\n\n\n\n<p>Si deseas aumentar la seguridad en Internet para tu sitio web y salvarlo de posibles amenazas y virus, la instalaci\u00f3n de un Firewall, o cortafuegos de aplicaciones web, deber\u00eda ser tu prioridad n\u00famero uno.<\/p>\n\n\n\n<p>&nbsp;La forma en que\nfunciona un cortafuegos de aplicaciones web es evaluando el tr\u00e1fico de su sitio\na nivel geogr\u00e1fico y de comportamiento. Luego tambi\u00e9n examina la informaci\u00f3n\nsolicitada por el visitante. <\/p>\n\n\n\n<p>As\u00ed que, basado en estos y otros criterios, el firewall s\u00f3lo\npermite el tr\u00e1fico leg\u00edtimo y bloquea el tr\u00e1fico malicioso o sospechoso. <\/p>\n\n\n\n<p>Hay muchos proveedores de cortafuegos de aplicaciones web. Personalmente cuando trabajo con sitios que no poseen un gestor de contenidos con WordPress, &nbsp;suelo implementar <strong>Cloudflare.<\/strong> <\/p>\n\n\n\n<p>Se trata de un servicio CDN (<em>cloud delivery network<\/em>), que adem\u00e1s de aumentar la velocidad de carga y estabilidad de nuestra web, tambi\u00e9n posee un firewall propio. <\/p>\n\n\n\n<p>Pero, en caso de trabajar con un sitio web con un gestor de contenidos WordPress, vamos a necesitar del aporte de un plugin de seguridad que nos proporcione un firewall actualizado.<\/p>\n\n\n\n<p>Porque estamos\ntrabajando con un sistema que, si bien posee una gran comunidad de\ndesarrolladores trabajando con \u00e9l, tambi\u00e9n existe la parte antag\u00f3nica, que\ntrabaja duro y a diario para da\u00f1ar los sitios desarrollados con este fant\u00e1stico\nCMS. <\/p>\n\n\n\n<p>Para este caso suelo recomendar Wordfence, pero existen otros plugins muy buenos que tambi\u00e9n pueden reforzar la seguridad en Internet.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>2. Migrar a HTTPS<\/strong><\/h3>\n\n\n\n<p>Hyper Text Transfer Protocol Secure (HTTPS) es altamente\nrecomendado. Especialmente si realizas negocios en l\u00ednea que requieren que los\nclientes hagan transacciones en el sitio. <\/p>\n\n\n\n<p>Esto se debe a que los hackers y secuestradores pueden\ndeslizarse en la transacci\u00f3n y monitorear el proceso. De esta forma, es\nprobable que obtengan datos altamente sensibles, como n\u00fameros de cuenta o datos\nde tarjetas de cr\u00e9dito.<\/p>\n\n\n\n<p>Para evitar esto debemos implementar un certificado SSL. &nbsp;Aprovechando las capas de cifrado como TLS (Transport Layer Security) y Secure Sockets Layer (SSL), este encriptar\u00e1 todo el proceso de transacci\u00f3n. Entonces nadie podr\u00e1 infiltrarse en tus transacciones y robar datos o cerrar el proceso. <\/p>\n\n\n\n<p>Cualquier p\u00e1gina web puede implementar este certificado, e incluso es aconsejable porque Google da prioridad en los resultados de b\u00fasqueda a aquellos sitios que lo tengan. Pero en un sitio web eCommerse poseer un certificado SSL es imprescindible, para proteger las transacciones que requieren la comercializaci\u00f3n de sus productos. <\/p>\n\n\n\n<p>Hasta hace un par de a\u00f1os instalar un certificado SSL significaba un gasto, ya que para adquirirlo deb\u00edas comprarlo. Si bien existen diferentes tipos de certificados SSL, hoy en d\u00eda gracias a tecnolog\u00edas como <strong>Let\u00b4s Encrypt<\/strong> podemos instalar un certificado gratuito. Estos pueden cumplir al menos con los requerimientos b\u00e1sicos y as\u00ed proteger el tr\u00e1nsito de informaci\u00f3n privada de los usuarios en nuestro sitio web.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>3. Utilizar contrase\u00f1as seguras<\/strong><\/h3>\n\n\n\n<p>Aunque este consejo es sencillo de aplicar, se siguen utilizando contrase\u00f1as muy vulnerables que pueden verse comprometidas en pocos minutos. Muchas personas usan las palabras del diccionario para ataques de Fuerza Bruta, como sus contrase\u00f1as. Esto es muy peligroso debido a los ataques donde la contrase\u00f1a se debilita con tentativas m\u00faltiples de conexi\u00f3n. En criptograf\u00eda, se denomina ataque de fuerza bruta a la forma de recuperar una clave probando todas las combinaciones posibles hasta encontrar la correcta.<\/p>\n\n\n\n<figure class=\"wp-block-image\"><img decoding=\"async\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Seguridad-en-Internet-C\u00f3mo-proteger-su-p\u00e1gina-web-2-Nico.-Free-Lance-Web-Developer-6.svg\" alt=\"Seguridad En Internet C\u00f3mo Proteger Su P\u00e1gina Web 2\" class=\"wp-image-2432\"\/><\/figure>\n\n\n\n<p>Por lo tanto, aseg\u00farate de tener una contrase\u00f1a extremadamente fuerte para el back-end de su sitio web, de forma que no pueda ser f\u00e1cilmente descifrada. Aqu\u00ed hay algunas practicas que es importante tener en cuenta al configurar la contrase\u00f1a:<\/p>\n\n\n\n<ul class=\"wp-block-list\"><li>La contrase\u00f1a debe tener m\u00e1s de ocho caracteres<\/li><\/ul>\n\n\n\n<ul class=\"wp-block-list\"><li>No considerar las palabras del diccionario para ataques de Fuerza Bruta<\/li><\/ul>\n\n\n\n<ul class=\"wp-block-list\"><li>Combinar letras may\u00fasculas y min\u00fasculas, cifras y caracteres especiales<\/li><\/ul>\n\n\n\n<ul class=\"wp-block-list\"><li>Evitar el uso de palabras relacionadas con informaci\u00f3n personal<\/li><\/ul>\n\n\n\n<ul class=\"wp-block-list\"><li>Cambiarla periodicamente<\/li><\/ul>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>S\u00f3lo se tarda unos segundos o minutos como m\u00e1ximo en descifrar una contrase\u00f1a mal creada, as\u00ed que aseg\u00farate de usar los puntos mencionados anteriormente para evitar que tu seguridad en Internet se vea comprometida.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>4. Validar los formularios<\/strong><\/h3>\n\n\n\n<p>En todo sitio web tendremos al menos un formulario. Esta\nherramienta es una excelente puerta de entrada para los\nhackers si no ponemos reglas estrictas. Debemos solicitar informaci\u00f3n en forma\nadecuada para evitar &nbsp;que por esta v\u00eda se\ncuelen los hackers, malwares o cualquier tipo de robots.<\/p>\n\n\n\n<p>Para lograr esto necesitamos implementar una serie de\nvalidaciones en nuestros formularios. <\/p>\n\n\n\n<p>Un ejemplo de esto ser\u00eda: que a un campo de email no se\npueda enviar nada sin un <strong>@<\/strong> o una\nextensi\u00f3n <strong>.com<\/strong> o <strong>.algo<\/strong>. &nbsp;<\/p>\n\n\n\n<p>Otra forma podr\u00eda ser: que en un campo en el cual tenemos\nque colocar un tel\u00e9fono, comprobemos que por ese campo no vienen caracteres que\nno sean num\u00e9ricos. <\/p>\n\n\n\n<p>Existen diferentes tipos de validaciones, algunas del lado del servidor y otras del cliente (navegador web). A veces s\u00f3lo se realizan validaciones del lado del cliente (Javascript), pero puede suceder muy f\u00e1cilmente que un hacker o robot desactive el Javascript del navegador. Entonces el formulario quedar\u00eda vulnerable y pronto para ser utilizado con malas intenciones.<\/p>\n\n\n\n<p>En mi caso las validaciones correspondientes al servidor las hago con PHP, pero a su vez tambi\u00e9n me gusta tener una segunda capa de validaci\u00f3n del lado del cliente con Javascript.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\">&nbsp;<strong>5. Usar herramientas de seguridad en Internet<\/strong><\/h3>\n\n\n\n<p>Adem\u00e1s de seguir los consejos mencionados anteriormente,\naseg\u00farate de aprovechar algunas herramientas de seguridad para fortalecer a\u00fan\nm\u00e1s la protecci\u00f3n de tu sitio web en Internet. Aqu\u00ed hay algunas herramientas\ngratuitas que vale la pena investigar:<\/p>\n\n\n\n<ul class=\"wp-block-list\"><li>Netsparker: Excelente herramienta para comprobar la inyecci\u00f3n SQL<\/li><\/ul>\n\n\n\n<ul class=\"wp-block-list\"><li>OpenVAS: Conocido como el esc\u00e1ner de seguridad m\u00e1s avanzado que analiza m\u00e1s de 25.000 vulnerabilidades.<\/li><\/ul>\n\n\n\n<ul class=\"wp-block-list\"><li>Inspector de Webs: Analiza tu sitio web y obtiene un informe que incluye malware, phishing, lista negra, gusanos, troyanos, puertas traseras, conexiones sospechosas y varias otras amenazas.<\/li><\/ul>\n\n\n\n<p>Hay muchas m\u00e1s herramientas de seguridad de sitios web\ndisponibles. Incluso en versiones Premium. Realiza una b\u00fasqueda r\u00e1pida para\ntener una idea de cu\u00e1l necesitas.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>6. Proteger el sitio web de la\ninyecci\u00f3n SQL<\/strong><\/h3>\n\n\n\n<p>Los hackers pueden manipular su base de datos utilizando\npar\u00e1metros colocados en la URL y as\u00ed obtener acceso a su sitio web. Esto es lo\nque se llama <strong>ataque de inyecci\u00f3n SQL<\/strong>\ny suele ocurrir cuando se utiliza un <strong>Transact\nSQL<\/strong> est\u00e1ndar. Porque un hacker puede escribir f\u00e1cilmente un c\u00f3digo\nmalicioso en su consulta y obtener acceso a su informaci\u00f3n y datos. <\/p>\n\n\n\n<p>As\u00ed es como se ve una consulta est\u00e1ndar;<\/p>\n\n\n\n<p><em>\u201cSELECT * FROM table\nWHERE column &#8211; \u2018 \u201c + parameter + \u201c \u2018<\/em> ; \u201c<\/p>\n\n\n\n<p>Para evitar que un hacker utilice nuestras consultas a base\nde datos es necesario parametrizarla para impedir que se a\u00f1ada una consulta al\nfinal de esta declaraci\u00f3n. As\u00ed es como se ver\u00e1 su consulta final:<\/p>\n\n\n\n<p><em>$stmt = $pdo-&gt;prepare(\u2018SELECT * FROM table WHERE column = :value\u2019);\n$stmt-&gt;execute(array(\u2018value\u2019 =&gt; $parameter));<\/em><\/p>\n\n\n\n<p>De esta forma no s\u00f3lo reforzar\u00e1s tu seguridad en Internet,\nsino que tambi\u00e9n proteger\u00e1s&nbsp; tu sitio web\ncontra el tipo de ataque m\u00e1s com\u00fan.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>7. Reforzar seguridad con .HTACCESS<\/strong><\/h3>\n\n\n\n<p>Una \u00faltima medida, pero de gran peso es editar nuestro\narchivo <strong>.htaccess<\/strong>. <\/p>\n\n\n\n<p>Este es un archivo ubicado en la ra\u00edz de nuestro servidor,\nen el cual colocaremos algunas directivas que le dir\u00e1n al servidor como\ncomportarse ante diferentes situaciones.<\/p>\n\n\n\n<p>Editar este archivo requiere de conocimiento t\u00e9cnicos\navanzados y no es aconsejable colocar cualquier c\u00f3digo que encontremos por ah\u00ed,\nporque podr\u00edamos generar da\u00f1os irreparables.<\/p>\n\n\n\n<p>Pero en manos de un profesional puede ser una gran\nherramienta. Como podr\u00e1s apreciar en este art\u00edculo de <a href=\"http:\/\/www.jpereira.net\/web\/un-poco-de-seguridad-con-htaccess\">DIGITAL HERTIAGE<\/a> donde <strong>J.Pereyra<\/strong> nos explica en detalle que instrucciones deber\u00edamos\nagregar para reforzar la seguridad de nuestro sitio web.<\/p>\n\n\n\n<p><strong>Consejo sano<\/strong><strong>:<\/strong> Siempre haz un\nrespaldo de este archivo antes de tocarlo.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Palabras finales<\/strong><\/h2>\n\n\n\n<p>Tu sitio web es uno de los activos m\u00e1s valiosos del negocio, no dejes que los hackers se apoderen de tus datos y los de tus clientes. Aseg\u00farate de trabajar en los consejos mencionados anteriormente y estar\u00e1s m\u00e1s protegido.<\/p>\n\n\n\n<p>Im\u00e1genes: <a rel=\"noreferrer noopener\" href=\"https:\/\/www.freepik.es\/\" target=\"_blank\">Freepik.es,<\/a> <br><br><\/p>\n\n\n\n<p><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>La Seguridad en Internet es m\u00e1s necesaria ahora que nunca, debido al aumento significativo de los ataques a sitios web que crece cada a\u00f1o. Seg\u00fan la revista Security, en promedio, cada 39 segundos un hacker efect\u00faa un ataque. Esto demuestra lo crucial que es fortalecer la seguridad de tu sitio y protegerlo de todas las [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 2476,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "_acf_changed": false,
+            "inline_featured_image": false,
+            "footnotes": ""
+        },
+        "categories": [
+            2
+        ],
+        "class_list": [
+            "post-2282",
+            "post",
+            "type-post",
+            "status-publish",
+            "format-standard",
+            "has-post-thumbnail",
+            "hentry",
+            "category-diseno-web-y-desarrollo"
+        ],
+        "acf": {
+            "custom-title": "Seguridad | en Internet: | C\u00f3mo proteger | su p\u00e1gina web",
+            "head-img": true,
+            "color-title": "#000000",
+            "offset-title": "",
+            "poster-style": "black",
+            "resume_txt": "50",
+            "back-type": "imagen",
+            "back-alpha": "1",
+            "mob-feat-img": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Seguridad-en-Internet-C\u00f3mo-proteger-su-p\u00e1gina-web-alt-Nico.-Free-Lance-Web-Developer.jpg",
+            "last-post-offset": "left",
+            "offset-x-title": "0"
+        },
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Seguridad en Internet: C\u00f3mo proteger tu p\u00e1gina web - Nico.<\/title>\n<meta name=\"description\" content=\"La Seguridad en Internet es muy necesaria debido al aumento de los ataques que crece cada a\u00f1o. Mira 7 consejos para proteger tu web.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Seguridad en Internet: C\u00f3mo proteger tu p\u00e1gina web - Nico.\" \/>\n<meta property=\"og:description\" content=\"La Seguridad en Internet es muy necesaria debido al aumento de los ataques que crece cada a\u00f1o. Mira 7 consejos para proteger tu web.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/nicolook.webdeveloper\/\" \/>\n<meta property=\"article:published_time\" content=\"2019-04-22T19:00:39+00:00\" \/>\n<meta property=\"article:modified_time\" content=\"2019-04-22T20:37:18+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Seguridad-en-Internet-C\u00f3mo-proteger-su-p\u00e1gina-web-alt-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1920\" \/>\n\t<meta property=\"og:image:height\" content=\"1005\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"author\" content=\"Nicolook Admin 2019\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:label1\" content=\"Escrito por\" \/>\n\t<meta name=\"twitter:data1\" content=\"Nicolook Admin 2019\" \/>\n\t<meta name=\"twitter:label2\" content=\"Tiempo de lectura\" \/>\n\t<meta name=\"twitter:data2\" content=\"7 minutos\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/\",\"url\":\"https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/\",\"name\":\"Seguridad en Internet: C\u00f3mo proteger tu p\u00e1gina web - Nico.\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/#primaryimage\"},\"image\":{\"@id\":\"https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/#primaryimage\"},\"thumbnailUrl\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Seguridad-en-Internet-C\u00f3mo-proteger-su-p\u00e1gina-web-Nico.-Free-Lance-Web-Developer.svg\",\"datePublished\":\"2019-04-22T19:00:39+00:00\",\"dateModified\":\"2019-04-22T20:37:18+00:00\",\"author\":{\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1\"},\"description\":\"La Seguridad en Internet es muy necesaria debido al aumento de los ataques que crece cada a\u00f1o. Mira 7 consejos para proteger tu web.\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/#primaryimage\",\"url\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Seguridad-en-Internet-C\u00f3mo-proteger-su-p\u00e1gina-web-Nico.-Free-Lance-Web-Developer.svg\",\"contentUrl\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Seguridad-en-Internet-C\u00f3mo-proteger-su-p\u00e1gina-web-Nico.-Free-Lance-Web-Developer.svg\",\"caption\":\"Seguridad En Internet C\u00f3mo Proteger Su P\u00e1gina Web\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Seguridad en Internet: C\u00f3mo proteger tu p\u00e1gina web\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"},{\"@type\":\"Person\",\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1\",\"name\":\"Nicolook Admin 2019\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g\",\"caption\":\"Nicolook Admin 2019\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "yoast_head_json": {
+            "title": "Seguridad en Internet: C\u00f3mo proteger tu p\u00e1gina web - Nico.",
+            "description": "La Seguridad en Internet es muy necesaria debido al aumento de los ataques que crece cada a\u00f1o. Mira 7 consejos para proteger tu web.",
+            "robots": {
+                "index": "index",
+                "follow": "follow",
+                "max-snippet": "max-snippet:-1",
+                "max-image-preview": "max-image-preview:large",
+                "max-video-preview": "max-video-preview:-1"
+            },
+            "canonical": "https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/",
+            "og_locale": "es_ES",
+            "og_type": "article",
+            "og_title": "Seguridad en Internet: C\u00f3mo proteger tu p\u00e1gina web - Nico.",
+            "og_description": "La Seguridad en Internet es muy necesaria debido al aumento de los ataques que crece cada a\u00f1o. Mira 7 consejos para proteger tu web.",
+            "og_url": "https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/",
+            "og_site_name": "Nico.",
+            "article_publisher": "https:\/\/www.facebook.com\/nicolook.webdeveloper\/",
+            "article_published_time": "2019-04-22T19:00:39+00:00",
+            "article_modified_time": "2019-04-22T20:37:18+00:00",
+            "og_image": [
+                {
+                    "width": 1920,
+                    "height": 1005,
+                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Seguridad-en-Internet-C\u00f3mo-proteger-su-p\u00e1gina-web-alt-Nico.-Free-Lance-Web-Developer.jpg",
+                    "type": "image\/jpeg"
+                }
+            ],
+            "author": "Nicolook Admin 2019",
+            "twitter_card": "summary_large_image",
+            "twitter_misc": {
+                "Escrito por": "Nicolook Admin 2019",
+                "Tiempo de lectura": "7 minutos"
+            },
+            "schema": {
+                "@context": "https:\/\/schema.org",
+                "@graph": [
+                    {
+                        "@type": "WebPage",
+                        "@id": "https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/",
+                        "url": "https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/",
+                        "name": "Seguridad en Internet: C\u00f3mo proteger tu p\u00e1gina web - Nico.",
+                        "isPartOf": {
+                            "@id": "https:\/\/nicowebsite.com\/#website"
+                        },
+                        "primaryImageOfPage": {
+                            "@id": "https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/#primaryimage"
+                        },
+                        "image": {
+                            "@id": "https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/#primaryimage"
+                        },
+                        "thumbnailUrl": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Seguridad-en-Internet-C\u00f3mo-proteger-su-p\u00e1gina-web-Nico.-Free-Lance-Web-Developer.svg",
+                        "datePublished": "2019-04-22T19:00:39+00:00",
+                        "dateModified": "2019-04-22T20:37:18+00:00",
+                        "author": {
+                            "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1"
+                        },
+                        "description": "La Seguridad en Internet es muy necesaria debido al aumento de los ataques que crece cada a\u00f1o. Mira 7 consejos para proteger tu web.",
+                        "breadcrumb": {
+                            "@id": "https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/#breadcrumb"
+                        },
+                        "inLanguage": "es",
+                        "potentialAction": [
+                            {
+                                "@type": "ReadAction",
+                                "target": [
+                                    "https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "inLanguage": "es",
+                        "@id": "https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/#primaryimage",
+                        "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Seguridad-en-Internet-C\u00f3mo-proteger-su-p\u00e1gina-web-Nico.-Free-Lance-Web-Developer.svg",
+                        "contentUrl": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Seguridad-en-Internet-C\u00f3mo-proteger-su-p\u00e1gina-web-Nico.-Free-Lance-Web-Developer.svg",
+                        "caption": "Seguridad En Internet C\u00f3mo Proteger Su P\u00e1gina Web"
+                    },
+                    {
+                        "@type": "BreadcrumbList",
+                        "@id": "https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/#breadcrumb",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Portada",
+                                "item": "https:\/\/nicowebsite.com\/"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "Seguridad en Internet: C\u00f3mo proteger tu p\u00e1gina web"
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "WebSite",
+                        "@id": "https:\/\/nicowebsite.com\/#website",
+                        "url": "https:\/\/nicowebsite.com\/",
+                        "name": "Nico.",
+                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                        "potentialAction": [
+                            {
+                                "@type": "SearchAction",
+                                "target": {
+                                    "@type": "EntryPoint",
+                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                },
+                                "query-input": {
+                                    "@type": "PropertyValueSpecification",
+                                    "valueRequired": true,
+                                    "valueName": "search_term_string"
+                                }
+                            }
+                        ],
+                        "inLanguage": "es"
+                    },
+                    {
+                        "@type": "Person",
+                        "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1",
+                        "name": "Nicolook Admin 2019",
+                        "image": {
+                            "@type": "ImageObject",
+                            "inLanguage": "es",
+                            "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/image\/",
+                            "url": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g",
+                            "contentUrl": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g",
+                            "caption": "Nicolook Admin 2019"
+                        }
+                    }
+                ]
+            }
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts\/2282"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/comments?post=2282"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 0,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts\/2282\/revisions"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media\/2476"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media?parent=2282"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories?post=2282"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "Nicolook Admin 2019",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/nicowebsite.com\/author\/nicolook-admin-2019\/",
+                    "slug": "nicolook-admin-2019",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g"
+                    },
+                    "yoast_head": null,
+                    "yoast_head_json": null,
+                    "acf": [],
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/1"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "id": 2476,
+                    "date": "2019-04-22T17:31:18",
+                    "slug": "seguridad-en-internet-como-proteger-su-pagina-web",
+                    "type": "attachment",
+                    "link": "https:\/\/nicowebsite.com\/seguridad-en-internet-como-proteger-tu-pagina-web\/seguridad-en-internet-como-proteger-su-pagina-web\/",
+                    "title": {
+                        "rendered": "Seguridad En Internet C\u00f3mo Proteger Su P\u00e1gina Web"
+                    },
+                    "author": 2,
+                    "featured_media": 0,
+                    "acf": [],
+                    "caption": {
+                        "rendered": "<p>Seguridad En Internet C\u00f3mo Proteger Su P\u00e1gina Web<\/p>\n"
+                    },
+                    "alt_text": "Seguridad En Internet C\u00f3mo Proteger Su P\u00e1gina Web",
+                    "media_type": "image",
+                    "mime_type": "image\/svg+xml",
+                    "media_details": [],
+                    "source_url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Seguridad-en-Internet-C\u00f3mo-proteger-su-p\u00e1gina-web-Nico.-Free-Lance-Web-Developer.svg",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media\/2476"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/2"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/comments?post=2476"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:term": [
+                [
+                    {
+                        "id": 2,
+                        "link": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                        "name": "Dise\u00f1o web y desarrollo",
+                        "slug": "diseno-web-y-desarrollo",
+                        "taxonomy": "category",
+                        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Dise\u00f1o web y desarrollo - Nico. Desarrollador Web &amp; Wordpress Freelance<\/title>\n<meta name=\"description\" content=\"El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Dise\u00f1o web y desarrollo - Nico. Desarrollador Web &amp; Wordpress Freelance\" \/>\n<meta property=\"og:description\" content=\"El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1200\" \/>\n\t<meta property=\"og:image:height\" content=\"800\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\",\"url\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\",\"name\":\"Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"description\":\"El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb\"},\"inLanguage\":\"es\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Dise\u00f1o web y desarrollo\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+                        "yoast_head_json": {
+                            "title": "Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance",
+                            "description": "El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.",
+                            "robots": {
+                                "index": "index",
+                                "follow": "follow",
+                                "max-snippet": "max-snippet:-1",
+                                "max-image-preview": "max-image-preview:large",
+                                "max-video-preview": "max-video-preview:-1"
+                            },
+                            "canonical": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                            "og_locale": "es_ES",
+                            "og_type": "article",
+                            "og_title": "Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance",
+                            "og_description": "El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.",
+                            "og_url": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                            "og_site_name": "Nico.",
+                            "og_image": [
+                                {
+                                    "width": 1200,
+                                    "height": 800,
+                                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg",
+                                    "type": "image\/jpeg"
+                                }
+                            ],
+                            "twitter_card": "summary_large_image",
+                            "schema": {
+                                "@context": "https:\/\/schema.org",
+                                "@graph": [
+                                    {
+                                        "@type": "CollectionPage",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                                        "url": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                                        "name": "Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance",
+                                        "isPartOf": {
+                                            "@id": "https:\/\/nicowebsite.com\/#website"
+                                        },
+                                        "description": "El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.",
+                                        "breadcrumb": {
+                                            "@id": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb"
+                                        },
+                                        "inLanguage": "es"
+                                    },
+                                    {
+                                        "@type": "BreadcrumbList",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb",
+                                        "itemListElement": [
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 1,
+                                                "name": "Portada",
+                                                "item": "https:\/\/nicowebsite.com\/"
+                                            },
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 2,
+                                                "name": "Dise\u00f1o web y desarrollo"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@type": "WebSite",
+                                        "@id": "https:\/\/nicowebsite.com\/#website",
+                                        "url": "https:\/\/nicowebsite.com\/",
+                                        "name": "Nico.",
+                                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                                        "potentialAction": [
+                                            {
+                                                "@type": "SearchAction",
+                                                "target": {
+                                                    "@type": "EntryPoint",
+                                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                                },
+                                                "query-input": {
+                                                    "@type": "PropertyValueSpecification",
+                                                    "valueRequired": true,
+                                                    "valueName": "search_term_string"
+                                                }
+                                            }
+                                        ],
+                                        "inLanguage": "es"
+                                    }
+                                ]
+                            }
+                        },
+                        "acf": [],
+                        "_links": {
+                            "self": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories\/2"
+                                }
+                            ],
+                            "collection": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories"
+                                }
+                            ],
+                            "about": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/taxonomies\/category"
+                                }
+                            ],
+                            "wp:post_type": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts?categories=2"
+                                }
+                            ],
+                            "curies": [
+                                {
+                                    "name": "wp",
+                                    "href": "https:\/\/api.w.org\/{rel}",
+                                    "templated": true
+                                }
+                            ]
+                        }
+                    }
+                ]
+            ]
+        }
+    }
+]

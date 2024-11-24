@@ -1,0 +1,11 @@
+.tab-link{
+  @apply cursor-pointer;
+}
+
+.tab-content{
+  @apply hidden;
+}
+
+.tab-content.active{
+  @apply block;
+}

@@ -1,0 +1,52 @@
+:root{
+    --whatsapp-width: 8rem;
+    --whatsapp-height: 8rem;
+    --whatsapp-bottom: 2.5rem;
+    --whatsapp-right: 1.5rem;
+    --whatsapp-icon-padding:0;
+    --whatsapp-icon-font-size:4.3rem;
+    --whatsapp-icon-right:14%;
+}
+
+#whatsapp {
+    @apply fixed flex justify-center items-center z-[999] rounded-full bg-green;
+    width: var(--whatsapp-width);
+    height: var(--whatsapp-height);
+    bottom: var(--whatsapp-bottom);
+    right: var(--whatsapp-right);
+    padding: var(--whatsapp-icon-padding);
+    border: 2px solid theme(colors.green);
+
+    span{
+        @apply mr-4;
+    }
+
+    svg{
+        @apply w-[4rem] h-[4rem];
+    }
+
+    /* &:hover {
+      background-color: var(--color-2);
+      border-color: var(--color-2);
+    } */
+
+}
+
+/*//////////////////////////////////////////////////////////*/
+/*///////////////////////// 1064px /////////////////////////*/
+/*//////////////////////////////////////////////////////////*/
+
+@media( width >= 1024px) {
+
+    :root{
+        --whatsapp-width: auto;
+        --whatsapp-height: auto;
+        --whatsapp-bottom: 2.5rem;
+        --whatsapp-right: 4.5rem;
+        --whatsapp-icon-width:13%;
+        --whatsapp-icon-padding:1rem 1rem 1rem 2.5rem;
+        --whatsapp-icon-font-size:4rem;
+        --whatsapp-icon-right:11%;
+    }
+
+}

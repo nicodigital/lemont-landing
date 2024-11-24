@@ -1,0 +1,7 @@
+.social-links{
+  @apply grid grid-cols-4 gap-1;
+}
+
+.social-links i{
+  @apply text-[2.5rem] xg:text-[4rem];
+}

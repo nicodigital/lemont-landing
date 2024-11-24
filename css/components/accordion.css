@@ -1,0 +1,89 @@
+:root {
+  --content-padding: 1.2rem 0;
+  --content-gap-bottom: 4rem;
+  --acc-color: currentColor;
+}
+
+.accordion {
+  @apply w-100%;
+}
+
+.accordion .accordion-copy {
+  @apply overflow-hidden;
+  max-height: 0;
+  visibility: hidden;
+  transition: visibility 0.5s, padding 0.5s, max-height 0.5s;
+}
+
+.accordion .accordion-copy *{
+  color: var(--acc-color);
+}
+
+.accordion .accordion-copy.accordion-copy--open {
+  visibility: visible !important;
+  padding: var(--content-padding);
+  padding-bottom: var(--content-gap-bottom) !important;
+}
+
+.accordion .accordion-copy:not(.accordion-copy--open) {
+  padding: 0 !important;
+}
+
+.accordion .accordion-trigger {
+  @apply relative w-100% 
+ text-left py-[1.3rem] xg:py-2
+ xg:text-body
+ cursor-pointer;
+  transition: 0.3s ease;
+  border: 0 none;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.accordion-item.plus .accordion-trigger:before,
+.accordion-item.plus .accordion-trigger:after {
+  @apply w-[1.3rem] h-[2px] xg:w-2 xg:h-[3px];
+     position: absolute;
+     content: '';
+     top: 50%; 
+     right: 0;
+     background: var(--acc-color);
+     transform: rotate(0deg);
+     transform-origin: center;
+     transition: transform 0.5s;
+}
+
+.accordion-item.plus .accordion-trigger:after {
+  transform: rotate(90deg);
+}
+
+.accordion-item.plus .accordion-trigger[aria-expanded='true']::after {
+  transform: rotate(0deg);
+}
+
+.accordion.lined .accordion-trigger {
+  border-top: 1px solid var(--acc-color);
+}
+
+.accordion.lined .accordion-trigger i {
+  @apply absolute top-[2.8rem] right-0 
+       text-[2.8rem]
+       text-current transition-all;
+}
+
+.accordion-trigger[aria-expanded='true'] i {
+  transform: rotate(-180deg);
+}
+
+
+/* Esconde los elementos que no coinciden */
+acc-item[hidden],
+.accordion-item.more-less .accordion-trigger span:first-child ,
+.accordion-item.more-less .accordion-trigger[aria-expanded="true"] span:last-child {
+  display: none;
+}
+
+.accordion-item.more-less .accordion-trigger[aria-expanded="true"] span:first-child {
+  display: inline-block;
+}

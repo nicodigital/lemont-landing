@@ -1,0 +1,27 @@
+.custom-file-input {
+    @apply relative w-full inline-block;
+}
+
+.custom-file-input input[type="file"] {
+  @apply absolute top-0 left-0 opacity-0 size-full cursor-pointer;
+}
+
+.custom-file-input .file-input-trigger {
+  @apply flex cursor-pointer border-t border-green-600 pt-1
+ text-black opacity-[.4] pointer-events-none; 
+}
+
+.custom-file-input:hover .file-input-trigger {
+  @apply bg-transparent;
+}
+
+.custom-file-input span[class*="material-"]{
+  @apply absolute top-[1.5rem] right-0
+  text-[3.3rem]
+  pointer-events-none;
+}
+
+.file-input-name {
+  margin-left: 0.5rem;
+  font-style: italic;
+}

@@ -1,0 +1,470 @@
+[
+    {
+        "id": 2092,
+        "date": "2019-04-10T22:18:55",
+        "date_gmt": "2019-04-11T01:18:55",
+        "guid": {
+            "rendered": "https:\/\/nicowebsite.com\/?p=2092"
+        },
+        "modified": "2019-04-11T16:51:21",
+        "modified_gmt": "2019-04-11T19:51:21",
+        "slug": "que-es-hosting-servidor-web-y-dominio-conceptos-basicos",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/",
+        "title": {
+            "rendered": "\u00bfQu\u00e9 es hosting, servidor web y dominio? Conceptos b\u00e1sicos"
+        },
+        "content": {
+            "rendered": "\n<p>\u00bfQu\u00e9 es hosting? Si eres el titular de una empresa y has tomado la decisi\u00f3n de tener presencia en Internet, te enfrentar\u00e1s a esta pregunta y a una serie de dudas. <\/p>\n\n\n\n<p>Todo parece muy sencillo, pero a veces resulta complejo para quienes no est\u00e1n familiarizados con el desarrollo web. <\/p>\n\n\n\n<p>Ten en cuenta que es muy importante manejar, por lo menos los conceptos b\u00e1sicos, para saber bien que nos est\u00e1n ofreciendo. <\/p>\n\n\n\n<p>Tengo un m\u00e9dico amigo que siempre dice: \u00ab<em>el paciente informado es el mejor paciente<\/em>\u00ab. Y en esto es lo mismo, un cliente informado puede evaluar mejor el proyecto y analizar si cumple sus expectativas o no. <\/p>\n\n\n\n<p>El servidor, el alojamiento y el dominio son el ABC de la p\u00e1gina. Porque para que esta pueda verse on line y comience la magia, debe estar alojada en un servidor bajo un nombre de dominio. Veamos que significan estos elementos.<\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Conceptos b\u00e1sicos al iniciar tu sitio web<\/strong><\/h2>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Servidor web&nbsp;<\/strong><\/h2>\n\n\n\n<p>El servidor es\nuna m\u00e1quina, una computadora especial que almacena datos y los env\u00eda a trav\u00e9s\nde Internet. Entre sus funciones se encuentra la de almacenar los archivos de\nuna p\u00e1gina web y enviarlos por la Red. <\/p>\n\n\n\n<p>Es decir, cuando\nhaces una b\u00fasqueda tu navegador se comunica con el servidor y muestra lo que\nest\u00e1s solicitando. Esto lo hace a trav\u00e9s de los protocolos HTTP Y HTTPS. Todo\nel contenido en Internet se encuentra en esos servidores. <\/p>\n\n\n\n<p>El servidor web tambi\u00e9n se puede definir como un hadware muy diferente al ordenador dom\u00e9stico. Tiene CPUs, memoria y enlaces mucho m\u00e1s potentes. Por esto es que las empresas que cuentan con servidores de esta capacidad arriendan sus espacios para alojar varias webs. <\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">Alojamiento web<\/h2>\n\n\n\n<p>El Hosting, o alojamiento web como se acostumbra a llamar en espa\u00f1ol, es el servicio que te ofrecen las empresas titulares de los servidores. <\/p>\n\n\n\n<p>Dichas firmas te brindan un espacio f\u00edsico dentro de su servidor para almacenar los archivos de tu sitio web. <\/p>\n\n\n\n<p>Entonces tu p\u00e1gina estar\u00e1 en la red colectiva mundial que es el World Wide Web y a ella se podr\u00e1 acceder por Internet. <\/p>\n\n\n\n<p>Mediante el contrato de alojamiento web la empresa brinda un espacio determinado seg\u00fan el plan elegido, y el cliente abona una tarifa mensual por el referido servicio. <\/p>\n\n\n\n<p>Con estos sencillos conceptos puedes aclarar tus dudas sobre \u00bfQu\u00e9 es hosting?. Adem\u00e1s, m\u00e1s adelante te brindo algunas sugerencias a considerar cuando contratas un servicio de hosting. <\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Dominio <\/strong><\/h2>\n\n\n\n<p>El dominio es el nombre de tu web, por ejemplo mi nombre de dominio es&nbsp; nicowebsite.com.&nbsp; Lo primero que debemos hacer para contratar un alojamiento en un servidor es registrar un dominio. <\/p>\n\n\n\n<p>Lo podemos hacer\na trav\u00e9s de la misma empresa en la que contratamos el hosting o en una empresa\ndiferente. <\/p>\n\n\n\n<p>Los nombre de dominio est\u00e1n regulados por el ICANN que es la Instituci\u00f3n que los administra y habilita las empresas que asignan los nombres.  <\/p>\n\n\n\n<p>Aqu\u00ed es importante distinguir entre el dominio y la URL. <\/p>\n\n\n\n<p>La URL es una direcci\u00f3n web completa de una p\u00e1gina espec\u00edfica. Por ejemplo <a href=\"https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/\">https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/<\/a>. Esta es la URL de un art\u00edculo sobre Yoast SEO en mi p\u00e1gina web. Como puedes ver el dominio est\u00e1 inclu\u00eddo en la URL.<\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>\u00bfQue debo tener en cuenta al contratar estos servicios?<\/strong><\/h2>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\">1. Servidor web<\/h3>\n\n\n\n<figure class=\"wp-block-image\"><img decoding=\"async\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Qu\u00e9-es-hosting-servidor-web-y-dominio-3-Nico.-Free-Lance-Web-Developer-1.svg\" alt=\"Qu\u00e9 Es Hosting, Servidor Web Y Dominio 3\" class=\"wp-image-2161\"\/><\/figure>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Cuando contratas el alojamiento web en un servidor, este debe ofrecerte un m\u00ednimo de elementos que son esenciales, algunos de los cuales son los siguientes:<\/p>\n\n\n\n<h4 class=\"wp-block-heading\">Espacio en disco<\/h4>\n\n\n\n<p><strong> <\/strong>Cada proyecto exige una capacidad en disco diferente y es muy bueno tener en cuenta cuanto espacio realmente necesitas. Porque a veces esto puede encarecer mucho el costo de tu hosting sin necesitarlo. <\/p>\n\n\n\n<p>Adem\u00e1s puede suceder que requieras m\u00e1s espacio y no te des cuenta hasta que has perdido emails o ya no puedes subir m\u00e1s contenido a tu sitio web. <\/p>\n\n\n\n<p>Por ejemplo, una <strong>landing page<\/strong> o una <strong>One Page<\/strong>, rara vez necesite m\u00e1s de 500 mb, entonces&#8230;porque contratar un hosting de 3gb cuando utilizar\u00e1s solamente una sexta parte de esa capacidad. <\/p>\n\n\n\n<p>Ahora, es diferente si esta landing se encuentra dentro de un sitio web que s\u00ed requiere de espacio. O tal vez estas desarrollando un sitio m\u00e1s completo y realmente necesitas 3gb. O quiz\u00e1s est\u00e1s desarrollando un <strong>e-commerce <\/strong>y entonces vas a precisar como m\u00ednimo 5gb. <\/p>\n\n\n\n<p>Cada proyecto es distinto. Mi consejo es que consultes a tu t\u00e9cnico de confianza para contratar el paquete de hosting que m\u00e1s se ajuste a tu medida y as\u00ed no malgastar\u00e1s tu dinero.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h4 class=\"wp-block-heading\"><strong>Ancho de banda<\/strong><\/h4>\n\n\n\n<p> El ancho de banda es<strong> <\/strong> la cantidad de datos que pueden ser descargados de nuestro sitio web. Cuando hablo de datos descargados no s\u00f3lo me refiero al archivo que descargas presionando un bot\u00f3n, sino que cada vez que un usuario entra a tu sitio web, su navegador descarga una cantidad de archivos en su computadora o dispositivo m\u00f3vil y esto va sumando en el consumo de ancho de banda. <\/p>\n\n\n\n<p>Muchos servicios de hosting suelen decir que tanto su espacio en disco como el ancho de banda es ilimitado, bueno&#8230; esto no es muy sincero. La realidad es que nunca es as\u00ed, y lo podr\u00e1s comprobar si notas que tu sitio web tiene ca\u00eddas y cuando quieres acceder a \u00e9l ves un cartel que dice \u00a8<strong>bandwidth limit exceeded<\/strong>\u00a8 o algo similar. <\/p>\n\n\n\n<p>Lo importante aqu\u00ed es tener claro de cuanto ancho de banda dispones y tener un buen soporte para solicitar un incremento cuando tu sitio caiga debido a esto. <\/p>\n\n\n\n<p>Evidentemente que si tu sitio web recibe gran cantidad de visitas va a consumir  m\u00e1s ancho de banda que si recibe unas pocas y esto se ver\u00e1 reflejado en el costo de tu hosting. <\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h4 class=\"wp-block-heading\"><strong>CPanel<\/strong><\/h4>\n\n\n\n<p><strong> <\/strong>Se trata de una interfaz gr\u00e1fica donde podremos gestionar muchas funcionalidades de nuestro hosting. <\/p>\n\n\n\n<p>Por lo general esta viene con un explorador de archivos, administrador de bases de datos, gesti\u00f3n de correo electr\u00f3nico, as\u00ed como tambi\u00e9n instaladores automatizados de diferentes tipos de gestores de contenido como WordPress, Joomla, Magento, Prestashop, etc.<\/p>\n\n\n\n<p> Si bien no es fundamental, es una gran herramienta para gestionar tu hosting y realmente hace la diferencia. <\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h4 class=\"wp-block-heading\"><strong>Cuentas de correo<\/strong><\/h4>\n\n\n\n<p>Parece obvio pensar que un alojamiento web cuente con este servicio, pero en realidad no lo es. <\/p>\n\n\n\n<p>Hace poco tiempo me encontr\u00e9 con un servicio de <strong>hosting en Uruguay <\/strong>que no ten\u00eda correo electr\u00f3nico, y no solo eso,  tampoco ten\u00eda la funcionalidad de env\u00edo de emails activada en su PHP. <\/p>\n\n\n\n<p>Debido a esto el formulario del sitio web no pod\u00eda enviar emails y el cliente estaba realmente molesto cuando se dio cuenta de esta situaci\u00f3n. El problema se solucion\u00f3 contratando una extensi\u00f3n del paquete que ten\u00eda. <\/p>\n\n\n\n<p>Es una experiencia que quiero compartir, para que cada vez que tengan que contratar un servicio de hosting, se aseguren que esta funci\u00f3n este incluida en el mismo. <\/p>\n\n\n\n<p>Otro detalle a tener en cuenta en este punto es que si bien el hosting puede almacenar sus correos, es muy probable que en alg\u00fan momento este se llene. Entonces tenemos dos opciones: <\/p>\n\n\n\n<p>a) o contratamos m\u00e1s espacio y esto se volver\u00e1 a repetir cuando este espacio extra se termine;<\/p>\n\n\n\n<p>b) o configuramos nuestra cuenta de correo con un servicio como <strong>gmail o outlook.live.com<\/strong> donde podremos gestionar la misma cuenta de correo, tanto para enviar como para recibir. Adem\u00e1s estos servicios van alojando nuestros emails de una forma m\u00e1s eficiente y con muchos menos riesgo de p\u00e9rdida de datos.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h4 class=\"wp-block-heading\"><strong>Respaldos<\/strong><\/h4>\n\n\n\n<p><strong> <\/strong>Esta es una tarea obligada que debemos instrumentar.  Cuando la empresa no ofrece esa funci\u00f3n, entonces pediremos a nuestro desarrollador web que implemente un servicio de respaldo.<\/p>\n\n\n\n<p>Pero si el hosting  tiene este fant\u00e1stico plus, entonces podemos dormir tranquilos ya que te garantiza que, ante cualquier ataque, o simplemente alg\u00fan error en tu p\u00e1gina, tendr\u00e1s los respaldos necesarios para recuperarla.  <\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h4 class=\"wp-block-heading\"><strong>Seguridad<\/strong><\/h4>\n\n\n\n<p><strong> <\/strong>Existen medidas de seguridad b\u00e1sica que hay que implementar y muchas veces ni siquiera se realizan. Al igual que con los respaldos, este punto requiere especial atenci\u00f3n y debemos asegurarnos de que nuestro proyecto web quede lo m\u00e1s blindado posible. <\/p>\n\n\n\n<p>Si el hosting ofrece una cobertura de seguridad que les convence, entonces adelante. De lo contrario, debemos solicitar a nuestro desarrollador web para que implemente todas las medidas de seguridad necesarias para proteger nuestra web.<\/p>\n\n\n\n<p> Nada nos asegura en un 100% que nuestro sitio web no sufrir\u00e1 de un ataque. Pero si les aseguro que, si no toman medidas para reforzar la seguridad, en alg\u00fan momento un robot,  virus o malware  tocar\u00e1 su puerta y luego de esto la soluci\u00f3n, si es que existe, ser\u00e1 mucho m\u00e1s costosa.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h4 class=\"wp-block-heading\"><strong>Soporte<\/strong><\/h4>\n\n\n\n<p><strong> <\/strong>En lo personal esta caracter\u00edstica es la que m\u00e1s exijo de un servicio de hosting.  Hay que tener en cuenta que las eventualidades que pueden surgir en relaci\u00f3n al funcionamiento del sitio web son muchas. Por tanto, tener soporte las 24 horas es imprescindible y si es en tu idioma mejor. <\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p> Adem\u00e1s tengamos siempre presente contratar una empresa que nos brinde un servicio de pago. Ya di mi opini\u00f3n sobre los <a href=\"https:\/\/nicowebsite.com\/hosting-y-dominio-gratis-una-mala-decision-para-tu-web\/\">hosting gratuitos,  <\/a>asi que no me voy a extender en esto, pero mantengo la posici\u00f3n de que no son aconsejables.  <\/p>\n\n\n\n<p>Para poder tomar una decisi\u00f3n acertada  y evitarnos dolores de cabeza, es importante saber si la firma que elegimos nos ofrece estas caracter\u00edsticas que mencion\u00e9. Ten en cuenta que all\u00ed vas a alojar tu negocio, tu imagen depender\u00e1 en primer lugar de ese servicio y por tanto es fundamental que re\u00fana las condiciones necesarias. <\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">2. Dominio<\/h2>\n\n\n\n<figure class=\"wp-block-image\"><img decoding=\"async\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Qu\u00e9-es-hosting-servidor-web-y-dominio-4-Nico.-Free-Lance-Web-Developer.svg\" alt=\"Qu\u00e9 Es Hosting, Servidor Web Y Dominio 4\" class=\"wp-image-2211\"\/><\/figure>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Cuando registras un nombre de dominio debes tener en cuenta:<\/p>\n\n\n\n<h4 class=\"wp-block-heading\"><strong>Coherencia<\/strong><\/h4>\n\n\n\n<p>  Es importante que refleje nuestra marca. Puede contener s\u00f3lo el nombre de la marca o la palabra clave por la cual nos buscar\u00e1n en Internet, o ambas cosas. Pero siempre debe guardar coherencia con el producto o servicio que brindamos.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h4 class=\"wp-block-heading\"><strong>Longitud<\/strong><\/h4>\n\n\n\n<p><strong> <\/strong>No debe ser muy extenso. De esta forma ser\u00e1 m\u00e1s sencillo de recordar. Tambi\u00e9n ayuda que sea claro, sin letras repetidas ni guiones. En definitiva que sea muy f\u00e1cil de pronunciar y dif\u00edcil de olvidar. <\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h4 class=\"wp-block-heading\"><strong>Extensi\u00f3n<\/strong><\/h4>\n\n\n\n<p>  La extensi\u00f3n debe ser adecuada a nuestro negocio. Las extensiones son las que se agregan al nombre. Por ejemplo:  <strong>.com<\/strong> para p\u00e1ginas comerciales ;<strong> .org<\/strong>. para organizaciones; <strong>.net <\/strong>tecnolog\u00eda, etc.  <\/p>\n\n\n\n<p>Aunque en la actualidad el registro es flexible pudiendo elegir libremente el dominio, hay algunas extensiones que son exclusivas, como <strong>.edu <\/strong> s\u00f3lo para instituciones educativas y <strong>.gov<\/strong> para usos gubernamentales. De acuerdo a la ubicaci\u00f3n tambi\u00e9n tenemos extensiones por pa\u00eds como <strong>.es,<\/strong> <strong>.uy, <\/strong>etc.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h4 class=\"wp-block-heading\"><strong>Sin\u00f3nimos<\/strong><\/h4>\n\n\n\n<p>Si cuando realizamos la b\u00fasqueda el nombre ya se encuentra registrado, lo que sucede muy a menudo,  podemos usar sin\u00f3nimos. <\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h4 class=\"wp-block-heading\"><strong>Similitudes<\/strong><\/h4>\n\n\n\n<p> Evitar nombres que puedan llevar a confusi\u00f3n con otras marcas. As\u00ed evitar\u00e1s cuestionamientos legales ya que las marcas registradas podr\u00edan reclamar. <\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">Una historia real<\/h2>\n\n\n\n<p>Los servidores pueden presentar diferentes problemas, no s\u00f3lo por la calidad de los recursos que ofrecen sino por la seriedad y responsabilidad de la empresa. Te ilustrar\u00e9 con una historia personal, es algo que no es frecuente pero puede suceder.<\/p>\n\n\n\n<p>Tuve un cliente que contrat\u00f3 una empresa de hosting para alojar su p\u00e1gina web. Despu\u00e9s de algunos a\u00f1os quiso cambiar la imagen de la firma. Como hab\u00edan perdido contacto con su desarrollador, me pidieron presupuesto para una nueva web. Conversamos, le gustaron mis ideas y tambi\u00e9n el precio. <\/p>\n\n\n\n<p> As\u00ed que los primero que hice fue llamar a la empresa que suministraba el alojamiento, para que me proporcionaran las credenciales de acceso. Nunca contestaron mis llamadas, ni mis correos, en su p\u00e1gina no hab\u00eda datos de la firma ni ning\u00fan contacto. <\/p>\n\n\n\n<p>Despu\u00e9s de varias gestiones mi cliente desisti\u00f3 de continuar investigando la ubicaci\u00f3n de esa firma. <\/p>\n\n\n\n<p>Tuvimos que registrar un nuevo dominio, que por supuesto ya no era el mismo, y hacer una pagina web desde cero. Nos llev\u00f3 muchos meses recuperar el posicionamiento.<\/p>\n\n\n\n<p>Por tanto, es esencial que el prestador del servicio de alojamiento sea una empresa reconocida. En lo personal trabajo con HostGator y Siteground y siempre he tenido buenos resultados.<\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">Conclusi\u00f3n<\/h2>\n\n\n\n<p>La descripci\u00f3n de los elementos en este art\u00edculo contiene conceptos\nb\u00e1sicos. Sin embargo, te ayudar\u00e1n a entender algunas cosas relacionadas con la\ncreaci\u00f3n de tu sitio web. No s\u00f3lo responder\u00e1n tu pregunta sobre \u00bfQu\u00e9 es\nhosting? sino que tambi\u00e9n explican otras inquietudes que se presentan a menudo.\n<\/p>\n\n\n\n<p>De esta forma podr\u00e1s evaluar con mayor competencia las decisiones que se adoptan con respecto a tu p\u00e1gina web. Adem\u00e1s, no dudes en consultar a tu desarrollador ante cualquier duda. Una buena comunicaci\u00f3n es fundamental para el \u00e9xito de un proyecto.<\/p>\n\n\n\n<p> Im\u00e1genes: <a rel=\"noreferrer noopener\" href=\"https:\/\/www.freepik.es\/\" target=\"_blank\">Freepik.es<\/a><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>\u00bfQu\u00e9 es hosting? Si eres el titular de una empresa y has tomado la decisi\u00f3n de tener presencia en Internet, te enfrentar\u00e1s a esta pregunta y a una serie de dudas. Todo parece muy sencillo, pero a veces resulta complejo para quienes no est\u00e1n familiarizados con el desarrollo web. Ten en cuenta que es muy [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 2135,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "_acf_changed": false,
+            "inline_featured_image": false,
+            "footnotes": ""
+        },
+        "categories": [
+            3
+        ],
+        "class_list": [
+            "post-2092",
+            "post",
+            "type-post",
+            "status-publish",
+            "format-standard",
+            "has-post-thumbnail",
+            "hentry",
+            "category-hosting-profesional"
+        ],
+        "acf": {
+            "custom-title": "\u00bfQu\u00e9 es hosting, | servidor web | y dominio?",
+            "head-img": true,
+            "color-title": "#173d7a",
+            "offset-title": "40",
+            "poster-style": "black",
+            "resume_txt": "50",
+            "back-type": "imagen",
+            "back-alpha": "1",
+            "mob-feat-img": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Qu\u00e9-es-hosting-servidor-web-y-dominio-Nico.-Free-Lance-Web-Developer.jpg",
+            "last-post-offset": "left"
+        },
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>\u00bfQu\u00e9 es hosting, servidor web y dominio? Conceptos b\u00e1sicos - Nico.<\/title>\n<meta name=\"description\" content=\"Si eres una empresa y has decidido tener presencia en Internet, te enfrentar\u00e1s a una serie de dudas. Mira estos conceptos b\u00e1sicos\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"\u00bfQu\u00e9 es hosting, servidor web y dominio? Conceptos b\u00e1sicos - Nico.\" \/>\n<meta property=\"og:description\" content=\"Si eres una empresa y has decidido tener presencia en Internet, te enfrentar\u00e1s a una serie de dudas. Mira estos conceptos b\u00e1sicos\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/nicolook.webdeveloper\/\" \/>\n<meta property=\"article:published_time\" content=\"2019-04-11T01:18:55+00:00\" \/>\n<meta property=\"article:modified_time\" content=\"2019-04-11T19:51:21+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Qu\u00e9-es-hosting-servidor-web-y-dominio-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1920\" \/>\n\t<meta property=\"og:image:height\" content=\"1005\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"author\" content=\"Nicolook Admin 2019\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:label1\" content=\"Escrito por\" \/>\n\t<meta name=\"twitter:data1\" content=\"Nicolook Admin 2019\" \/>\n\t<meta name=\"twitter:label2\" content=\"Tiempo de lectura\" \/>\n\t<meta name=\"twitter:data2\" content=\"11 minutos\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/\",\"url\":\"https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/\",\"name\":\"\u00bfQu\u00e9 es hosting, servidor web y dominio? Conceptos b\u00e1sicos - Nico.\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/#primaryimage\"},\"image\":{\"@id\":\"https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/#primaryimage\"},\"thumbnailUrl\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Qu\u00e9-es-hosting-servidor-web-y-dominio-Nico.-Free-Lance-Web-Developer-2.svg\",\"datePublished\":\"2019-04-11T01:18:55+00:00\",\"dateModified\":\"2019-04-11T19:51:21+00:00\",\"author\":{\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1\"},\"description\":\"Si eres una empresa y has decidido tener presencia en Internet, te enfrentar\u00e1s a una serie de dudas. Mira estos conceptos b\u00e1sicos\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/#primaryimage\",\"url\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Qu\u00e9-es-hosting-servidor-web-y-dominio-Nico.-Free-Lance-Web-Developer-2.svg\",\"contentUrl\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Qu\u00e9-es-hosting-servidor-web-y-dominio-Nico.-Free-Lance-Web-Developer-2.svg\",\"caption\":\"Qu\u00e9 Es Hosting, Servidor Web Y Dominio\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\u00bfQu\u00e9 es hosting, servidor web y dominio? Conceptos b\u00e1sicos\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"},{\"@type\":\"Person\",\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1\",\"name\":\"Nicolook Admin 2019\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g\",\"caption\":\"Nicolook Admin 2019\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "yoast_head_json": {
+            "title": "\u00bfQu\u00e9 es hosting, servidor web y dominio? Conceptos b\u00e1sicos - Nico.",
+            "description": "Si eres una empresa y has decidido tener presencia en Internet, te enfrentar\u00e1s a una serie de dudas. Mira estos conceptos b\u00e1sicos",
+            "robots": {
+                "index": "index",
+                "follow": "follow",
+                "max-snippet": "max-snippet:-1",
+                "max-image-preview": "max-image-preview:large",
+                "max-video-preview": "max-video-preview:-1"
+            },
+            "canonical": "https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/",
+            "og_locale": "es_ES",
+            "og_type": "article",
+            "og_title": "\u00bfQu\u00e9 es hosting, servidor web y dominio? Conceptos b\u00e1sicos - Nico.",
+            "og_description": "Si eres una empresa y has decidido tener presencia en Internet, te enfrentar\u00e1s a una serie de dudas. Mira estos conceptos b\u00e1sicos",
+            "og_url": "https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/",
+            "og_site_name": "Nico.",
+            "article_publisher": "https:\/\/www.facebook.com\/nicolook.webdeveloper\/",
+            "article_published_time": "2019-04-11T01:18:55+00:00",
+            "article_modified_time": "2019-04-11T19:51:21+00:00",
+            "og_image": [
+                {
+                    "width": 1920,
+                    "height": 1005,
+                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Qu\u00e9-es-hosting-servidor-web-y-dominio-Nico.-Free-Lance-Web-Developer.jpg",
+                    "type": "image\/jpeg"
+                }
+            ],
+            "author": "Nicolook Admin 2019",
+            "twitter_card": "summary_large_image",
+            "twitter_misc": {
+                "Escrito por": "Nicolook Admin 2019",
+                "Tiempo de lectura": "11 minutos"
+            },
+            "schema": {
+                "@context": "https:\/\/schema.org",
+                "@graph": [
+                    {
+                        "@type": "WebPage",
+                        "@id": "https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/",
+                        "url": "https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/",
+                        "name": "\u00bfQu\u00e9 es hosting, servidor web y dominio? Conceptos b\u00e1sicos - Nico.",
+                        "isPartOf": {
+                            "@id": "https:\/\/nicowebsite.com\/#website"
+                        },
+                        "primaryImageOfPage": {
+                            "@id": "https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/#primaryimage"
+                        },
+                        "image": {
+                            "@id": "https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/#primaryimage"
+                        },
+                        "thumbnailUrl": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Qu\u00e9-es-hosting-servidor-web-y-dominio-Nico.-Free-Lance-Web-Developer-2.svg",
+                        "datePublished": "2019-04-11T01:18:55+00:00",
+                        "dateModified": "2019-04-11T19:51:21+00:00",
+                        "author": {
+                            "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1"
+                        },
+                        "description": "Si eres una empresa y has decidido tener presencia en Internet, te enfrentar\u00e1s a una serie de dudas. Mira estos conceptos b\u00e1sicos",
+                        "breadcrumb": {
+                            "@id": "https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/#breadcrumb"
+                        },
+                        "inLanguage": "es",
+                        "potentialAction": [
+                            {
+                                "@type": "ReadAction",
+                                "target": [
+                                    "https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "inLanguage": "es",
+                        "@id": "https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/#primaryimage",
+                        "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Qu\u00e9-es-hosting-servidor-web-y-dominio-Nico.-Free-Lance-Web-Developer-2.svg",
+                        "contentUrl": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Qu\u00e9-es-hosting-servidor-web-y-dominio-Nico.-Free-Lance-Web-Developer-2.svg",
+                        "caption": "Qu\u00e9 Es Hosting, Servidor Web Y Dominio"
+                    },
+                    {
+                        "@type": "BreadcrumbList",
+                        "@id": "https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/#breadcrumb",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Portada",
+                                "item": "https:\/\/nicowebsite.com\/"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "\u00bfQu\u00e9 es hosting, servidor web y dominio? Conceptos b\u00e1sicos"
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "WebSite",
+                        "@id": "https:\/\/nicowebsite.com\/#website",
+                        "url": "https:\/\/nicowebsite.com\/",
+                        "name": "Nico.",
+                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                        "potentialAction": [
+                            {
+                                "@type": "SearchAction",
+                                "target": {
+                                    "@type": "EntryPoint",
+                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                },
+                                "query-input": {
+                                    "@type": "PropertyValueSpecification",
+                                    "valueRequired": true,
+                                    "valueName": "search_term_string"
+                                }
+                            }
+                        ],
+                        "inLanguage": "es"
+                    },
+                    {
+                        "@type": "Person",
+                        "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1",
+                        "name": "Nicolook Admin 2019",
+                        "image": {
+                            "@type": "ImageObject",
+                            "inLanguage": "es",
+                            "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/image\/",
+                            "url": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g",
+                            "contentUrl": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g",
+                            "caption": "Nicolook Admin 2019"
+                        }
+                    }
+                ]
+            }
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts\/2092"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/comments?post=2092"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 0,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts\/2092\/revisions"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media\/2135"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media?parent=2092"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories?post=2092"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "Nicolook Admin 2019",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/nicowebsite.com\/author\/nicolook-admin-2019\/",
+                    "slug": "nicolook-admin-2019",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g"
+                    },
+                    "yoast_head": null,
+                    "yoast_head_json": null,
+                    "acf": [],
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/1"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "id": 2135,
+                    "date": "2019-04-08T18:54:05",
+                    "slug": "que-es-hosting-servidor-web-y-dominio",
+                    "type": "attachment",
+                    "link": "https:\/\/nicowebsite.com\/que-es-hosting-servidor-web-y-dominio-conceptos-basicos\/que-es-hosting-servidor-web-y-dominio\/",
+                    "title": {
+                        "rendered": "Qu\u00e9 Es Hosting, Servidor Web Y Dominio"
+                    },
+                    "author": 2,
+                    "featured_media": 0,
+                    "acf": [],
+                    "caption": {
+                        "rendered": "<p>Qu\u00e9 Es Hosting, Servidor Web Y Dominio<\/p>\n"
+                    },
+                    "alt_text": "Qu\u00e9 Es Hosting, Servidor Web Y Dominio",
+                    "media_type": "image",
+                    "mime_type": "image\/svg+xml",
+                    "media_details": [],
+                    "source_url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/04\/Qu\u00e9-es-hosting-servidor-web-y-dominio-Nico.-Free-Lance-Web-Developer-2.svg",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media\/2135"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/2"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/comments?post=2135"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:term": [
+                [
+                    {
+                        "id": 3,
+                        "link": "https:\/\/nicowebsite.com\/category\/hosting-profesional\/",
+                        "name": "Hosting profesional",
+                        "slug": "hosting-profesional",
+                        "taxonomy": "category",
+                        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Hosting profesional - Nico. Desarrollador Web &amp; Wordpress Freelance<\/title>\n<meta name=\"description\" content=\"El hosting profesional es un elemento fundamental para tu sitio.Adem\u00e1s hay que tener en cuenta varios elementos a la hora de contratar un alojamiento web.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/category\/hosting-profesional\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Hosting profesional - Nico. Desarrollador Web &amp; Wordpress Freelance\" \/>\n<meta property=\"og:description\" content=\"El hosting profesional es un elemento fundamental para tu sitio.Adem\u00e1s hay que tener en cuenta varios elementos a la hora de contratar un alojamiento web.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/category\/hosting-profesional\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1200\" \/>\n\t<meta property=\"og:image:height\" content=\"800\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\/\/nicowebsite.com\/category\/hosting-profesional\/\",\"url\":\"https:\/\/nicowebsite.com\/category\/hosting-profesional\/\",\"name\":\"Hosting profesional - Nico. Desarrollador Web & Wordpress Freelance\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"description\":\"El hosting profesional es un elemento fundamental para tu sitio.Adem\u00e1s hay que tener en cuenta varios elementos a la hora de contratar un alojamiento web.\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/category\/hosting-profesional\/#breadcrumb\"},\"inLanguage\":\"es\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/category\/hosting-profesional\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Hosting profesional\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+                        "yoast_head_json": {
+                            "title": "Hosting profesional - Nico. Desarrollador Web & Wordpress Freelance",
+                            "description": "El hosting profesional es un elemento fundamental para tu sitio.Adem\u00e1s hay que tener en cuenta varios elementos a la hora de contratar un alojamiento web.",
+                            "robots": {
+                                "index": "index",
+                                "follow": "follow",
+                                "max-snippet": "max-snippet:-1",
+                                "max-image-preview": "max-image-preview:large",
+                                "max-video-preview": "max-video-preview:-1"
+                            },
+                            "canonical": "https:\/\/nicowebsite.com\/category\/hosting-profesional\/",
+                            "og_locale": "es_ES",
+                            "og_type": "article",
+                            "og_title": "Hosting profesional - Nico. Desarrollador Web & Wordpress Freelance",
+                            "og_description": "El hosting profesional es un elemento fundamental para tu sitio.Adem\u00e1s hay que tener en cuenta varios elementos a la hora de contratar un alojamiento web.",
+                            "og_url": "https:\/\/nicowebsite.com\/category\/hosting-profesional\/",
+                            "og_site_name": "Nico.",
+                            "og_image": [
+                                {
+                                    "width": 1200,
+                                    "height": 800,
+                                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg",
+                                    "type": "image\/jpeg"
+                                }
+                            ],
+                            "twitter_card": "summary_large_image",
+                            "schema": {
+                                "@context": "https:\/\/schema.org",
+                                "@graph": [
+                                    {
+                                        "@type": "CollectionPage",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/hosting-profesional\/",
+                                        "url": "https:\/\/nicowebsite.com\/category\/hosting-profesional\/",
+                                        "name": "Hosting profesional - Nico. Desarrollador Web & Wordpress Freelance",
+                                        "isPartOf": {
+                                            "@id": "https:\/\/nicowebsite.com\/#website"
+                                        },
+                                        "description": "El hosting profesional es un elemento fundamental para tu sitio.Adem\u00e1s hay que tener en cuenta varios elementos a la hora de contratar un alojamiento web.",
+                                        "breadcrumb": {
+                                            "@id": "https:\/\/nicowebsite.com\/category\/hosting-profesional\/#breadcrumb"
+                                        },
+                                        "inLanguage": "es"
+                                    },
+                                    {
+                                        "@type": "BreadcrumbList",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/hosting-profesional\/#breadcrumb",
+                                        "itemListElement": [
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 1,
+                                                "name": "Portada",
+                                                "item": "https:\/\/nicowebsite.com\/"
+                                            },
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 2,
+                                                "name": "Hosting profesional"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@type": "WebSite",
+                                        "@id": "https:\/\/nicowebsite.com\/#website",
+                                        "url": "https:\/\/nicowebsite.com\/",
+                                        "name": "Nico.",
+                                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                                        "potentialAction": [
+                                            {
+                                                "@type": "SearchAction",
+                                                "target": {
+                                                    "@type": "EntryPoint",
+                                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                                },
+                                                "query-input": {
+                                                    "@type": "PropertyValueSpecification",
+                                                    "valueRequired": true,
+                                                    "valueName": "search_term_string"
+                                                }
+                                            }
+                                        ],
+                                        "inLanguage": "es"
+                                    }
+                                ]
+                            }
+                        },
+                        "acf": [],
+                        "_links": {
+                            "self": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories\/3"
+                                }
+                            ],
+                            "collection": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories"
+                                }
+                            ],
+                            "about": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/taxonomies\/category"
+                                }
+                            ],
+                            "wp:post_type": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts?categories=3"
+                                }
+                            ],
+                            "curies": [
+                                {
+                                    "name": "wp",
+                                    "href": "https:\/\/api.w.org\/{rel}",
+                                    "templated": true
+                                }
+                            ]
+                        }
+                    }
+                ]
+            ]
+        }
+    }
+]

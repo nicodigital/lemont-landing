@@ -1,0 +1,833 @@
+[
+    {
+        "id": 16,
+        "date": "2024-08-17T17:31:28",
+        "date_gmt": "2024-08-17T17:31:28",
+        "guid": {
+            "rendered": "https:\/\/alohaus.uy\/gestor\/?page_id=16"
+        },
+        "modified": "2024-08-31T13:08:31",
+        "modified_gmt": "2024-08-31T13:08:31",
+        "slug": "home-es",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/",
+        "title": {
+            "rendered": "Home Es"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "_acf_changed": false,
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-16",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry"
+        ],
+        "acf": {
+            "hero_title": "Interpretamos,<br \/>\r\nevaluamos<br \/>\r\ny creamos.",
+            "hero_text": [
+                {
+                    "text_line": "Un estudio de dise\u00f1o que comprende para"
+                },
+                {
+                    "text_line": "luego comunicar. Estamos comprometidos"
+                },
+                {
+                    "text_line": "con nuestros clientes, afrontando"
+                },
+                {
+                    "text_line": "los desaf\u00edos y utilizando"
+                },
+                {
+                    "text_line": "nuevas herramientas."
+                }
+            ],
+            "nosotros_txt_1": " AloHaus nace de la inquietud de un equipo caracterizado por tener un pie en lo digital y otro en la comunicaci\u00f3n impresa, brindando soluciones globales. No hay proyecto peque\u00f1o, ni menos importante, ni desaf\u00edo que no queramos afrontar. El compromiso con nuestros clientes, con sus tiempos y sus necesidades nos ha definido y fortalecido a lo largo del tiempo como socios estrat\u00e9gicos.",
+            "nosotros_txt_2": "Uno de los pilares de nuestro equipo es disfrutar de la investigaci\u00f3n, de continuar creciendo en un rubro donde aparecen nuevas herramientas, lo que conlleva a nuevas posibilidades.",
+            "proyectos_txt": "Combinamos creatividad y tecnolog\u00eda para crear marcas memorables, piezas visuales impactantes y experiencias que resuenen en el p\u00fablico.",
+            "proyectos_title": "Our pride",
+            "serv_list": [
+                {
+                    "title": "CONTENIDO PARA REDES SOCIALES",
+                    "text": "Dise\u00f1amos y producimos contenido visual y audiovisual optimizado para redes sociales. Entendemos las tendencias y formatos de cada plataforma, creando publicaciones que fomentan la interacci\u00f3n, ayudando a fortalecer tu presencia online."
+                },
+                {
+                    "title": "IDENTIDAD VISUAL",
+                    "text": "Combinamos inteligencia estrat\u00e9gica con intuici\u00f3n creativa y eficiencia tecnol\u00f3gica para desarrollar marcas que no s\u00f3lo son visibles, sino sentidas. Desde logotipos hasta paletas de colores y tipograf\u00eda, nos aseguramos de que cada elemento refleja los valores de cada empresa."
+                },
+                {
+                    "title": "DISE\u00d1O EDITORIAL",
+                    "text": "Creamos publicaciones impresas y digitales con un dise\u00f1o editorial atractivo y funcional. Ya sean revistas, libros, cat\u00e1logos o informes, hacemos foco en la tipograf\u00eda, la composici\u00f3n y los detalles visuales para fusionar la informaci\u00f3n con la identidad visual del proyecto."
+                },
+                {
+                    "title": "FOTOGRAF\u00cdA",
+                    "text": "Creamos im\u00e1genes que cuentan historias. Ya sea fotograf\u00eda de productos, eventos, retratos o paisajes, nuestro equipo de fot\u00f3grafos profesionales utiliza t\u00e9cnicas de iluminaci\u00f3n y composici\u00f3n para obtener resultados impactantes."
+                },
+                {
+                    "title": "ILUSTRACI\u00d3N",
+                    "text": "Creamos ilustraciones personalizadas, adaptadas a tus necesidades. Estamos a la vanguardia de las tendencias y estilos, pero adem\u00e1s tenemos la sensibilidad y la capacidad de recrear estilos hist\u00f3ricos."
+                },
+                {
+                    "title": "DISE\u00d1O WEB",
+                    "text": "Creamos sitios web personalizados que reflejan la identidad \u00fanica de tu marca, emprendimiento o producto. Nuestro equipo de desarrolladores y dise\u00f1adores trabaja en estrecha colaboraci\u00f3n contigo para entender tus necesidades y objetivos, ofreciendo soluciones a medida que garantizan una gran experiencia de usuario."
+                },
+                {
+                    "title": "MODELADO Y VISUALIZACI\u00d3N 3D",
+                    "text": "Creaci\u00f3n de modelos tridimensionales detallados y realistas para una amplia gama de aplicaciones, desde arte abstracto hasta productos. Ofrecemos visualizaciones atractivas con alto impacto visual y est\u00e9tico."
+                },
+                {
+                    "title": "PRODUCCI\u00d3N AUDIOVISUAL",
+                    "text": "Producimos piezas audiovisuales para convertir tu idea en una herramienta de difusi\u00f3n efectiva. Trabajamos en conjunto desde la conceptualizaci\u00f3n hasta la postproducci\u00f3n, para convertir cada aspecto en su mejor versi\u00f3n y que el resultado sea de calidad."
+                },
+                {
+                    "title": "MOTION GRAPHICS \/ CGI",
+                    "text": "Transformamos conceptos complejos en gr\u00e1ficos con movimiento claros y atractivos. Utilizamos motion graphics para crear contenido din\u00e1mico que mejora la comunicaci\u00f3n visual, ideal para videos explicativos, presentaciones corporativas y campa\u00f1as publicitarias.Con CGI, a trav\u00e9s de los Fake out of home, fortalece tu originalidad posicionando lo fant\u00e1stico en el mundo real."
+                },
+                {
+                    "title": "ANIMACI\u00d3N 3D",
+                    "text": "Damos vida a los proyectos con animaci\u00f3n de personajes o de productos, as\u00ed como piezas art\u00edsticas y visualizaciones gr\u00e1ficas de datos. Ya sea para publicidad, cine, videojuegos o presentaciones."
+                },
+                {
+                    "title": "EXPERIENCIAS AR",
+                    "text": "Dise\u00f1amos experiencias de Realidad Aumentada (AR) que integran el mundo digital con el f\u00edsico, ofreciendo interacciones inmersivas e innovadoras. A trav\u00e9s de aplicaciones m\u00f3viles o webapps, transformamos un evento contemplativo a una experiencia interactiva. Nuestras soluciones AR capturan la imaginaci\u00f3n y mejoran la experiencia del usuario, en las redes sociales as\u00ed como en un evento empresarial."
+                }
+            ],
+            "team_title": "We handle it!",
+            "team": [
+                {
+                    "name": "Tincho<br \/>\r\nPintos",
+                    "role": "Fundador \/ Director de Arte",
+                    "linkedin": "https:\/\/www.linkedin.com\/in\/martinpintospignon",
+                    "instagram": "https:\/\/www.instagram.com\/tinchospp\/",
+                    "behance": "https:\/\/www.behance.net\/martinpintos",
+                    "foto": {
+                        "ID": 235,
+                        "id": 235,
+                        "title": "alohaus-equipo-tincho",
+                        "filename": "alohaus-equipo-tincho.png",
+                        "filesize": 183264,
+                        "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-tincho.png",
+                        "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/alohaus-equipo-tincho\/",
+                        "alt": "",
+                        "author": "2",
+                        "description": "",
+                        "caption": "",
+                        "name": "alohaus-equipo-tincho",
+                        "status": "inherit",
+                        "uploaded_to": 16,
+                        "date": "2024-08-29 01:55:18",
+                        "modified": "2024-08-29 01:57:00",
+                        "menu_order": 0,
+                        "mime_type": "image\/png",
+                        "type": "image",
+                        "subtype": "png",
+                        "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                        "width": 367,
+                        "height": 690,
+                        "sizes": {
+                            "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-tincho-150x150.png",
+                            "thumbnail-width": 150,
+                            "thumbnail-height": 150,
+                            "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-tincho.png",
+                            "medium-width": 367,
+                            "medium-height": 690,
+                            "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-tincho.png",
+                            "large-width": 367,
+                            "large-height": 690
+                        }
+                    }
+                },
+                {
+                    "name": "Camila <br \/>\r\nCallero",
+                    "role": "Client Partner \/ Medios",
+                    "linkedin": "https:\/\/www.linkedin.com\/in\/camilacallero",
+                    "instagram": "",
+                    "behance": "",
+                    "foto": {
+                        "ID": 232,
+                        "id": 232,
+                        "title": "alohaus-equipo-camila",
+                        "filename": "alohaus-equipo-camila.png",
+                        "filesize": 142567,
+                        "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-camila.png",
+                        "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/alohaus-equipo-camila\/",
+                        "alt": "",
+                        "author": "2",
+                        "description": "",
+                        "caption": "",
+                        "name": "alohaus-equipo-camila",
+                        "status": "inherit",
+                        "uploaded_to": 16,
+                        "date": "2024-08-29 01:53:02",
+                        "modified": "2024-08-29 01:57:00",
+                        "menu_order": 0,
+                        "mime_type": "image\/png",
+                        "type": "image",
+                        "subtype": "png",
+                        "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                        "width": 367,
+                        "height": 690,
+                        "sizes": {
+                            "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-camila-150x150.png",
+                            "thumbnail-width": 150,
+                            "thumbnail-height": 150,
+                            "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-camila.png",
+                            "medium-width": 367,
+                            "medium-height": 690,
+                            "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-camila.png",
+                            "large-width": 367,
+                            "large-height": 690
+                        }
+                    }
+                },
+                {
+                    "name": "Math\u00edas<br \/>\r\nMaciel",
+                    "role": "Motion Graphics",
+                    "linkedin": "https:\/\/www.linkedin.com\/in\/mathiasmaciel",
+                    "instagram": "",
+                    "behance": "https:\/\/www.behance.net\/mmac75",
+                    "foto": {
+                        "ID": 233,
+                        "id": 233,
+                        "title": "alohaus-equipo-mathi",
+                        "filename": "alohaus-equipo-mathi.png",
+                        "filesize": 170029,
+                        "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-mathi.png",
+                        "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/alohaus-equipo-mathi\/",
+                        "alt": "",
+                        "author": "2",
+                        "description": "",
+                        "caption": "",
+                        "name": "alohaus-equipo-mathi",
+                        "status": "inherit",
+                        "uploaded_to": 16,
+                        "date": "2024-08-29 01:53:03",
+                        "modified": "2024-08-29 01:57:00",
+                        "menu_order": 0,
+                        "mime_type": "image\/png",
+                        "type": "image",
+                        "subtype": "png",
+                        "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                        "width": 367,
+                        "height": 690,
+                        "sizes": {
+                            "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-mathi-150x150.png",
+                            "thumbnail-width": 150,
+                            "thumbnail-height": 150,
+                            "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-mathi.png",
+                            "medium-width": 367,
+                            "medium-height": 690,
+                            "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-mathi.png",
+                            "large-width": 367,
+                            "large-height": 690
+                        }
+                    }
+                },
+                {
+                    "name": "Braian <br \/>\r\nGonz\u00e1lez",
+                    "role": "Artista 3D",
+                    "linkedin": "https:\/\/www.linkedin.com\/in\/braian-gonzalez-51a159192\/",
+                    "instagram": "https:\/\/www.instagram.com\/briangdesign\/",
+                    "behance": "https:\/\/www.behance.net\/briangr199c484",
+                    "foto": {
+                        "ID": 231,
+                        "id": 231,
+                        "title": "alohaus-equipo-braian",
+                        "filename": "alohaus-equipo-braian.png",
+                        "filesize": 149569,
+                        "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-braian.png",
+                        "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/alohaus-equipo-braian\/",
+                        "alt": "",
+                        "author": "2",
+                        "description": "",
+                        "caption": "",
+                        "name": "alohaus-equipo-braian",
+                        "status": "inherit",
+                        "uploaded_to": 16,
+                        "date": "2024-08-29 01:53:01",
+                        "modified": "2024-08-29 01:57:00",
+                        "menu_order": 0,
+                        "mime_type": "image\/png",
+                        "type": "image",
+                        "subtype": "png",
+                        "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                        "width": 367,
+                        "height": 690,
+                        "sizes": {
+                            "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-braian-150x150.png",
+                            "thumbnail-width": 150,
+                            "thumbnail-height": 150,
+                            "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-braian.png",
+                            "medium-width": 367,
+                            "medium-height": 690,
+                            "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-braian.png",
+                            "large-width": 367,
+                            "large-height": 690
+                        }
+                    }
+                },
+                {
+                    "name": "Roberto<br \/>\r\nAlfaro",
+                    "role": "Fot\u00f3grafo",
+                    "linkedin": "https:\/\/www.linkedin.com\/in\/alfarober",
+                    "instagram": "https:\/\/www.instagram.com\/alfaroberson",
+                    "behance": "https:\/\/www.behance.net\/alfarober",
+                    "foto": {
+                        "ID": 234,
+                        "id": 234,
+                        "title": "alohaus-equipo-robert",
+                        "filename": "alohaus-equipo-robert.png",
+                        "filesize": 163189,
+                        "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-robert.png",
+                        "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/alohaus-equipo-robert\/",
+                        "alt": "",
+                        "author": "2",
+                        "description": "",
+                        "caption": "",
+                        "name": "alohaus-equipo-robert",
+                        "status": "inherit",
+                        "uploaded_to": 16,
+                        "date": "2024-08-29 01:53:03",
+                        "modified": "2024-08-29 01:57:00",
+                        "menu_order": 0,
+                        "mime_type": "image\/png",
+                        "type": "image",
+                        "subtype": "png",
+                        "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                        "width": 367,
+                        "height": 690,
+                        "sizes": {
+                            "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-robert-150x150.png",
+                            "thumbnail-width": 150,
+                            "thumbnail-height": 150,
+                            "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-robert.png",
+                            "medium-width": 367,
+                            "medium-height": 690,
+                            "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/alohaus-equipo-robert.png",
+                            "large-width": 367,
+                            "large-height": 690
+                        }
+                    }
+                }
+            ],
+            "clientes_text": " Su satisfacci\u00f3n es nuestra mayor recompensa, nos enorgullece haber contribuido al \u00e9xito de sus proyectos. Juntos, hemos logrado resultados excepcionales, y esperamos seguir colaborando para alcanzar nuevas metas.",
+            "clientes_logos": [
+                {
+                    "ID": 83,
+                    "id": 83,
+                    "title": "clientes_volta-1",
+                    "filename": "clientes_volta-1.svg",
+                    "filesize": 6009,
+                    "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_volta-1.svg",
+                    "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/clientes_volta-1\/",
+                    "alt": "",
+                    "author": "1",
+                    "description": "",
+                    "caption": "",
+                    "name": "clientes_volta-1",
+                    "status": "inherit",
+                    "uploaded_to": 16,
+                    "date": "2024-08-17 20:23:52",
+                    "modified": "2024-08-17 20:23:52",
+                    "menu_order": 0,
+                    "mime_type": "image\/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                    "width": 0,
+                    "height": 0,
+                    "sizes": {
+                        "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_volta-1.svg",
+                        "thumbnail-width": 1,
+                        "thumbnail-height": 1,
+                        "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_volta-1.svg",
+                        "medium-width": 0,
+                        "medium-height": 0,
+                        "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_volta-1.svg",
+                        "large-width": 0,
+                        "large-height": 0
+                    }
+                },
+                {
+                    "ID": 84,
+                    "id": 84,
+                    "title": "clientes_120-1",
+                    "filename": "clientes_120-1.svg",
+                    "filesize": 7473,
+                    "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_120-1.svg",
+                    "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/clientes_120-1\/",
+                    "alt": "",
+                    "author": "1",
+                    "description": "",
+                    "caption": "",
+                    "name": "clientes_120-1",
+                    "status": "inherit",
+                    "uploaded_to": 16,
+                    "date": "2024-08-17 20:23:52",
+                    "modified": "2024-08-17 20:23:52",
+                    "menu_order": 0,
+                    "mime_type": "image\/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                    "width": 0,
+                    "height": 0,
+                    "sizes": {
+                        "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_120-1.svg",
+                        "thumbnail-width": 1,
+                        "thumbnail-height": 1,
+                        "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_120-1.svg",
+                        "medium-width": 0,
+                        "medium-height": 0,
+                        "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_120-1.svg",
+                        "large-width": 0,
+                        "large-height": 0
+                    }
+                },
+                {
+                    "ID": 85,
+                    "id": 85,
+                    "title": "clientes_bendito",
+                    "filename": "clientes_bendito.svg",
+                    "filesize": 11796,
+                    "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_bendito.svg",
+                    "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/clientes_bendito\/",
+                    "alt": "",
+                    "author": "1",
+                    "description": "",
+                    "caption": "",
+                    "name": "clientes_bendito",
+                    "status": "inherit",
+                    "uploaded_to": 16,
+                    "date": "2024-08-17 20:23:52",
+                    "modified": "2024-08-17 20:23:52",
+                    "menu_order": 0,
+                    "mime_type": "image\/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                    "width": 0,
+                    "height": 0,
+                    "sizes": {
+                        "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_bendito.svg",
+                        "thumbnail-width": 1,
+                        "thumbnail-height": 1,
+                        "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_bendito.svg",
+                        "medium-width": 0,
+                        "medium-height": 0,
+                        "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_bendito.svg",
+                        "large-width": 0,
+                        "large-height": 0
+                    }
+                },
+                {
+                    "ID": 86,
+                    "id": 86,
+                    "title": "clientes_coral",
+                    "filename": "clientes_coral.svg",
+                    "filesize": 15318,
+                    "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_coral.svg",
+                    "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/clientes_coral\/",
+                    "alt": "",
+                    "author": "1",
+                    "description": "",
+                    "caption": "",
+                    "name": "clientes_coral",
+                    "status": "inherit",
+                    "uploaded_to": 16,
+                    "date": "2024-08-17 20:23:53",
+                    "modified": "2024-08-17 20:23:53",
+                    "menu_order": 0,
+                    "mime_type": "image\/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                    "width": 0,
+                    "height": 0,
+                    "sizes": {
+                        "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_coral.svg",
+                        "thumbnail-width": 1,
+                        "thumbnail-height": 1,
+                        "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_coral.svg",
+                        "medium-width": 0,
+                        "medium-height": 0,
+                        "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_coral.svg",
+                        "large-width": 0,
+                        "large-height": 0
+                    }
+                },
+                {
+                    "ID": 87,
+                    "id": 87,
+                    "title": "clientes_corimsa",
+                    "filename": "clientes_corimsa.svg",
+                    "filesize": 10481,
+                    "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_corimsa.svg",
+                    "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/clientes_corimsa\/",
+                    "alt": "",
+                    "author": "1",
+                    "description": "",
+                    "caption": "",
+                    "name": "clientes_corimsa",
+                    "status": "inherit",
+                    "uploaded_to": 16,
+                    "date": "2024-08-17 20:23:53",
+                    "modified": "2024-08-17 20:23:53",
+                    "menu_order": 0,
+                    "mime_type": "image\/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                    "width": 0,
+                    "height": 0,
+                    "sizes": {
+                        "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_corimsa.svg",
+                        "thumbnail-width": 1,
+                        "thumbnail-height": 1,
+                        "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_corimsa.svg",
+                        "medium-width": 0,
+                        "medium-height": 0,
+                        "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_corimsa.svg",
+                        "large-width": 0,
+                        "large-height": 0
+                    }
+                },
+                {
+                    "ID": 88,
+                    "id": 88,
+                    "title": "clientes_cpm",
+                    "filename": "clientes_cpm.svg",
+                    "filesize": 12528,
+                    "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_cpm.svg",
+                    "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/clientes_cpm\/",
+                    "alt": "",
+                    "author": "1",
+                    "description": "",
+                    "caption": "",
+                    "name": "clientes_cpm",
+                    "status": "inherit",
+                    "uploaded_to": 16,
+                    "date": "2024-08-17 20:23:53",
+                    "modified": "2024-08-17 20:23:53",
+                    "menu_order": 0,
+                    "mime_type": "image\/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                    "width": 0,
+                    "height": 0,
+                    "sizes": {
+                        "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_cpm.svg",
+                        "thumbnail-width": 1,
+                        "thumbnail-height": 1,
+                        "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_cpm.svg",
+                        "medium-width": 0,
+                        "medium-height": 0,
+                        "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_cpm.svg",
+                        "large-width": 0,
+                        "large-height": 0
+                    }
+                },
+                {
+                    "ID": 89,
+                    "id": 89,
+                    "title": "clientes_cvr",
+                    "filename": "clientes_cvr.svg",
+                    "filesize": 18455,
+                    "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_cvr.svg",
+                    "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/clientes_cvr\/",
+                    "alt": "",
+                    "author": "1",
+                    "description": "",
+                    "caption": "",
+                    "name": "clientes_cvr",
+                    "status": "inherit",
+                    "uploaded_to": 16,
+                    "date": "2024-08-17 20:23:54",
+                    "modified": "2024-08-17 20:23:54",
+                    "menu_order": 0,
+                    "mime_type": "image\/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                    "width": 0,
+                    "height": 0,
+                    "sizes": {
+                        "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_cvr.svg",
+                        "thumbnail-width": 1,
+                        "thumbnail-height": 1,
+                        "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_cvr.svg",
+                        "medium-width": 0,
+                        "medium-height": 0,
+                        "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_cvr.svg",
+                        "large-width": 0,
+                        "large-height": 0
+                    }
+                },
+                {
+                    "ID": 90,
+                    "id": 90,
+                    "title": "clientes_gebi",
+                    "filename": "clientes_gebi.svg",
+                    "filesize": 5790,
+                    "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_gebi.svg",
+                    "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/clientes_gebi\/",
+                    "alt": "",
+                    "author": "1",
+                    "description": "",
+                    "caption": "",
+                    "name": "clientes_gebi",
+                    "status": "inherit",
+                    "uploaded_to": 16,
+                    "date": "2024-08-17 20:23:54",
+                    "modified": "2024-08-17 20:23:54",
+                    "menu_order": 0,
+                    "mime_type": "image\/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                    "width": 0,
+                    "height": 0,
+                    "sizes": {
+                        "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_gebi.svg",
+                        "thumbnail-width": 1,
+                        "thumbnail-height": 1,
+                        "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_gebi.svg",
+                        "medium-width": 0,
+                        "medium-height": 0,
+                        "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_gebi.svg",
+                        "large-width": 0,
+                        "large-height": 0
+                    }
+                },
+                {
+                    "ID": 91,
+                    "id": 91,
+                    "title": "clientes_homeopatia-alemana",
+                    "filename": "clientes_homeopatia-alemana.svg",
+                    "filesize": 37025,
+                    "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_homeopatia-alemana.svg",
+                    "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/clientes_homeopatia-alemana\/",
+                    "alt": "",
+                    "author": "1",
+                    "description": "",
+                    "caption": "",
+                    "name": "clientes_homeopatia-alemana",
+                    "status": "inherit",
+                    "uploaded_to": 16,
+                    "date": "2024-08-17 20:23:54",
+                    "modified": "2024-08-17 20:23:54",
+                    "menu_order": 0,
+                    "mime_type": "image\/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                    "width": 0,
+                    "height": 0,
+                    "sizes": {
+                        "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_homeopatia-alemana.svg",
+                        "thumbnail-width": 1,
+                        "thumbnail-height": 1,
+                        "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_homeopatia-alemana.svg",
+                        "medium-width": 0,
+                        "medium-height": 0,
+                        "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_homeopatia-alemana.svg",
+                        "large-width": 0,
+                        "large-height": 0
+                    }
+                },
+                {
+                    "ID": 92,
+                    "id": 92,
+                    "title": "clientes_moviegroup-1",
+                    "filename": "clientes_moviegroup-1.svg",
+                    "filesize": 6086,
+                    "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_moviegroup-1.svg",
+                    "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/clientes_moviegroup-1\/",
+                    "alt": "",
+                    "author": "1",
+                    "description": "",
+                    "caption": "",
+                    "name": "clientes_moviegroup-1",
+                    "status": "inherit",
+                    "uploaded_to": 16,
+                    "date": "2024-08-17 20:23:55",
+                    "modified": "2024-08-17 20:23:55",
+                    "menu_order": 0,
+                    "mime_type": "image\/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                    "width": 0,
+                    "height": 0,
+                    "sizes": {
+                        "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_moviegroup-1.svg",
+                        "thumbnail-width": 1,
+                        "thumbnail-height": 1,
+                        "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_moviegroup-1.svg",
+                        "medium-width": 0,
+                        "medium-height": 0,
+                        "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_moviegroup-1.svg",
+                        "large-width": 0,
+                        "large-height": 0
+                    }
+                },
+                {
+                    "ID": 93,
+                    "id": 93,
+                    "title": "clientes_na",
+                    "filename": "clientes_na.svg",
+                    "filesize": 2742,
+                    "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_na.svg",
+                    "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/clientes_na\/",
+                    "alt": "",
+                    "author": "1",
+                    "description": "",
+                    "caption": "",
+                    "name": "clientes_na",
+                    "status": "inherit",
+                    "uploaded_to": 16,
+                    "date": "2024-08-17 20:23:55",
+                    "modified": "2024-08-17 20:23:55",
+                    "menu_order": 0,
+                    "mime_type": "image\/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                    "width": 0,
+                    "height": 0,
+                    "sizes": {
+                        "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_na.svg",
+                        "thumbnail-width": 1,
+                        "thumbnail-height": 1,
+                        "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_na.svg",
+                        "medium-width": 0,
+                        "medium-height": 0,
+                        "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_na.svg",
+                        "large-width": 0,
+                        "large-height": 0
+                    }
+                },
+                {
+                    "ID": 94,
+                    "id": 94,
+                    "title": "clientes_vapo-mercado",
+                    "filename": "clientes_vapo-mercado.svg",
+                    "filesize": 236936,
+                    "url": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_vapo-mercado.svg",
+                    "link": "https:\/\/www.alohaus.uy\/gestor\/home-es\/clientes_vapo-mercado\/",
+                    "alt": "",
+                    "author": "1",
+                    "description": "",
+                    "caption": "",
+                    "name": "clientes_vapo-mercado",
+                    "status": "inherit",
+                    "uploaded_to": 16,
+                    "date": "2024-08-17 20:23:56",
+                    "modified": "2024-08-17 20:23:56",
+                    "menu_order": 0,
+                    "mime_type": "image\/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https:\/\/www.alohaus.uy\/gestor\/wp-includes\/images\/media\/default.png",
+                    "width": 0,
+                    "height": 0,
+                    "sizes": {
+                        "thumbnail": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_vapo-mercado.svg",
+                        "thumbnail-width": 1,
+                        "thumbnail-height": 1,
+                        "medium": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_vapo-mercado.svg",
+                        "medium-width": 0,
+                        "medium-height": 0,
+                        "large": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/clientes_vapo-mercado.svg",
+                        "large-width": 0,
+                        "large-height": 0
+                    }
+                }
+            ],
+            "hero_back": "https:\/\/www.alohaus.uy\/gestor\/wp-content\/uploads\/2024\/08\/Back.mp4"
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.alohaus.uy\/gestor\/wp-json\/wp\/v2\/pages\/16"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.alohaus.uy\/gestor\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.alohaus.uy\/gestor\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.alohaus.uy\/gestor\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.alohaus.uy\/gestor\/wp-json\/wp\/v2\/comments?post=16"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 34,
+                    "href": "https:\/\/www.alohaus.uy\/gestor\/wp-json\/wp\/v2\/pages\/16\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 255,
+                    "href": "https:\/\/www.alohaus.uy\/gestor\/wp-json\/wp\/v2\/pages\/16\/revisions\/255"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.alohaus.uy\/gestor\/wp-json\/wp\/v2\/media?parent=16"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "code": "rest_user_invalid_id",
+                    "message": "ID de usuario no v\u00e1lido.",
+                    "data": {
+                        "status": 404
+                    }
+                }
+            ]
+        }
+    }
+]

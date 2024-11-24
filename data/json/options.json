@@ -1,0 +1,26 @@
+{
+    "acf": {
+        "social": [
+            {
+                "label": "Instagram",
+                "link": "https:\/\/www.instagram.com\/alohaus.uy\/"
+            },
+            {
+                "label": "Linkedin",
+                "link": "https:\/\/www.linkedin.com\/company\/alohaus"
+            },
+            {
+                "label": "Vimeo",
+                "link": "https:\/\/vimeo.com\/user204100825"
+            }
+        ],
+        "spain": {
+            "tel": "+34 613 45 37 65 ",
+            "correo_electronico": "camila@alohaus.uy"
+        },
+        "uruguay": {
+            "tel": "+598 91 498 184",
+            "correo_electronico": "hola@alohaus.uy"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+@view-transition {
+  navigation: auto;
+}
+
+::view-transition-old(root){
+  animation: pageOut .5s cubic-bezier(0,0,0.2,1);
+}
+
+::view-transition-new(root){
+  animation: pageIn .5s cubic-bezier(0,0,0.2,1);
+}
+
+/* .img-trans-in{
+  view-transition-name: transImg;
+}
+
+.img-trans-out{
+  view-transition-name: transImg;
+} */
+
+/* ::view-transition-old(transImg),
+::view-transition-new(transImg){
+  mix-blend-mode: normal;
+} */
+
+@keyframes pageOut{
+
+  from{
+    transform: translateY(0);
+    opacity: 1;
+  }
+
+  to{
+    transform: translateY(5rem);
+    opacity: 0;
+  }
+
+}
+
+@keyframes pageIn{
+
+  from{
+    transform: translateY(-5rem);
+    opacity: 0;
+  }
+
+  to{
+    transform: translateY(0);
+    opacity: 1;
+  }
+
+}
+

@@ -1,0 +1,7 @@
+.brand{
+  @apply h-5 xg:h-[3.5rem];
+}
+
+.brand svg{
+ @apply w-auto h-full;
+}

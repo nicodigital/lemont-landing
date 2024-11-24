@@ -1,0 +1,21 @@
+.sticky-parent{
+	@apply h-screen mb-20 pb-20
+}
+
+.sticky{
+	 position: sticky;
+   top: 0;
+   @apply h-screen overflow-hidden;
+}
+
+.scroll-section{
+	@apply absolute top-0 left-0 flex h-screen w-[fit-content];
+	will-change: transform;
+
+	img{
+		width: 100vw;
+		@apply h-screen;
+		object-fit:cover;
+	}
+
+}

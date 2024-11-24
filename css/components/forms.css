@@ -1,0 +1,108 @@
+:root {
+  --field-height: 6rem;
+  --field-margin-bottom: 2rem;
+  --option-height: calc(var(--field-height) + var(--field-margin-bottom));
+  --form-color: currentColor;
+  /* --active-color: black; */
+  --error-color: red;
+}
+
+/* Form Line */
+.form{width: 100%} 
+
+.form .field{
+  position: relative;
+  overflow: hidden;
+  margin-bottom: var(--field-margin-bottom);
+}
+
+.form input:not([type="submit"]), 
+.form textarea{
+  @apply uppercase;
+  font-family: theme(fontFamily.sans);
+  width: 100%;
+  background: transparent;
+  color: var(--form-color);
+  border-bottom: var(--line-width) solid var(--form-color); 
+  min-height: var(--field-height);
+  height: var(--field-height);
+  padding: 2rem 2rem 2rem 0;
+  line-height: 1;
+  outline: none !important;
+  border-radius: 0;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.form textarea {
+  @apply uppercase xg:mt-4;
+  resize: none;
+  overflow: hidden;
+  vertical-align: bottom;
+  min-height: auto;
+  line-height: 1.3;
+  @apply h-auto border-b !important;
+}
+
+.form label,
+.form [type="submit"]{
+  @apply uppercase;
+}
+
+.form .title{
+  @apply block border-b border-white pt-1 pb-2 leading-[1] uppercase;
+  margin-top: var(--field-margin-bottom);
+  margin-bottom: var(--field-margin-bottom);
+}
+
+.form input:focus,
+.form textarea:focus{
+  color: var(--active-color);
+  outline: none !important;
+}
+
+.form input:focus + .valid-msg,
+.form textarea:focus + .valid-msg{
+  display: none !important;
+}
+
+.form input.invalid,
+.form textarea.invalid{
+  border-color: var(--error-color) !important;
+}
+
+.form input.invalid:not(:focus),
+.form textarea.invalid:not(:focus){
+  color: transparent !important;
+}
+
+.form input.invalid + .valid-msg,
+.form textarea.invalid + .valid-msg{
+  @apply block;
+  border-color: var(--error-color) !important;
+}
+
+.form input.invalid::placeholder,
+.form textarea.invalid::placeholder{
+  @apply opacity-0 !important;
+}
+
+.form input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0px 1000px #fff inset;
+}
+
+.form input[type="checkbox"],
+.form  input[type="radio"] {
+  @apply w-auto;
+}
+
+.valid-msg{
+  @apply hidden absolute top-[2.2rem] left-0 font-[400] text-black text-right pointer-events-none;
+}
+
+/* El placeholder solo lo agarra aca */
+input::placeholder, textarea::placeholder{
+  color: var(--form-color) !important;
+  opacity: 1 !important;
+}
+

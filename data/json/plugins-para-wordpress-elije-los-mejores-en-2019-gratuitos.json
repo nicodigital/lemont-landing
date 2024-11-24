@@ -1,0 +1,471 @@
+[
+    {
+        "id": 3131,
+        "date": "2019-06-15T11:27:08",
+        "date_gmt": "2019-06-15T14:27:08",
+        "guid": {
+            "rendered": "https:\/\/nicowebsite.com\/?p=3131"
+        },
+        "modified": "2019-09-09T19:37:58",
+        "modified_gmt": "2019-09-09T22:37:58",
+        "slug": "plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/",
+        "title": {
+            "rendered": "Plugins para WordPress: Elije los mejores en 2019. (Gratuitos)"
+        },
+        "content": {
+            "rendered": "\n<p>Los Plugins para WordPress son herramientas fant\u00e1sticas que nos permiten personalizar nuestra p\u00e1gina web. La posibilidad de contar con estas aplicaciones es quiz\u00e1s el motivo por el cual WordPress se convirti\u00f3 en uno de los CMS m\u00e1s usados del mundo. Pero para quienes no est\u00e1n familiarizados con este tema comenzaremos por definir el concepto. <\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>\u00bfQue\nes un plugin?<\/strong><\/h2>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Un plugin es un programa que se instala para obtener un rendimiento mayor y ampliar las funcionalidades de nuestra web. En primer lugar, te permite por ejemplo, crear una tienda de comercio electr\u00f3nico, mejorar una web sencilla, potenciar una p\u00e1gina corporativa, o destacar tu blog. <\/p>\n\n\n\n<p>Adem\u00e1s puedes mejorar la experiencia del usuario, acelerar tu sitio, optimizar para buscadores, dotar de mayor seguridad, recoger informaci\u00f3n, hacer copias de seguridad, gestionar contactos, etc.<\/p>\n\n\n\n<p>En fin, son muchas\nlas caracter\u00edsticas que te aportan los plugins para WordPress. Aqu\u00ed me centrar\u00e9\nen aquellos que mejoran el desempe\u00f1o de una p\u00e1gina, y que conviene tenerlos\ndesde el comienzo en cualquier proyecto. Por supuesto que es una elecci\u00f3n muy subjetiva.\nPuedes tomarla como una orientaci\u00f3n y luego buscar otros que tambi\u00e9n se adaptan\na tus necesidades. <\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">10 <strong>Plugins para WordPress <\/strong>esenciales<\/h2>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\">1. <strong>WP Super Cach\u00e9<\/strong><\/h3>\n\n\n\n<p> Genera una copia en HTML de cada p\u00e1gina de tu sitio, para facilitar la la carga cuando a los visitantes entren en nuestra web. Sabemos que WordPress es fant\u00e1stico para la gesti\u00f3n de contenidos. Pero su potencia y versatilidad implica procesos que suelen retardar la carga del sitio web y debido a esto es necesario optimizar su contenido e instalar un plugin como este para que cargue m\u00e1s r\u00e1pido. <\/p>\n\n\n\n<h3 class=\"wp-block-heading\">2. <strong>UpdraftPlus Backup<\/strong><\/h3>\n\n\n\n<p> Con este plugin podremos hacer copias de seguridad de nuestra p\u00e1gina web. Todos sabemos lo importante que es contar con un respaldo ante cualquier problema que se presente en el sitio. Adem\u00e1s nos permite hacer copias de seguridad por partes, temas, plugins, base de datos y enviar estos respaldos a diferentes dep\u00f3sitos en la nube como Google Drive, Dropbox, One Drive, Amazon S3 y otros.<\/p>\n\n\n\n<h3 class=\"wp-block-heading\">3. <strong>Yoast SEO<\/strong><\/h3>\n\n\n\n<p> Yoast SEO es el plugin SEO m\u00e1s completo de WordPress. Se encarga de la optimizaci\u00f3n t\u00e9cnica del sitio y te ayuda a optimizar su contenido. Sin duda es la mejor herramienta para mejorar nuestra redacci\u00f3n y escalar posiciones m\u00e1s r\u00e1pido en la SERP. <\/p>\n\n\n\n<h3 class=\"wp-block-heading\">4. <strong>AMP (o accelerated mobile pages)<\/strong><\/h3>\n\n\n\n<p> AMP es un formato de dise\u00f1o web que otorga beneficios en velocidad de carga e incluso de posicionamiento en Google. Adem\u00e1s, facilita la \u00f3ptima visualizaci\u00f3n de las diferentes p\u00e1ginas de un sitio web en cualquier dispositivo m\u00f3vil. El plugin AMP permite experiencias web r\u00e1pidas, atractivas y de alto rendimiento. <\/p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>5. Autoptimize<\/strong><\/h3>\n\n\n\n<p>Hace que la optimizaci\u00f3n de tu sitio sea realmente sencilla. Puede agregar, minimizar y cachear scripts y estilos, inyectar CSS en la cabecera de la p\u00e1gina por defecto pero tambi\u00e9n puede integrar CSS cr\u00edtico y aplazar todo el CSS a\u00f1adido, mover y aplazar los scrips al pie de p\u00e1gina y minimizar el HTML. Puedes optimizar y hacer carga diferida de im\u00e1genes, optimizar Google Fonts, &nbsp;y mucho m\u00e1s!<\/p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>6. Contact Form 7<\/strong><\/h3>\n\n\n\n<p>Con este plugin es muy sencillo gestionar m\u00faltiples formularios de contacto, as\u00ed como personalizar el formulario y el contenido de los correos electr\u00f3nicos. El formulario es compatible con env\u00edos por Ajax, CAPTCHA, filtrado de spam de Akismet y mucho m\u00e1s.<\/p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>7. Really Simple SSL<\/strong><\/h3>\n\n\n\n<p>El plugin Really Simple SSL detecta autom\u00e1ticamente tus ajustes y configura tu web para que funcione en https. La url del sitio y la url de portada se cambian a https. <\/p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>8. Smush<\/strong><\/h3>\n\n\n\n<p><strong> <\/strong>Compresi\u00f3n sin p\u00e9rdida. Puedes eliminar los datos no utilizados sin afectar la calidad de la imagen. Tambi\u00e9n es posible establecer un ancho y alto m\u00e1ximo y las im\u00e1genes grandes se reducir\u00e1n a medida que se compriman. Localiza las im\u00e1genes que est\u00e1n ralentizando tu sitio y muchas funcionalidades m\u00e1s. <\/p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>9. SVG Segura<\/strong><\/h3>\n\n\n\n<p> SVG es una imagen vectorial en formato XML que se usa en algunos sitios web para mostrar logos e \u00edconos. WordPress por defecto no permite cargarlas. Con este plugin tienes la posibilidad de permitir subidas de SVG asegurando que est\u00e9n saneadas para evitar que las vulnerabilidades que afecten su sitio. <\/p>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>10. Jetpack<\/strong><\/h3>\n\n\n\n<p> Un todo en uno creado por <a rel=\"noreferrer noopener\" aria-label=\"Automattic (abre en una nueva pesta\u00f1a)\" href=\"https:\/\/automattic.com\/\" target=\"_blank\">Automattic<\/a>, los mismos que desarrollan el core de WordPress. Es ideal cuando no tienes mucho conocimiento de estos temas ya que cubre los aspectos complementarios que suele demandar un proyecto b\u00e1sico. Este plugin ofrece funciones que incluyen seguridad, herramientas de contenido, participaci\u00f3n de los visitantes, intercambio social, comentarios, protecci\u00f3n contra correo no deseado, carga diferida de im\u00e1genes, almacenamiento en el CDN oficial de WordPress, publicaciones relacionadas y tambi\u00e9n mejora el rendimiento de su sitio.  <\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>\u00bfC\u00f3mo\nmedir la calidad de estas\nherramientas? <\/strong><\/h2>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>WordPress tiene m\u00e1s de 40.000 plugins que se pueden instalar f\u00e1cilmente. Sin embargo, debemos ser cuidadosos a la hora de elegirlos, porque m\u00e1s plugins significa m\u00e1s tiempo de carga. <\/p>\n\n\n\n<p>Por tanto, es importante instalar s\u00f3lo aquellos estrictamente necesarios para no obstaculizar el funcionamiento del sitio. Las pr\u00e1cticas que recomiendo son las siguientes. <\/p>\n\n\n\n<ul class=\"wp-block-list\"><li>En primer lugar debemos verificar las rese\u00f1as que se encuentran a la izquierda y est\u00e1n graficadas con cinco estrellas. Al lado encontrar\u00e1s el n\u00famero exacto de opiniones. Conviene analizar la cantidad de estrellas con las valoraciones realizadas, porque no es lo mismo 5 estrellas de 10 opiniones, que 4 estrellas de 1000 valoraciones. Sin duda nos quedaremos con el \u00faltimo complemento.&nbsp;<\/li><li>Tambi\u00e9n debemos tener en cuenta que los plugins para WordPress que elijamos se actualicen peri\u00f3dicamente. No es recomendable elegir aquellos que pasan m\u00e1s de tres meses sin actualizar. Aunque en caso de programas m\u00e1s sencillos 8 o 10 meses quiz\u00e1s no afecten su rendimiento.&nbsp; <\/li><li>Considerar las instalaciones activas resulta significativo a la hora de analizar la calidad de un plugin. M\u00e1s de 5000 es un n\u00famero razonable. <\/li><li>Revisa la pesta\u00f1a detalles, all\u00ed encontrar\u00e1s m\u00e1s informaci\u00f3n sobre el programa, caracter\u00edsticas, su instalaci\u00f3n, compatibilidades, funcionalidades, etc. Adem\u00e1s est\u00e1 el perfil del creador que te resultar\u00e1 muy \u00fatil porque podremos verificar su experiencia, la calidad del soporte que brinda, o contactarle personalmente si tenemos alguna duda. <\/li><li>Es importante verificar que la versi\u00f3n actual del plugin sea compatible con la versi\u00f3n de nuestro WordPress, para evitar problemas con el sitio. Generalmente la propia herramienta nos advierte esta situaci\u00f3n, pero igual hay que ser muy precavidos con esto.&nbsp; <\/li><\/ul>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<figure class=\"wp-block-image\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"576\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Copia-de-Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer-1024x576.png\" alt=\"Copia De Copy Of Copy Of Allowed Fonts 1 Nico. Free Lance Web Developer\" class=\"wp-image-3141\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Copia-de-Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer-1024x576.png 1024w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Copia-de-Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer-537x302.png 537w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Copia-de-Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer-768x432.png 768w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Copia-de-Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer.png 1920w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/figure>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Precauciones\nal instalar un plugin<\/strong><\/h2>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Vi en alg\u00fan blog el t\u00e9rmino \u201cpluginadictos\u201d. La verdad que me pareci\u00f3 muy ajustado, porque es muy sencillo volverse adictos a estas herramientas que nos aportan tantas soluciones.<\/p>\n\n\n\n<p>No es dif\u00edcil sentir la tentaci\u00f3n de instalar numerosos complementos pensando que de esta forma obtendremos m\u00e1s beneficios para nuestra web. Pero la verdad es que tenemos que elegir, como dijimos, las imprescindibles para el buen funcionamiento del sitio. Debes ser muy cuidadoso, por ejemplo, para no tener m\u00e1s de un plugin con el mismo objetivo, lo que a menudo suele suceder sin que nos demos cuenta.<\/p>\n\n\n\n<p>No podemos olvidar\nque, cuando decidimos prescindir de un plugin y lo desactivamos, igual sigue\nocupando espacio en nuestro servidor. Por tanto, si ya no lo precisamos debemos\ndesactivarlo y desinstalarlo. &nbsp;De esta\nforma evitaremos que nuestra web se vuelva m\u00e1s lenta por acumular programas que\nno usamos. <\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>\u00bfCu\u00e1ntos plugins podemos tener?<\/strong><\/h2>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>En realidad no puedo decir un n\u00famero determinado ya que esto depende de muchos factores. Los plugins para WordPress no siempre ofrecen los mismos resultados. Por ejemplo, alguien puede instalar 20 plugins y su p\u00e1gina funcionar\u00e1 perfectamente. Mientras que otra persona, con la misma cantidad, puede ver afectado el funcionamiento de su sitio. <\/p>\n\n\n\n<p>Y porqu\u00e9 sucede\nesto?<\/p>\n\n\n\n<p>En general depende\ndel alojamiento contratado y las caracter\u00edsticas de los plugins instalados,\nentre otros elementos. <\/p>\n\n\n\n<p>M\u00e1s que la cantidad\ndebemos tener en cuenta la calidad\nde la aplicaci\u00f3n. Es&nbsp; muy importante\nanalizarlos bien. &nbsp;<\/p>\n\n\n\n<p>Igualmente debemos considerar que, una l\u00ednea de c\u00f3digo mal programada en estas herramientas puede comprometer la seguridad y el rendimiento, la usabilidad y el SEO de nuestra web. <\/p>\n\n\n\n<p>Supera el impulso\ninicial de instalar decenas de plugins y racionaliza tu decisi\u00f3n. De todas\nformas, como regla general, te sugiero que vayas monitoreando el funcionamiento\nde la p\u00e1gina a medida que vas agregando estos programas, para no tener\nsorpresas luego.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">\u00bf<strong>D\u00f3nde encontramos los plugins para WordPress<\/strong>?<\/h2>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Estos programas que\ncubren tantas necesidades espec\u00edficas se encuentran en tres espacios\ndiferentes.<\/p>\n\n\n\n<ul class=\"wp-block-list\"><li>En la barra lateral izquierda de nuestro escritorio en WordPress hacemos clic  en \u201cPlugins\u201d y aparecer\u00e1n algunos de ellos por defecto. <\/li><li>Asimismo, si clicamos en \u201cInstalar Plugins\u201d tenemos un buscador que nos permite encontrar por su nombre el que nos interesa. <\/li><li>Si las anteriores ubicaciones no contemplan nuestras expectativas podemos ir directamente al <a href=\"https:\/\/wordpress.org\/plugins\/\">Repositorio Oficial de Plugins WordPress<\/a>. Este es el directorio m\u00e1s grande de plugins gratuitos de WordPress.<\/li><\/ul>\n\n\n\n<p>En el escritorio de WordPress, al hacer\nclic en el men\u00fa Plugins \u2013 Agregar nuevo, la secci\u00f3n superior de la pantalla\ntiene 4 enlaces. Estos son: Destacados, Populares, Recomendados y Favoritos, y\nel cuadro Buscar complementos. La p\u00e1gina Destacada est\u00e1 activa de forma\npredeterminada cuando hace clic en el men\u00fa Plugins &#8211; Agregar nuevo.<\/p>\n\n\n\n<p>Tipo de b\u00fasqueda: Si hacemos clic en la\nflecha del buscador nos da tres opciones: Palabra clave, Autor y Etiqueta. La\npalabra clave busca los nombres y descripciones de los plugins para la palabra\nclave especificada, el Autor busca los complementos creados por el Autor, o en\nlos que el Autor contribuy\u00f3, y la Etiqueta busca los complementos etiquetados\ncomo tales.<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<figure class=\"wp-block-image\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"576\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Copia-de-Copia-de-Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer-1024x576.png\" alt=\"Copia De Copia De Copy Of Copy Of Allowed Fonts 1 Nico. Free Lance Web Developer\" class=\"wp-image-3153\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Copia-de-Copia-de-Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer-1024x576.png 1024w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Copia-de-Copia-de-Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer-537x302.png 537w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Copia-de-Copia-de-Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer-768x432.png 768w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Copia-de-Copia-de-Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer.png 1920w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/figure>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Comparador\nde plugins<\/strong><\/h2>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p><a href=\"https:\/\/bestfreewpplugin.com\/\">Best Free WordPress Plugin<\/a>\nes un comparador de plugins nos brinda informaci\u00f3n sobre los m\u00e1s descargados\npor categor\u00eda. Te permite verificar como funcionan un&nbsp; complemento en comparaci\u00f3n con otros. Nos\nbrinda informaci\u00f3n comparativa sobre descargas, instalaciones, opiniones, etc.\nAdem\u00e1s proporciona un gr\u00e1fico con las descargas y la frecuencia del sondeo que\nt\u00fa puedes especificar (desde un minuto hasta una hora). De esta forma podemos\nrealizar un an\u00e1lisis previo antes de decidir cual usar. <\/p>\n\n\n\n<p>&nbsp;Puedes investigar tu mismo el tipo de complemento que precisas y elegir de acuerdo a tus necesidades. S\u00f3lo ten siempre en cuenta las sugerencias que te dejo en este art\u00edculo para no tener sorpresas luego de instalarlas. <\/p>\n\n\n\n<p><a href=\"https:\/\/www.freepik.es\/fotos-vectores-gratis\/ordenador\">Vector de ordenador creado por freepik &#8211; www.freepik.es<\/a><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Los Plugins para WordPress son herramientas fant\u00e1sticas que nos permiten personalizar nuestra p\u00e1gina web. La posibilidad de contar con estas aplicaciones es quiz\u00e1s el motivo por el cual WordPress se convirti\u00f3 en uno de los CMS m\u00e1s usados del mundo. Pero para quienes no est\u00e1n familiarizados con este tema comenzaremos por definir el concepto. \u00bfQue [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 3187,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "_acf_changed": false,
+            "inline_featured_image": false,
+            "footnotes": ""
+        },
+        "categories": [
+            2
+        ],
+        "class_list": [
+            "post-3131",
+            "post",
+            "type-post",
+            "status-publish",
+            "format-standard",
+            "has-post-thumbnail",
+            "hentry",
+            "category-diseno-web-y-desarrollo"
+        ],
+        "acf": {
+            "custom-title": "Plugins | para Wordpress: | Elije los mejores | en 2019. ",
+            "head-img": true,
+            "color-title": "#ffffff",
+            "offset-title": "",
+            "offset-x-title": "35",
+            "poster-style": "white",
+            "resume_txt": "50",
+            "back-type": "imagen",
+            "back-alpha": "1",
+            "mob-feat-img": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/06\/Plugins-para-WordPress-Nico.-Free-Lance-Web-Developer.jpg",
+            "last-post-offset": "left"
+        },
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Plugins para Wordpress: Elije los mejores en 2019. (Gratuitos) - Nico.<\/title>\n<meta name=\"description\" content=\"Los Plugins para Wordpress son herramientas fant\u00e1sticas que nos permiten personalizar nuestra p\u00e1gina web. Veremos: \u00bfCuales? \u00bfD\u00f3nde? \u00bfC\u00f3mo?\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Plugins para Wordpress: Elije los mejores en 2019. (Gratuitos) - Nico.\" \/>\n<meta property=\"og:description\" content=\"Los Plugins para Wordpress son herramientas fant\u00e1sticas que nos permiten personalizar nuestra p\u00e1gina web. Veremos: \u00bfCuales? \u00bfD\u00f3nde? \u00bfC\u00f3mo?\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/nicolook.webdeveloper\/\" \/>\n<meta property=\"article:published_time\" content=\"2019-06-15T14:27:08+00:00\" \/>\n<meta property=\"article:modified_time\" content=\"2019-09-09T22:37:58+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/06\/Plugins-para-WordPress-2019-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1920\" \/>\n\t<meta property=\"og:image:height\" content=\"1005\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"author\" content=\"Nicolook Admin 2019\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:label1\" content=\"Escrito por\" \/>\n\t<meta name=\"twitter:data1\" content=\"Nicolook Admin 2019\" \/>\n\t<meta name=\"twitter:label2\" content=\"Tiempo de lectura\" \/>\n\t<meta name=\"twitter:data2\" content=\"9 minutos\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/\",\"url\":\"https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/\",\"name\":\"Plugins para Wordpress: Elije los mejores en 2019. (Gratuitos) - Nico.\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/#primaryimage\"},\"image\":{\"@id\":\"https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/#primaryimage\"},\"thumbnailUrl\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/06\/Plugins-para-WordPress-Nico.-Free-Lance-Web-Developer-1.svg\",\"datePublished\":\"2019-06-15T14:27:08+00:00\",\"dateModified\":\"2019-09-09T22:37:58+00:00\",\"author\":{\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1\"},\"description\":\"Los Plugins para Wordpress son herramientas fant\u00e1sticas que nos permiten personalizar nuestra p\u00e1gina web. Veremos: \u00bfCuales? \u00bfD\u00f3nde? \u00bfC\u00f3mo?\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/#primaryimage\",\"url\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/06\/Plugins-para-WordPress-Nico.-Free-Lance-Web-Developer-1.svg\",\"contentUrl\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/06\/Plugins-para-WordPress-Nico.-Free-Lance-Web-Developer-1.svg\",\"caption\":\"Plugins Para Wordpress\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Plugins para WordPress: Elije los mejores en 2019. (Gratuitos)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"},{\"@type\":\"Person\",\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1\",\"name\":\"Nicolook Admin 2019\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g\",\"caption\":\"Nicolook Admin 2019\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "yoast_head_json": {
+            "title": "Plugins para Wordpress: Elije los mejores en 2019. (Gratuitos) - Nico.",
+            "description": "Los Plugins para Wordpress son herramientas fant\u00e1sticas que nos permiten personalizar nuestra p\u00e1gina web. Veremos: \u00bfCuales? \u00bfD\u00f3nde? \u00bfC\u00f3mo?",
+            "robots": {
+                "index": "index",
+                "follow": "follow",
+                "max-snippet": "max-snippet:-1",
+                "max-image-preview": "max-image-preview:large",
+                "max-video-preview": "max-video-preview:-1"
+            },
+            "canonical": "https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/",
+            "og_locale": "es_ES",
+            "og_type": "article",
+            "og_title": "Plugins para Wordpress: Elije los mejores en 2019. (Gratuitos) - Nico.",
+            "og_description": "Los Plugins para Wordpress son herramientas fant\u00e1sticas que nos permiten personalizar nuestra p\u00e1gina web. Veremos: \u00bfCuales? \u00bfD\u00f3nde? \u00bfC\u00f3mo?",
+            "og_url": "https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/",
+            "og_site_name": "Nico.",
+            "article_publisher": "https:\/\/www.facebook.com\/nicolook.webdeveloper\/",
+            "article_published_time": "2019-06-15T14:27:08+00:00",
+            "article_modified_time": "2019-09-09T22:37:58+00:00",
+            "og_image": [
+                {
+                    "width": 1920,
+                    "height": 1005,
+                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/06\/Plugins-para-WordPress-2019-Nico.-Free-Lance-Web-Developer.jpg",
+                    "type": "image\/jpeg"
+                }
+            ],
+            "author": "Nicolook Admin 2019",
+            "twitter_card": "summary_large_image",
+            "twitter_misc": {
+                "Escrito por": "Nicolook Admin 2019",
+                "Tiempo de lectura": "9 minutos"
+            },
+            "schema": {
+                "@context": "https:\/\/schema.org",
+                "@graph": [
+                    {
+                        "@type": "WebPage",
+                        "@id": "https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/",
+                        "url": "https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/",
+                        "name": "Plugins para Wordpress: Elije los mejores en 2019. (Gratuitos) - Nico.",
+                        "isPartOf": {
+                            "@id": "https:\/\/nicowebsite.com\/#website"
+                        },
+                        "primaryImageOfPage": {
+                            "@id": "https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/#primaryimage"
+                        },
+                        "image": {
+                            "@id": "https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/#primaryimage"
+                        },
+                        "thumbnailUrl": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/06\/Plugins-para-WordPress-Nico.-Free-Lance-Web-Developer-1.svg",
+                        "datePublished": "2019-06-15T14:27:08+00:00",
+                        "dateModified": "2019-09-09T22:37:58+00:00",
+                        "author": {
+                            "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1"
+                        },
+                        "description": "Los Plugins para Wordpress son herramientas fant\u00e1sticas que nos permiten personalizar nuestra p\u00e1gina web. Veremos: \u00bfCuales? \u00bfD\u00f3nde? \u00bfC\u00f3mo?",
+                        "breadcrumb": {
+                            "@id": "https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/#breadcrumb"
+                        },
+                        "inLanguage": "es",
+                        "potentialAction": [
+                            {
+                                "@type": "ReadAction",
+                                "target": [
+                                    "https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "inLanguage": "es",
+                        "@id": "https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/#primaryimage",
+                        "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/06\/Plugins-para-WordPress-Nico.-Free-Lance-Web-Developer-1.svg",
+                        "contentUrl": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/06\/Plugins-para-WordPress-Nico.-Free-Lance-Web-Developer-1.svg",
+                        "caption": "Plugins Para Wordpress"
+                    },
+                    {
+                        "@type": "BreadcrumbList",
+                        "@id": "https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/#breadcrumb",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Portada",
+                                "item": "https:\/\/nicowebsite.com\/"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "Plugins para WordPress: Elije los mejores en 2019. (Gratuitos)"
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "WebSite",
+                        "@id": "https:\/\/nicowebsite.com\/#website",
+                        "url": "https:\/\/nicowebsite.com\/",
+                        "name": "Nico.",
+                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                        "potentialAction": [
+                            {
+                                "@type": "SearchAction",
+                                "target": {
+                                    "@type": "EntryPoint",
+                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                },
+                                "query-input": {
+                                    "@type": "PropertyValueSpecification",
+                                    "valueRequired": true,
+                                    "valueName": "search_term_string"
+                                }
+                            }
+                        ],
+                        "inLanguage": "es"
+                    },
+                    {
+                        "@type": "Person",
+                        "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1",
+                        "name": "Nicolook Admin 2019",
+                        "image": {
+                            "@type": "ImageObject",
+                            "inLanguage": "es",
+                            "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/image\/",
+                            "url": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g",
+                            "contentUrl": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g",
+                            "caption": "Nicolook Admin 2019"
+                        }
+                    }
+                ]
+            }
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts\/3131"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/comments?post=3131"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 0,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts\/3131\/revisions"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media\/3187"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media?parent=3131"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories?post=3131"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "Nicolook Admin 2019",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/nicowebsite.com\/author\/nicolook-admin-2019\/",
+                    "slug": "nicolook-admin-2019",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g"
+                    },
+                    "yoast_head": null,
+                    "yoast_head_json": null,
+                    "acf": [],
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/1"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "id": 3187,
+                    "date": "2019-06-15T11:28:53",
+                    "slug": "plugins-para-wordpress",
+                    "type": "attachment",
+                    "link": "https:\/\/nicowebsite.com\/plugins-para-wordpress-elije-los-mejores-en-2019-gratuitos\/plugins-para-wordpress\/",
+                    "title": {
+                        "rendered": "Plugins Para WordPress"
+                    },
+                    "author": 2,
+                    "featured_media": 0,
+                    "acf": [],
+                    "caption": {
+                        "rendered": "<p>Plugins Para Wordpress<\/p>\n"
+                    },
+                    "alt_text": "Plugins Para Wordpress",
+                    "media_type": "image",
+                    "mime_type": "image\/svg+xml",
+                    "media_details": [],
+                    "source_url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/06\/Plugins-para-WordPress-Nico.-Free-Lance-Web-Developer-1.svg",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media\/3187"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/2"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/comments?post=3187"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:term": [
+                [
+                    {
+                        "id": 2,
+                        "link": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                        "name": "Dise\u00f1o web y desarrollo",
+                        "slug": "diseno-web-y-desarrollo",
+                        "taxonomy": "category",
+                        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Dise\u00f1o web y desarrollo - Nico. Desarrollador Web &amp; Wordpress Freelance<\/title>\n<meta name=\"description\" content=\"El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Dise\u00f1o web y desarrollo - Nico. Desarrollador Web &amp; Wordpress Freelance\" \/>\n<meta property=\"og:description\" content=\"El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1200\" \/>\n\t<meta property=\"og:image:height\" content=\"800\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\",\"url\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\",\"name\":\"Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"description\":\"El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb\"},\"inLanguage\":\"es\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Dise\u00f1o web y desarrollo\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+                        "yoast_head_json": {
+                            "title": "Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance",
+                            "description": "El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.",
+                            "robots": {
+                                "index": "index",
+                                "follow": "follow",
+                                "max-snippet": "max-snippet:-1",
+                                "max-image-preview": "max-image-preview:large",
+                                "max-video-preview": "max-video-preview:-1"
+                            },
+                            "canonical": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                            "og_locale": "es_ES",
+                            "og_type": "article",
+                            "og_title": "Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance",
+                            "og_description": "El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.",
+                            "og_url": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                            "og_site_name": "Nico.",
+                            "og_image": [
+                                {
+                                    "width": 1200,
+                                    "height": 800,
+                                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg",
+                                    "type": "image\/jpeg"
+                                }
+                            ],
+                            "twitter_card": "summary_large_image",
+                            "schema": {
+                                "@context": "https:\/\/schema.org",
+                                "@graph": [
+                                    {
+                                        "@type": "CollectionPage",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                                        "url": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                                        "name": "Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance",
+                                        "isPartOf": {
+                                            "@id": "https:\/\/nicowebsite.com\/#website"
+                                        },
+                                        "description": "El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.",
+                                        "breadcrumb": {
+                                            "@id": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb"
+                                        },
+                                        "inLanguage": "es"
+                                    },
+                                    {
+                                        "@type": "BreadcrumbList",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb",
+                                        "itemListElement": [
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 1,
+                                                "name": "Portada",
+                                                "item": "https:\/\/nicowebsite.com\/"
+                                            },
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 2,
+                                                "name": "Dise\u00f1o web y desarrollo"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@type": "WebSite",
+                                        "@id": "https:\/\/nicowebsite.com\/#website",
+                                        "url": "https:\/\/nicowebsite.com\/",
+                                        "name": "Nico.",
+                                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                                        "potentialAction": [
+                                            {
+                                                "@type": "SearchAction",
+                                                "target": {
+                                                    "@type": "EntryPoint",
+                                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                                },
+                                                "query-input": {
+                                                    "@type": "PropertyValueSpecification",
+                                                    "valueRequired": true,
+                                                    "valueName": "search_term_string"
+                                                }
+                                            }
+                                        ],
+                                        "inLanguage": "es"
+                                    }
+                                ]
+                            }
+                        },
+                        "acf": [],
+                        "_links": {
+                            "self": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories\/2"
+                                }
+                            ],
+                            "collection": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories"
+                                }
+                            ],
+                            "about": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/taxonomies\/category"
+                                }
+                            ],
+                            "wp:post_type": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts?categories=2"
+                                }
+                            ],
+                            "curies": [
+                                {
+                                    "name": "wp",
+                                    "href": "https:\/\/api.w.org\/{rel}",
+                                    "templated": true
+                                }
+                            ]
+                        }
+                    }
+                ]
+            ]
+        }
+    }
+]

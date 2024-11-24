@@ -1,0 +1,471 @@
+[
+    {
+        "id": 2712,
+        "date": "2019-05-09T17:50:31",
+        "date_gmt": "2019-05-09T20:50:31",
+        "guid": {
+            "rendered": "https:\/\/nicowebsite.com\/?p=2712"
+        },
+        "modified": "2019-09-07T13:55:26",
+        "modified_gmt": "2019-09-07T16:55:26",
+        "slug": "gutenberg-y-sus-bloques-de-diseno-con-ejemplos",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/",
+        "title": {
+            "rendered": "Gutenberg y sus bloques de dise\u00f1o. (con ejemplos)"
+        },
+        "content": {
+            "rendered": "\n<p>Gutenberg es el nuevo editor de WordPress.  Fue lanzado junto con la versi\u00f3n 5.0 de WordPress y la verdad que tiene herramientas muy importantes para el dise\u00f1o de nuestros contenidos. <\/p>\n\n\n\n<p>En un art\u00edculo anterior dec\u00edamos que <a rel=\"noreferrer noopener\" aria-label=\"este producto de WordPress fue creado en colaboraci\u00f3n con Yoast SEO (abre en una nueva pesta\u00f1a)\" href=\"https:\/\/nicowebsite.com\/wordpress-yoast-seo-trabajando-juntos\/\" target=\"_blank\">este producto de WordPress fue creado en colaboraci\u00f3n con Yoast SEO<\/a>, lo que permite inferir las ventajas que brinda al posicionamiento de nuestra web. <\/p>\n\n\n\n<p>A pesar de que a\u00fan carece de algunas funcionalidades, lo cierto es que introdujo muchos elementos que nos facilitan el trabajo.<\/p>\n\n\n\n<p>Vamos a ver los elementos de dise\u00f1o de Gutenberg: <\/p>\n\n\n\n<ul class=\"wp-block-list\"><li>Espaciador<\/li><li>Medios y Texto<\/li><li>Columnas <\/li><li>M\u00e1s<\/li><li>Bot\u00f3n<\/li><li>Separador <\/li><li>Salto de p\u00e1gina<\/li><\/ul>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div class=\"wp-block-image\"><figure class=\"aligncenter is-resized\"><img loading=\"lazy\" decoding=\"async\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/08\/Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer-1024x576.jpg\" alt=\"Copy Of Copy Of Allowed Fonts 1 Nico. Free Lance Web Developer\" class=\"wp-image-3737\" width=\"583\" height=\"328\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/08\/Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer-1024x576.jpg 1024w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/08\/Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer-537x302.jpg 537w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/08\/Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer-768x432.jpg 768w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/08\/Copy-of-Copy-of-Allowed-Fonts-1-Nico.-Free-Lance-Web-Developer.jpg 1920w\" sizes=\"(max-width: 583px) 100vw, 583px\" \/><\/figure><\/div>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">1. Bloque espaciador<\/h2>\n\n\n\n<p>Su funci\u00f3n es dejar un espacio en blanco en el lugar que t\u00fa indiques. Por ejemplo entre t\u00edtulos y parr\u00e1fos, entre p\u00e1rrafo y p\u00e1rrafo, antes y despu\u00e9s de im\u00e1genes, o en cualquier otro lugar del texto seg\u00fan el dise\u00f1o que quieras imprimirle.<\/p>\n\n\n\n<p>Nos brinda la posibilidad de variar su tama\u00f1o movi\u00e9ndolo desde el punto azul. Y este bloque se transforma en reutilizable lo que sin duda es una gran ventaja. <\/p>\n\n\n\n<p>Este no es precisamente uno de los bloques m\u00e1s funcionales. A mi entender vuelve muy complejo algo que deber\u00eda lograrse con un enter y listo. Adem\u00e1s  en ocasiones mantiene el espaciador que viene por defecto a pesar de que variemos su tama\u00f1o.  <\/p>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">2. Bloque de columnas<\/h2>\n\n\n\n<p>Las columnas es uno de los bloques m\u00e1s vers\u00e1tiles que trae Gutenberg. Puede ayudarnos a dejar de depender de algunos constructores como Visual Composer u otros. <\/p>\n\n\n\n<p>Nos da la posibilidad de tener un bloque con las columnas necesarias variando su cantidad en la barra lateral.<\/p>\n\n\n\n<p>Tambi\u00e9n nos permite agregar im\u00e1genes y mejorar el aspecto visual de nuestro texto. La barra flotante habilita diferentes dimensiones y adem\u00e1s contamos con las opciones generales de otros bloques.<\/p>\n\n\n\n<p>Aqu\u00ed te dejo un ejemplo: <\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div class=\"wp-block-columns has-3-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\">\n<p style=\"text-align:center\"><strong>Perros<\/strong><\/p>\n\n\n\n<figure class=\"wp-block-image\"><img loading=\"lazy\" decoding=\"async\" width=\"509\" height=\"522\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Imagen1-Nico.-Free-Lance-Web-Developer.png\" alt=\"Imagen1\" class=\"wp-image-2757\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Imagen1-Nico.-Free-Lance-Web-Developer.png 509w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Imagen1-Nico.-Free-Lance-Web-Developer-294x302.png 294w\" sizes=\"(max-width: 509px) 100vw, 509px\" \/><\/figure>\n\n\n\n<p style=\"text-align:center\">Cuidados especiales. Atenci\u00f3n las 24 horas. <\/p>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\">\n<p style=\"text-align:center\"><strong>Gatos<\/strong><\/p>\n\n\n\n<figure class=\"wp-block-image\"><img loading=\"lazy\" decoding=\"async\" width=\"521\" height=\"522\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Imagen3-Nico.-Free-Lance-Web-Developer.png\" alt=\"Imagen3\" class=\"wp-image-2763\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Imagen3-Nico.-Free-Lance-Web-Developer.png 521w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Imagen3-Nico.-Free-Lance-Web-Developer-150x150.png 150w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Imagen3-Nico.-Free-Lance-Web-Developer-301x302.png 301w\" sizes=\"(max-width: 521px) 100vw, 521px\" \/><\/figure>\n\n\n\n<p style=\"text-align:center\">Cuidados especiales. Atenci\u00f3n las 24 horas.  <\/p>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\">\n<p style=\"text-align:center\"><strong>Aves<\/strong><\/p>\n\n\n\n<figure class=\"wp-block-image\"><img loading=\"lazy\" decoding=\"async\" width=\"534\" height=\"516\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Imagen4-Nico.-Free-Lance-Web-Developer.png\" alt=\"Imagen4\" class=\"wp-image-2773\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Imagen4-Nico.-Free-Lance-Web-Developer.png 534w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Imagen4-Nico.-Free-Lance-Web-Developer-313x302.png 313w\" sizes=\"(max-width: 534px) 100vw, 534px\" \/><\/figure>\n\n\n\n<p style=\"text-align:center\">Cuidados especiales. Atenci\u00f3n las 24 horas.  <\/p>\n<\/div>\n<\/div>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Es quiz\u00e1s un poco dif\u00edcil de manejar al principio, pero con la pr\u00e1ctica se vuelve muy sencillo de usar y los resultados son muy buenos <\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">3. Bloque de medios y texto<\/h2>\n\n\n\n<p>Este bloque nos permite colocar un archivo multimedia que puede ser un video o una imagen. Adem\u00e1s podemos agregar texto explicativo y editarlo para que se vea m\u00e1s atractivo.<\/p>\n\n\n\n<p>De la misma forma que en el bloque de columnas, es muy sencillo aplicar diferentes dimensiones. Contiene las mismas opciones de los dem\u00e1s elementos.<\/p>\n\n\n\n<p>Podemos cambiar el tama\u00f1o de fuente y ajustar el color de fondo y de texto en la barra lateral. Tambi\u00e9n es posible agregar enlaces en el texto lo que resulta muy ventajoso a la hora de promocionar determinados productos. <\/p>\n\n\n\n<p>Estos son algunos ejemplos:<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\">Agencia de viajes<\/h3>\n\n\n\n<div class=\"wp-block-media-text alignwide has-media-on-the-right has-luminous-vivid-orange-background-color\"><figure class=\"wp-block-media-text__media\"><img loading=\"lazy\" decoding=\"async\" width=\"626\" height=\"417\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/torre-eiffel_1160-765-Nico.-Free-Lance-Web-Developer.jpg\" alt=\"Torre Eiffel  Par\u00eds\" class=\"wp-image-2716\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/torre-eiffel_1160-765-Nico.-Free-Lance-Web-Developer.jpg 626w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/torre-eiffel_1160-765-Nico.-Free-Lance-Web-Developer-453x302.jpg 453w\" sizes=\"(max-width: 626px) 100vw, 626px\" \/><\/figure><div class=\"wp-block-media-text__content\">\n<p style=\"text-align:center\" class=\"has-text-color has-very-light-gray-color\"><strong>Par\u00eds en oto\u00f1o. Una experiencia inolvidable.<\/strong><\/p>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-media-text alignwide has-vivid-green-cyan-background-color\"><figure class=\"wp-block-media-text__media\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"680\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/st-peters-basilica-2875093_1920-Nico.-Free-Lance-Web-Developer-1024x680.jpg\" alt=\"St Peters Basilica 2875093 1920\" class=\"wp-image-2741\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/st-peters-basilica-2875093_1920-Nico.-Free-Lance-Web-Developer-1024x680.jpg 1024w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/st-peters-basilica-2875093_1920-Nico.-Free-Lance-Web-Developer-455x302.jpg 455w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/st-peters-basilica-2875093_1920-Nico.-Free-Lance-Web-Developer-768x510.jpg 768w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/st-peters-basilica-2875093_1920-Nico.-Free-Lance-Web-Developer.jpg 1920w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/figure><div class=\"wp-block-media-text__content\">\n<p style=\"text-align:center\" class=\"has-text-color has-very-light-gray-color\"><strong>Roma y sus maravillas, ideal para tus vacaciones.<\/strong><\/p>\n<\/div><\/div>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\">Real State<\/h3>\n\n\n\n<div class=\"wp-block-media-text alignwide has-media-on-the-right has-vivid-cyan-blue-background-color\"><figure class=\"wp-block-media-text__media\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"698\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/architecture-1867187_1920-Nico.-Free-Lance-Web-Developer-1024x698.jpg\" alt=\"Architecture 1867187 1920\" class=\"wp-image-2729\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/architecture-1867187_1920-Nico.-Free-Lance-Web-Developer-1024x698.jpg 1024w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/architecture-1867187_1920-Nico.-Free-Lance-Web-Developer-443x302.jpg 443w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/architecture-1867187_1920-Nico.-Free-Lance-Web-Developer-768x524.jpg 768w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/architecture-1867187_1920-Nico.-Free-Lance-Web-Developer.jpg 1920w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/figure><div class=\"wp-block-media-text__content\">\n<p style=\"text-align:center\" class=\"has-text-color has-very-light-gray-color\"><strong>La casa de tus sue\u00f1os  en Inmobiliaria Dreams. Vis\u00edtanos.<\/strong><\/p>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-media-text alignwide has-vivid-red-background-color\"><figure class=\"wp-block-media-text__media\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"683\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/residence-2219972_1920-Nico.-Free-Lance-Web-Developer-1024x683.jpg\" alt=\"Residence 2219972 1920\" class=\"wp-image-2744\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/residence-2219972_1920-Nico.-Free-Lance-Web-Developer-1024x683.jpg 1024w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/residence-2219972_1920-Nico.-Free-Lance-Web-Developer-453x302.jpg 453w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/residence-2219972_1920-Nico.-Free-Lance-Web-Developer-768x512.jpg 768w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/residence-2219972_1920-Nico.-Free-Lance-Web-Developer.jpg 1920w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/figure><div class=\"wp-block-media-text__content\">\n<p style=\"text-align:center\" class=\"has-text-color has-very-light-gray-color\"><strong>Proyecto residencias en balneario La Costa. Quedan pocos unidades.<\/strong><\/p>\n<\/div><\/div>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">4. Bloque M\u00e1s<\/h2>\n\n\n\n<p> El bloque Leer M\u00e1s es el que se\u00f1ala el l\u00edmite entre entre el contenido que se va a mostrar y el que requiere un clic del usuario para mostrarse. Es muy \u00fatil si tu estrategia de contenidos ha considerado este punto.  <\/p>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">5. Bloque de bot\u00f3n<\/h2>\n\n\n\n<p>Se trata de un complemento que no se encontraba en el editor anterior. Antes deb\u00edamos insertar una imagen y enlazarla, todo esto ahora se resuelve con esta herramienta. Con la posibilidad de insertar el bot\u00f3n se nos facilitan mucho las tareas. <\/p>\n\n\n\n<p>S\u00f3lo debes insertar el texto y agregar el link en la opci\u00f3n que aparece y listo. Para modificar el color de fondo y tambi\u00e9n el color del texto ta ofrece un panel con varios tonos. E incluso ofrece sugerencias sobre las combinaciones.<\/p>\n\n\n\n<p>Si bien podemos cambiar el estilo que viene por defecto, las opciones son  escasas. De igual manera es un recurso muy pr\u00e1ctico.<\/p>\n\n\n\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-background has-luminous-vivid-orange-background-color\">El bloque de bot\u00f3n<\/a><\/div>\n\n\n\n<div class=\"wp-block-button aligncenter is-style-outline is-style-outline--1bc46d280ec62bced0c476fa5e237a2f\"><a class=\"wp-block-button__link has-background has-luminous-vivid-orange-background-color\">El bloque de bot\u00f3n<\/a><\/div>\n\n\n\n<div class=\"wp-block-button aligncenter is-style-squared\"><a class=\"wp-block-button__link has-background has-luminous-vivid-orange-background-color\">El bloque de bot\u00f3n<\/a><\/div>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">6. Bloque separador<\/h2>\n\n\n\n<p>Se trata de una funcionalidad que nos permite incorporar una l\u00ednea a nuestro texto, por ejemplo as\u00ed:<\/p>\n\n\n\n<hr class=\"wp-block-separator\"\/>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">7. Bloque salto de p\u00e1gina<\/h2>\n\n\n\n<p>Tambi\u00e9n este recurso es interesante ya que nos permite incluir la paginaci\u00f3n de nuestra entrada.  Por tanto, nosotros indicamos cuando dividir el texto y el lector para continuar deber\u00e1 hacer clic en el n\u00famero de pagina siguiente.<\/p>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Los ejemplos anteriores son s\u00f3lo una muestra de todo lo que podemos hacer con el editor Gutenberg.  Adem\u00e1s, si aplicamos un poco de creatividad  y  lo usamos bien puede transformarse en una herramienta muy importante para destacar tus publicaciones. <\/p>\n\n\n\n<p>An\u00edmate y ver\u00e1s los resultados.<\/p>\n\n\n\n<p>Im\u00e1genes: <a rel=\"noreferrer noopener\" href=\"https:\/\/www.freepik.es\/\" target=\"_blank\">Freepik<\/a>, <a rel=\"noreferrer noopener\" href=\"https:\/\/pixabay.com\/es\/\" target=\"_blank\">Pixabay<\/a><\/p>\n\n\n\n<p>Traducci\u00f3n: <a rel=\"noreferrer noopener\" href=\"https:\/\/www.deepl.com\/translator\" target=\"_blank\">Deepl<\/a><\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Gutenberg es el nuevo editor de WordPress. Fue lanzado junto con la versi\u00f3n 5.0 de WordPress y la verdad que tiene herramientas muy importantes para el dise\u00f1o de nuestros contenidos. En un art\u00edculo anterior dec\u00edamos que este producto de WordPress fue creado en colaboraci\u00f3n con Yoast SEO, lo que permite inferir las ventajas que brinda [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 2878,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "_acf_changed": false,
+            "inline_featured_image": false,
+            "footnotes": ""
+        },
+        "categories": [
+            2
+        ],
+        "class_list": [
+            "post-2712",
+            "post",
+            "type-post",
+            "status-publish",
+            "format-standard",
+            "has-post-thumbnail",
+            "hentry",
+            "category-diseno-web-y-desarrollo"
+        ],
+        "acf": {
+            "custom-title": "Gutenberg | y sus bloques | de dise\u00f1o | (con ejemplos)",
+            "head-img": true,
+            "color-title": "#000000",
+            "offset-title": "",
+            "offset-x-title": "0",
+            "poster-style": "black",
+            "resume_txt": "50",
+            "back-type": "imagen",
+            "back-alpha": "1",
+            "mob-feat-img": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Gutenberg-y-sus-bloques-de-dise\u00f1o-2-Nico.-Free-Lance-Web-Developer-1.svg",
+            "last-post-offset": "left"
+        },
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Gutenberg y sus bloques de dise\u00f1o. (con ejemplos) - Nico.<\/title>\n<meta name=\"description\" content=\"? Gutenberg es el nuevo editor de Wordpress. \u27a1\ufe0f Veremos algunos bloques de elementos de dise\u00f1o para destacar tus publicaciones.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Gutenberg y sus bloques de dise\u00f1o. (con ejemplos) - Nico.\" \/>\n<meta property=\"og:description\" content=\"? Gutenberg es el nuevo editor de Wordpress. \u27a1\ufe0f Veremos algunos bloques de elementos de dise\u00f1o para destacar tus publicaciones.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/nicolook.webdeveloper\/\" \/>\n<meta property=\"article:published_time\" content=\"2019-05-09T20:50:31+00:00\" \/>\n<meta property=\"article:modified_time\" content=\"2019-09-07T16:55:26+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Gutenberg-y-sus-bloques-de-dise\u00f1o-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1920\" \/>\n\t<meta property=\"og:image:height\" content=\"1005\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"author\" content=\"Nicolook Admin 2019\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:label1\" content=\"Escrito por\" \/>\n\t<meta name=\"twitter:data1\" content=\"Nicolook Admin 2019\" \/>\n\t<meta name=\"twitter:label2\" content=\"Tiempo de lectura\" \/>\n\t<meta name=\"twitter:data2\" content=\"4 minutos\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/\",\"url\":\"https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/\",\"name\":\"Gutenberg y sus bloques de dise\u00f1o. (con ejemplos) - Nico.\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/#primaryimage\"},\"image\":{\"@id\":\"https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/#primaryimage\"},\"thumbnailUrl\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Gutenberg-y-sus-bloques-de-dise\u00f1o-Nico.-Free-Lance-Web-Developer-9.svg\",\"datePublished\":\"2019-05-09T20:50:31+00:00\",\"dateModified\":\"2019-09-07T16:55:26+00:00\",\"author\":{\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1\"},\"description\":\"? Gutenberg es el nuevo editor de Wordpress. \u27a1\ufe0f Veremos algunos bloques de elementos de dise\u00f1o para destacar tus publicaciones.\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/#primaryimage\",\"url\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Gutenberg-y-sus-bloques-de-dise\u00f1o-Nico.-Free-Lance-Web-Developer-9.svg\",\"contentUrl\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Gutenberg-y-sus-bloques-de-dise\u00f1o-Nico.-Free-Lance-Web-Developer-9.svg\",\"caption\":\"Gutenberg Y Sus Bloques De Dise\u00f1o\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Gutenberg y sus bloques de dise\u00f1o. (con ejemplos)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"},{\"@type\":\"Person\",\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1\",\"name\":\"Nicolook Admin 2019\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g\",\"caption\":\"Nicolook Admin 2019\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "yoast_head_json": {
+            "title": "Gutenberg y sus bloques de dise\u00f1o. (con ejemplos) - Nico.",
+            "description": "? Gutenberg es el nuevo editor de Wordpress. \u27a1\ufe0f Veremos algunos bloques de elementos de dise\u00f1o para destacar tus publicaciones.",
+            "robots": {
+                "index": "index",
+                "follow": "follow",
+                "max-snippet": "max-snippet:-1",
+                "max-image-preview": "max-image-preview:large",
+                "max-video-preview": "max-video-preview:-1"
+            },
+            "canonical": "https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/",
+            "og_locale": "es_ES",
+            "og_type": "article",
+            "og_title": "Gutenberg y sus bloques de dise\u00f1o. (con ejemplos) - Nico.",
+            "og_description": "? Gutenberg es el nuevo editor de Wordpress. \u27a1\ufe0f Veremos algunos bloques de elementos de dise\u00f1o para destacar tus publicaciones.",
+            "og_url": "https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/",
+            "og_site_name": "Nico.",
+            "article_publisher": "https:\/\/www.facebook.com\/nicolook.webdeveloper\/",
+            "article_published_time": "2019-05-09T20:50:31+00:00",
+            "article_modified_time": "2019-09-07T16:55:26+00:00",
+            "og_image": [
+                {
+                    "width": 1920,
+                    "height": 1005,
+                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Gutenberg-y-sus-bloques-de-dise\u00f1o-Nico.-Free-Lance-Web-Developer.jpg",
+                    "type": "image\/jpeg"
+                }
+            ],
+            "author": "Nicolook Admin 2019",
+            "twitter_card": "summary_large_image",
+            "twitter_misc": {
+                "Escrito por": "Nicolook Admin 2019",
+                "Tiempo de lectura": "4 minutos"
+            },
+            "schema": {
+                "@context": "https:\/\/schema.org",
+                "@graph": [
+                    {
+                        "@type": "WebPage",
+                        "@id": "https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/",
+                        "url": "https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/",
+                        "name": "Gutenberg y sus bloques de dise\u00f1o. (con ejemplos) - Nico.",
+                        "isPartOf": {
+                            "@id": "https:\/\/nicowebsite.com\/#website"
+                        },
+                        "primaryImageOfPage": {
+                            "@id": "https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/#primaryimage"
+                        },
+                        "image": {
+                            "@id": "https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/#primaryimage"
+                        },
+                        "thumbnailUrl": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Gutenberg-y-sus-bloques-de-dise\u00f1o-Nico.-Free-Lance-Web-Developer-9.svg",
+                        "datePublished": "2019-05-09T20:50:31+00:00",
+                        "dateModified": "2019-09-07T16:55:26+00:00",
+                        "author": {
+                            "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1"
+                        },
+                        "description": "? Gutenberg es el nuevo editor de Wordpress. \u27a1\ufe0f Veremos algunos bloques de elementos de dise\u00f1o para destacar tus publicaciones.",
+                        "breadcrumb": {
+                            "@id": "https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/#breadcrumb"
+                        },
+                        "inLanguage": "es",
+                        "potentialAction": [
+                            {
+                                "@type": "ReadAction",
+                                "target": [
+                                    "https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "inLanguage": "es",
+                        "@id": "https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/#primaryimage",
+                        "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Gutenberg-y-sus-bloques-de-dise\u00f1o-Nico.-Free-Lance-Web-Developer-9.svg",
+                        "contentUrl": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Gutenberg-y-sus-bloques-de-dise\u00f1o-Nico.-Free-Lance-Web-Developer-9.svg",
+                        "caption": "Gutenberg Y Sus Bloques De Dise\u00f1o"
+                    },
+                    {
+                        "@type": "BreadcrumbList",
+                        "@id": "https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/#breadcrumb",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Portada",
+                                "item": "https:\/\/nicowebsite.com\/"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "Gutenberg y sus bloques de dise\u00f1o. (con ejemplos)"
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "WebSite",
+                        "@id": "https:\/\/nicowebsite.com\/#website",
+                        "url": "https:\/\/nicowebsite.com\/",
+                        "name": "Nico.",
+                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                        "potentialAction": [
+                            {
+                                "@type": "SearchAction",
+                                "target": {
+                                    "@type": "EntryPoint",
+                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                },
+                                "query-input": {
+                                    "@type": "PropertyValueSpecification",
+                                    "valueRequired": true,
+                                    "valueName": "search_term_string"
+                                }
+                            }
+                        ],
+                        "inLanguage": "es"
+                    },
+                    {
+                        "@type": "Person",
+                        "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1",
+                        "name": "Nicolook Admin 2019",
+                        "image": {
+                            "@type": "ImageObject",
+                            "inLanguage": "es",
+                            "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/image\/",
+                            "url": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g",
+                            "contentUrl": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g",
+                            "caption": "Nicolook Admin 2019"
+                        }
+                    }
+                ]
+            }
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts\/2712"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/comments?post=2712"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 0,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts\/2712\/revisions"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media\/2878"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media?parent=2712"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories?post=2712"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "Nicolook Admin 2019",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/nicowebsite.com\/author\/nicolook-admin-2019\/",
+                    "slug": "nicolook-admin-2019",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g"
+                    },
+                    "yoast_head": null,
+                    "yoast_head_json": null,
+                    "acf": [],
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/1"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "id": 2878,
+                    "date": "2019-05-09T19:34:16",
+                    "slug": "gutenberg-y-sus-bloques-de-diseno-10",
+                    "type": "attachment",
+                    "link": "https:\/\/nicowebsite.com\/gutenberg-y-sus-bloques-de-diseno-con-ejemplos\/gutenberg-y-sus-bloques-de-diseno-10\/",
+                    "title": {
+                        "rendered": "Gutenberg Y Sus Bloques De Dise\u00f1o"
+                    },
+                    "author": 2,
+                    "featured_media": 0,
+                    "acf": [],
+                    "caption": {
+                        "rendered": "<p>Gutenberg Y Sus Bloques De Dise\u00f1o<\/p>\n"
+                    },
+                    "alt_text": "Gutenberg Y Sus Bloques De Dise\u00f1o",
+                    "media_type": "image",
+                    "mime_type": "image\/svg+xml",
+                    "media_details": [],
+                    "source_url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/05\/Gutenberg-y-sus-bloques-de-dise\u00f1o-Nico.-Free-Lance-Web-Developer-9.svg",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media\/2878"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/2"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/comments?post=2878"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:term": [
+                [
+                    {
+                        "id": 2,
+                        "link": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                        "name": "Dise\u00f1o web y desarrollo",
+                        "slug": "diseno-web-y-desarrollo",
+                        "taxonomy": "category",
+                        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Dise\u00f1o web y desarrollo - Nico. Desarrollador Web &amp; Wordpress Freelance<\/title>\n<meta name=\"description\" content=\"El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Dise\u00f1o web y desarrollo - Nico. Desarrollador Web &amp; Wordpress Freelance\" \/>\n<meta property=\"og:description\" content=\"El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1200\" \/>\n\t<meta property=\"og:image:height\" content=\"800\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\",\"url\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/\",\"name\":\"Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"description\":\"El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb\"},\"inLanguage\":\"es\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Dise\u00f1o web y desarrollo\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+                        "yoast_head_json": {
+                            "title": "Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance",
+                            "description": "El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.",
+                            "robots": {
+                                "index": "index",
+                                "follow": "follow",
+                                "max-snippet": "max-snippet:-1",
+                                "max-image-preview": "max-image-preview:large",
+                                "max-video-preview": "max-video-preview:-1"
+                            },
+                            "canonical": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                            "og_locale": "es_ES",
+                            "og_type": "article",
+                            "og_title": "Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance",
+                            "og_description": "El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.",
+                            "og_url": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                            "og_site_name": "Nico.",
+                            "og_image": [
+                                {
+                                    "width": 1200,
+                                    "height": 800,
+                                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg",
+                                    "type": "image\/jpeg"
+                                }
+                            ],
+                            "twitter_card": "summary_large_image",
+                            "schema": {
+                                "@context": "https:\/\/schema.org",
+                                "@graph": [
+                                    {
+                                        "@type": "CollectionPage",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                                        "url": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/",
+                                        "name": "Dise\u00f1o web y desarrollo - Nico. Desarrollador Web & Wordpress Freelance",
+                                        "isPartOf": {
+                                            "@id": "https:\/\/nicowebsite.com\/#website"
+                                        },
+                                        "description": "El dise\u00f1o web hace que tu sitio sea atractivo y f\u00e1cil de usar, y el desarrollo web le aporta las caracter\u00edsticas y funciones necesarias.",
+                                        "breadcrumb": {
+                                            "@id": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb"
+                                        },
+                                        "inLanguage": "es"
+                                    },
+                                    {
+                                        "@type": "BreadcrumbList",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/diseno-web-y-desarrollo\/#breadcrumb",
+                                        "itemListElement": [
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 1,
+                                                "name": "Portada",
+                                                "item": "https:\/\/nicowebsite.com\/"
+                                            },
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 2,
+                                                "name": "Dise\u00f1o web y desarrollo"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@type": "WebSite",
+                                        "@id": "https:\/\/nicowebsite.com\/#website",
+                                        "url": "https:\/\/nicowebsite.com\/",
+                                        "name": "Nico.",
+                                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                                        "potentialAction": [
+                                            {
+                                                "@type": "SearchAction",
+                                                "target": {
+                                                    "@type": "EntryPoint",
+                                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                                },
+                                                "query-input": {
+                                                    "@type": "PropertyValueSpecification",
+                                                    "valueRequired": true,
+                                                    "valueName": "search_term_string"
+                                                }
+                                            }
+                                        ],
+                                        "inLanguage": "es"
+                                    }
+                                ]
+                            }
+                        },
+                        "acf": [],
+                        "_links": {
+                            "self": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories\/2"
+                                }
+                            ],
+                            "collection": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories"
+                                }
+                            ],
+                            "about": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/taxonomies\/category"
+                                }
+                            ],
+                            "wp:post_type": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts?categories=2"
+                                }
+                            ],
+                            "curies": [
+                                {
+                                    "name": "wp",
+                                    "href": "https:\/\/api.w.org\/{rel}",
+                                    "templated": true
+                                }
+                            ]
+                        }
+                    }
+                ]
+            ]
+        }
+    }
+]

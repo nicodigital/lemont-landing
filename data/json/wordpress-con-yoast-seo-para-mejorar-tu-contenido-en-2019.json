@@ -1,0 +1,471 @@
+[
+    {
+        "id": 1419,
+        "date": "2019-02-08T14:33:15",
+        "date_gmt": "2019-02-08T17:33:15",
+        "guid": {
+            "rendered": "https:\/\/nicowebsite.com\/?p=1419"
+        },
+        "modified": "2019-08-30T23:46:04",
+        "modified_gmt": "2019-08-31T02:46:04",
+        "slug": "wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/",
+        "title": {
+            "rendered": "WordPress con Yoast Seo: Para mejorar tu contenido en 2019"
+        },
+        "content": {
+            "rendered": "\n<p><\/p>\n\n\n\n<p>WordPress con Yoast Seo es la combinaci\u00f3n ideal para posicionar cualquier p\u00e1gina web. Si eres de los que escribes y escribes y no ves resultados, seguramente no tienes instalado el plugin de Yoast Seo. Esta herramienta ayuda mucho a mejorar la visibilidad de tus publicaciones en las b\u00fasquedas de Google u otros buscadores. Por tanto, si lo utilizas bien, de forma gradual ir\u00e1s mejorando tu posicionamiento en la SERP (p\u00e1ginas de resultados de un buscador).<\/p>\n\n\n\n<p>Recordemos que el SEO trata de los procesos necesarios para lograr las primeras posiciones en los buscadores (Search Engine Optimization). Son un conjunto de t\u00e9cnicas que se aplican tanto dentro del sitio (On site) como fuera de \u00e9l (Off site) . La optimizaci\u00f3n del contenido de tu web&nbsp; est\u00e1 inclu\u00edda en la primera categor\u00eda, On site.  El contenido optimizado mejora el posicionamiento. Pero como dec\u00eda en un art\u00edculo anterior:  <a href=\"https:\/\/nicowebsite.com\/marketing-de-contenidos-5-beneficios\/\">no cualquier contenido es apto para posicionar una p\u00e1gina web. <\/a><\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Yoast SEO de WordPress facilita tu trabajo de redacci\u00f3n<\/strong><\/h2>\n\n\n\n<p>Elaborar contenido para tu web no es lo mismo que redactar un texto acad\u00e9mico, literario o period\u00edstico. A veces pensamos que si escribimos bien es suficiente, pero no es as\u00ed. Redactar un art\u00edculo, o cualquier texto para una p\u00e1gina, requiere conocimientos espec\u00edficos de SEO. Si bien no es dif\u00edcil adquirirlos, insume mucho tiempo crear un contenido optimizado. <\/p>\n\n\n\n<p>Aqu\u00ed es donde Yoast SEO interviene para simplificar nuestra labor. En primer lugar este plugin nos ayuda a mejorar la redacci\u00f3n. \u00bfComo lo hace? Orientando nuestro trabajo para que las palabras clave, t\u00edtulos y subt\u00edtulos, p\u00e1rrafos y la estructura general se utilicen conforme a las reglas del SEO. Tambi\u00e9n permite optimizar las publicaciones en redes sociales variando t\u00edtulos e im\u00e1genes, entre otras funcionalidades. &nbsp;<\/p>\n\n\n\n<p>De esa forma, con el tiempo nuestro contenido ir\u00e1 escalando hacia los primeros lugares en los buscadores. Esto nos brindar\u00e1 m\u00e1s visibilidad y mayor cantidad de clics. En consecuencia nuestras posibilidades de conversi\u00f3n ir\u00e1n en aumento. Se trata de un proceso gradual pero muy eficaz.<\/p>\n\n\n\n<p>Si bien este plugin tiene una versi\u00f3n de pago, con las herramientas que proporciona la versi\u00f3n free, podemos obtener mejoras importantes para nuestros textos. A continuaci\u00f3n te dejo s\u00f3lo algunas de las ventajas que nos brinda esta versi\u00f3n de Yoast Seo.&nbsp; <\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Beneficios que nos brinda la versi\u00f3n\ngratuita de Yoast Seo<\/strong><\/h2>\n\n\n\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Yoast_Logo-Nico.-Free-Lance-Web-Developer-1.svg\" alt=\"Yoast_Logo\" class=\"wp-image-1614\"\/><\/figure><\/div>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>T\u00edtulo SEO<\/strong><\/h3>\n\n\n\n<p>El t\u00edtulo de SEO es parte del resultado cuando buscas algo en Google u otro buscador.  La lista que aparece suele tener estos tres elementos:<\/p>\n\n\n\n<ul class=\"wp-block-list\"><li>un t\u00edtulo de SEO (en azul)<\/li><li>una URL (en verde)<\/li><li>una meta descripci\u00f3n (en negro)<\/li><\/ul>\n\n\n\n<p>El resultado de b\u00fasqueda aparece as\u00ed:<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<figure class=\"wp-block-image\"><img loading=\"lazy\" decoding=\"async\" width=\"874\" height=\"144\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Screenshot_5-Nico.-Free-Lance-Web-Developer.jpg\" alt=\"Screenshot 5\" class=\"wp-image-1427\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Screenshot_5-Nico.-Free-Lance-Web-Developer.jpg 874w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Screenshot_5-Nico.-Free-Lance-Web-Developer-580x96.jpg 580w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Screenshot_5-Nico.-Free-Lance-Web-Developer-768x127.jpg 768w\" sizes=\"(max-width: 874px) 100vw, 874px\" \/><\/figure>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Por este motivo es tan importante contar con un buen t\u00edtulo en tu art\u00edculo de WordPress. En \u00e9l debe estar la palabra o frase clave al principio. Si no puede ir al principio porque la oraci\u00f3n pierde sentido, debemos ubicarla lo m\u00e1s cerca posible del inicio de la frase. Para Google es esencial conocer desde el comienzo de que trata tu p\u00e1gina. El complemento Yoast Seo te avisar\u00e1 si el t\u00edtulo re\u00fane las condiciones mencionadas. <\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Meta descripci\u00f3n <\/strong><\/h3>\n\n\n\n<p>La meta descripci\u00f3n es un texto de hasta 155 caracteres que resume el contenido de la p\u00e1gina. Los buscadores la muestran en los resultados principalmente cuando la frase buscada est\u00e1 dentro de la descripci\u00f3n. Por este motivo debe contener la palabra clave por la cual queremos aparecer cuando una persona hace una b\u00fasqueda.<\/p>\n\n\n\n<p>Si bien esto no es un factor determinante del posicionamiento, indirectamente si lo favorece. Porque si m\u00e1s personas hacen clic en el resultado aumentar\u00e1 la tasa de CTR, y entonces Google entender\u00e1 que es un buen resultado y mejorar\u00e1 tu posici\u00f3n. <\/p>\n\n\n\n<p>Como vimos antes, la meta descripci\u00f3n aparece en los resultados de b\u00fasqueda. Por tanto, en ese espacio debemos hacer un gran esfuerzo por captar la atenci\u00f3n de los visitantes. Especificaciones, llamadas a la acci\u00f3n, claridad, y coherencia con el contenido de la p\u00e1gina son s\u00f3lo algunas de las exigencias de este elemento. <\/p>\n\n\n\n<p>De la misma forma que el t\u00edtulo y el slug de SEO, la meta descripci\u00f3n se puede crear en el editor de fragmentos de SEO de Yoast.&nbsp;Adem\u00e1s, puede comprobar inmediatamente c\u00f3mo se ve en la vista previa del fragmento.<\/p>\n\n\n\n<p>Si no escribes una meta descripci\u00f3n, Google tomar\u00e1 un\nfragmento de tu texto y lo colocar\u00e1 en su lugar. Pero no puedes fiarte de esto,\nlo mejor es redactarla para que contenga lo que efectivamente deseamos comunicar\nall\u00ed. <\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Prueba de legibilidad&nbsp; <\/strong><\/h3>\n\n\n\n<p>Con las <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flesch%E2%80%93Kincaid_readability_tests\">pruebas de legibilidad Flesh<\/a> se verifica como se relacionan la cantidad de palabras del texto con las oraciones. Mide la longitud promedio de tus frases y el promedio de s\u00edlabas por palabra. El plugin te brinda una puntuaci\u00f3n entre 0 y 100, donde 100 significa que es muy f\u00e1cil de leer, y 0&nbsp; significa que su texto es muy dif\u00edcil de leer.<\/p>\n\n\n\n<p>Lo importante es usar oraciones cortas y no utilizar palabras dif\u00edciles que dificulten la comprensi\u00f3n de lo que queremos trasmitir. El texto debe ser sencillo. Puede haber algunos trabajos como los acad\u00e9micos que tendr\u00e1n otras exigencias terminol\u00f3gicas. Sin embargo, siempre deben ser claros y f\u00e1ciles de comprender. Un texto con frases largas y palabras complejas es m\u00e1s dif\u00edcil de leer y seguramente la atenci\u00f3n del usuario ser\u00e1 corta. Esto puede generar una alta tasa de rebote y bajar su clasificaci\u00f3n. <\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Voz pasiva<\/strong><\/h3>\n\n\n\n<p>La evaluaci\u00f3n de estas oraciones verifica\nsi &nbsp;las que contienen voz pasiva exceden\nla cantidad m\u00e1xima recomendada.&nbsp; Se considera correcto si menos del 10% de\nsus oraciones tienen voz pasiva.&nbsp;Por el contrario m\u00e1s del 15% activar\u00e1 la\nalerta de Yoast. &nbsp;La voz pasiva hace que su escritura sea m\u00e1s distante y el\nmensaje menos claro.&nbsp; La voz activa es mucho m\u00e1s conveniente. <\/p>\n\n\n\n<p>Pero \u00bfQue son las oraciones activas y pasivas? La diferencia esta en que, si bien describen una misma situaci\u00f3n, los elementos tienen distinto protagonismo. Las oraciones activas son m\u00e1s f\u00e1ciles de leer y comprender porque identifican al sujeto de la acci\u00f3n en primer lugar y es la referencia para el resto de la oraci\u00f3n. <\/p>\n\n\n\n<p>Ej: El polic\u00eda captura al delicuente<\/p>\n\n\n\n<p>En cambio en la voz pasiva el sujeto no ejecuta la acci\u00f3n\nsino que la recibe. <\/p>\n\n\n\n<p>Ej: El delincuente ha sido capturado por el polic\u00eda.<\/p>\n\n\n\n<p>Nuestros textos pueden tener oraciones pasivas, pero es importante mantener un equilibrio para no saturarlo con este tipo de frases. Yoast Seo controla su uso y nos indica si hay un exceso. Para pasar la prueba debemos tener menos de un 10% del texto con voces pasivas. <\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\">Palabras de transici\u00f3n<\/h3>\n\n\n\n<p>Algunas palabras de transici\u00f3n son: En primer lugar, porque, por tanto, adem\u00e1s, tambi\u00e9n etc. Son palabras que dan continuidad al texto. En las explicaciones de Yoast dicen que usarlas es como poner cemento entre las oraciones.<\/p>\n\n\n\n<p>Al menos el 30% de las frases de tu texto en WordPress debe tener palabras de transici\u00f3n. Si m\u00e1s del 20% y menos del 30% contienen una palabra de transici\u00f3n, la vi\u00f1eta que aporta el plugin ser\u00e1 naranja. Por el contrario ser\u00e1 roja si menos del 20% de las oraciones de su texto contienen una palabra de transici\u00f3n. <\/p>\n\n\n\n<p>Estos t\u00e9rminos son muy importantes para el SEO porque permiten tener un texto bien estructurado favoreciendo la buena legibilidad. Preparan al lector para la siguiente oraci\u00f3n, hacen m\u00e1s comprensible el art\u00edculo y por tanto lo vuelven m\u00e1s atractivo.<\/p>\n\n\n\n<p>Las palabras de transici\u00f3n no afectan directamente a la\nposici\u00f3n de tu p\u00e1gina. Pero como mejoran la legibilidad y esta favorece el SEO,\na largo plazo impactan favorablemente en tu &nbsp;posicionamiento. <\/p>\n\n\n\n<p>Yoast Seo en su p\u00e1gina nos da ejemplos de dichas palabras seg\u00fan lo que el siguiente gr\u00e1fico:<\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<figure class=\"wp-block-image\"><img loading=\"lazy\" decoding=\"async\" width=\"749\" height=\"560\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Screenshot_1-Nico.-Free-Lance-Web-Developer-1.jpg\" alt=\"Yoast SEO\" class=\"wp-image-1466\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Screenshot_1-Nico.-Free-Lance-Web-Developer-1.jpg 749w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Screenshot_1-Nico.-Free-Lance-Web-Developer-1-404x302.jpg 404w\" sizes=\"(max-width: 749px) 100vw, 749px\" \/><\/figure>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Frases consecutivas<\/strong><\/h3>\n\n\n\n<p>El plugin controla si hay m\u00e1s de una frase que comienza con la misma palabra. Tambi\u00e9n nos avisa si hay encabezados que tengan al principio la misma palabra que oraciones anteriores o siguientes. Comenzar varias frases con las mismas palabras sin duda desestimula al lector y vuelve la lectura m\u00e1s pesada. Cuando tengamos tres o m\u00e1s oraciones que inician con la misma palabra el plugin nos avisa. <\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Distribuci\u00f3n de\nsubt\u00edtulos <\/strong><\/h3>\n\n\n\n<p>Los textos mayores a 300 palabras deben incluir subt\u00edtulos para que el lector pueda escanear el texto y tomar la decisi\u00f3n de que va a leer. Yoast Seo de WordPress nos indica si tenemos bloques de textos m\u00e1s extensos sin subt\u00edtulos. <\/p>\n\n\n\n<p>Esta propiedad del complemento nos facilita mucho la creaci\u00f3n de un contenido correctamente optimizado. Adem\u00e1s, hay que tener en cuenta que los buscadores detectan los encabezados y los usan para saber de que trata tu p\u00e1gina web. Si no tienes suficientes subt\u00edtulos ser\u00e1 muy dif\u00edcil para ellos detectar cual es el tema de tu texto. <\/p>\n\n\n\n<p>Cabe destacar que si no tenemos suficientes subt\u00edtulos perdemos la oportunidad de usar en ellos nuestras palabras claves. Incluirlas en nuestros subt\u00edtulos tambi\u00e9n es una estrategia de posicionamiento. Cada bloque de texto no debe tener m\u00e1s de 250-350 palabras. Extensiones mayores requieren uno o m\u00e1s subt\u00edtulos que las divida.<\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Longitud de p\u00e1rrafos<\/strong><\/h3>\n\n\n\n<p>Los p\u00e1rrafos no deben tener m\u00e1s de 150 palabras. Cuando excedemos ese l\u00edmite Yoast nos avisa. Los p\u00e1rrafos m\u00e1s largos tienden a ser m\u00e1s dif\u00edciles de leer y hacen menos atractivo el texto. En general un p\u00e1rrafo contiene una unidad tem\u00e1tica que comienza con una oraci\u00f3n central que se desarrolla en el resto. <\/p>\n\n\n\n<p>Es conveniente comenzar con la oraci\u00f3n m\u00e1s importante y luego describir el contenido de la misma. De esta manera, s\u00f3lo leyendo la primera frase, el lector comprender\u00e1 mejor lo que deseas trasmitir con el art\u00edculo. Los p\u00e1rrafos no deben ser demasiado largos, no m\u00e1s de &nbsp;siete u ocho oraciones. &nbsp;<\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Longitud de oraciones<\/strong><\/h3>\n\n\n\n<p>Este plugin de WordPress nos ayuda a calcular el porcentaje de oraciones que tienen m\u00e1s de 20 palabras. No es conveniente tener m\u00e1s del 25% de las oraciones con m\u00e1s de 20 palabras. En caso de que nos suceda esto, Yoast nos avisa para que podamos reducirlas. Adem\u00e1s nos ofrece un elemento que nos permite visualizar cuales son aquellas que debemos mejorar. Se trata de un \u00edcono con forma de ojo, all\u00ed clicamos y nos pinta los textos para poder hacer las modificaciones necesarias. <\/p>\n\n\n\n<p>Las oraciones m\u00e1s cortas facilitan la comprensi\u00f3n lectora y hacen m\u00e1s estimulante el texto. Podemos tener oraciones largas, pero debemos combinar su posici\u00f3n con otras m\u00e1s cortas. Si incluimos muchas oraciones con m\u00e1s de 20 palabras sin duda Google entender\u00e1 que esa no es la experiencia que desea para sus usuarios y no nos posicionar\u00e1 como deseamos. <\/p>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h3 class=\"wp-block-heading\">Optimizaci\u00f3n de im\u00e1genes<\/h3>\n\n\n\n<p><strong>Debes<\/strong> <strong>optimizar todas las im\u00e1genes<\/strong>, de lo contrario Yoast no calificar\u00e1\nbien tu contenido. Sabemos que este trabajo es imprescindible para lograr un\nbuen posicionamiento.<\/p>\n\n\n\n<p>Quiz\u00e1s la m\u00e1s importante es la <strong>imagen destacada<\/strong>, que es la que orienta\na tu visitante sobre qu\u00e9 tema vas a hablar. Adem\u00e1s es la que aparece cuando\ncompartes tus contenidos en las redes sociales, por tanto son muy importantes. <\/p>\n\n\n\n<p>La\nimagen destacada puede ser una de las que has incluido en el post. O tambi\u00e9n alguna\nde las que se encuentran en la biblioteca de medios y que has usado en otro\nlugar de la p\u00e1gina. Incluso es posible sorprender al visitante con una que no\nhayamos usado nunca en el sitio.<\/p>\n\n\n\n<p>Tanto las im\u00e1genes comunes que van dentro del post, como aquellas que se encuentran repartidas por todo el sitio, y las im\u00e1genes destacadas, tienen que ser objeto de un proceso de optimizaci\u00f3n. Te dejo el link a un art\u00edculo que nos explica\u00a0<a href=\"https:\/\/nicowebsite.com\/como-usar-imagenes-en-una-pagina-web-tips-para-2019\/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\" (abre en una nueva pesta\u00f1a)\">c\u00f3mo optimizar las im\u00e1genes antes de realizar nuestra publicaci\u00f3n.<\/a><\/p>\n\n\n\n<p><\/p>\n\n\n\n<div style=\"height:52px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">C\u00f3mo funciona Yoast Seo de WordPress<\/h2>\n\n\n\n<p>El plugin tiene un sem\u00e1foro peque\u00f1o en la parte izquierda de la p\u00e1gina. All\u00ed ver\u00e1s como va cambiando de color a medida que vas mejorando el contenido.<\/p>\n\n\n\n<p>Tambi\u00e9n cuenta con vi\u00f1etas que usan el mismo proceso y que te gu\u00edan en las correcciones que debes hacer. <\/p>\n\n\n\n<figure class=\"wp-block-image\"><img loading=\"lazy\" decoding=\"async\" width=\"802\" height=\"785\" src=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Screenshot_6-Nico.-Free-Lance-Web-Developer.jpg\" alt=\"Yoast SEO\" class=\"wp-image-1430\" srcset=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Screenshot_6-Nico.-Free-Lance-Web-Developer.jpg 802w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Screenshot_6-Nico.-Free-Lance-Web-Developer-309x302.jpg 309w, https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Screenshot_6-Nico.-Free-Lance-Web-Developer-768x752.jpg 768w\" sizes=\"(max-width: 802px) 100vw, 802px\" \/><\/figure>\n\n\n\n<p>Hay que\nse\u00f1alar que Yoast SEO es una herramienta que nos ayuda a trabajar el SEO on\npage, pero no es infalible. Esto quiere decir que a veces puede insistir en\ndarnos una informaci\u00f3n que no es correcta. <\/p>\n\n\n\n<p>Por\nejemplo, nos puede indicar que nos falta la palabra clave en el t\u00edtulo y cuando\nrevisamos vemos que est\u00e1 puesta correctamente.<\/p>\n\n\n\n<p>Son situaciones poco frecuentes y no hacen desaparecer las importantes ventajas que tiene trabajar con Yoast SEO. &nbsp;Este complemento nos permite Identificar los errores con una alta dosis de precisi\u00f3n, y por este motivo es recomendado por la mayor\u00eda de los expertos. <\/p>\n\n\n\n<div style=\"height:25px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">Neil Patel habla sobre Yoast SEO<\/h2>\n\n\n\n<p>Neil Patel es una de las personas m\u00e1s destacadas en el Marketing Digital. Creador de 4 de las m\u00e1s importantes herramientas SEO del mundo. <\/p>\n\n\n\n<p>Seg\u00fan la revista Forbes es uno de los 10 personajes m\u00e1s influyentes del mercado digital. Y The Wall Street Journal lo llama uno de los influenciadores m\u00e1s importantes de Internet.  <\/p>\n\n\n\n<p>Sin duda es uno de los referentes a nivel mundial sobre estos temas. Aqu\u00ed te dejo un video donde hace referencia a algunas de la funcionalidades del plugin Yoast SEO. <\/p>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<figure class=\"wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"The Most Important WordPress Plugin EVER - Top WordPress Plugins for SEO\" width=\"500\" height=\"281\" src=\"https:\/\/www.youtube.com\/embed\/fT_RWZQNKZc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>\n<\/div><\/figure>\n\n\n\n<div style=\"height:27px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<h2 class=\"wp-block-heading\">Mi experiencia<\/h2>\n\n\n\n<p>Puedo decirte que cuando comenc\u00e9 a usar este complemento de WordPress mi forma de trabajo cambi\u00f3. Aquel trabajo manual, prehist\u00f3rico podr\u00edamos decir, que insum\u00eda tantas horas qued\u00f3 atr\u00e1s. Ahora la relaci\u00f3n calidad &#8211; tiempo, en la elaboraci\u00f3n de contenidos, se ve muy favorecida con el uso de Yoast.<\/p>\n\n\n\n<p>Si no lo has instalado a\u00fan, te recomiendo hacerlo. Pero si ya eres usuario del plugin s\u00f3lo me resta sugerirte la lectura del <a href=\"https:\/\/yoast.com\/seo-blog\/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"blog de Yoast (abre en una nueva pesta\u00f1a)\">blog de Yoast<\/a>. Proporciona valiosa informaci\u00f3n sobre contenidos, comercio electr\u00f3nico y otros temas. Es un lugar de actualizaci\u00f3n permanente que aporta informaci\u00f3n muy relevante tanto para desarrolladores,  como para empresarios o blogueros. <\/p>\n\n\n\n<p><a href=\"https:\/\/www.freepik.es\/fotos-vectores-gratis\/ordenador\">Vector de ordenador creado por freepik &#8211; www.freepik.es<\/a><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>WordPress con Yoast Seo es la combinaci\u00f3n ideal para posicionar cualquier p\u00e1gina web. Si eres de los que escribes y escribes y no ves resultados, seguramente no tienes instalado el plugin de Yoast Seo. Esta herramienta ayuda mucho a mejorar la visibilidad de tus publicaciones en las b\u00fasquedas de Google u otros buscadores. Por tanto, [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 1584,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "_acf_changed": false,
+            "inline_featured_image": false,
+            "footnotes": ""
+        },
+        "categories": [
+            4
+        ],
+        "class_list": [
+            "post-1419",
+            "post",
+            "type-post",
+            "status-publish",
+            "format-standard",
+            "has-post-thumbnail",
+            "hentry",
+            "category-seo"
+        ],
+        "acf": {
+            "custom-title": "Wordpress | con Yoast Seo | Para mejorar | tu contenido | en 2019",
+            "head-img": true,
+            "color-title": "#ffffff",
+            "offset-title": "",
+            "poster-style": "white",
+            "resume_txt": "50",
+            "back-type": "imagen",
+            "back-alpha": "1",
+            "mob-feat-img": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Wordpress-con-Yoast-SEO-para-mejorar-tu-contenido-2019-Nico.-Free-Lance-Web-Developer-1.jpg",
+            "last-post-offset": "left",
+            "offset-x-title": "35"
+        },
+        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Wordpress con Yoast Seo: Para mejorar tu contenido en 2019 - Nico.<\/title>\n<meta name=\"description\" content=\"Wordpress con Yoast Seo es la combinaci\u00f3n ideal para posicionar tu p\u00e1gina. Mejora mucho la visibilidad de tus publicaciones en los buscadores.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Wordpress con Yoast Seo: Para mejorar tu contenido en 2019 - Nico.\" \/>\n<meta property=\"og:description\" content=\"Wordpress con Yoast Seo es la combinaci\u00f3n ideal para posicionar tu p\u00e1gina. Mejora mucho la visibilidad de tus publicaciones en los buscadores.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/nicolook.webdeveloper\/\" \/>\n<meta property=\"article:published_time\" content=\"2019-02-08T17:33:15+00:00\" \/>\n<meta property=\"article:modified_time\" content=\"2019-08-31T02:46:04+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Wordpress-con-Yoast-SEO-para-mejorar-tu-contenido-2019-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1200\" \/>\n\t<meta property=\"og:image:height\" content=\"628\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"author\" content=\"Nicolook Admin 2019\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:label1\" content=\"Escrito por\" \/>\n\t<meta name=\"twitter:data1\" content=\"Nicolook Admin 2019\" \/>\n\t<meta name=\"twitter:label2\" content=\"Tiempo de lectura\" \/>\n\t<meta name=\"twitter:data2\" content=\"12 minutos\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/\",\"url\":\"https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/\",\"name\":\"Wordpress con Yoast Seo: Para mejorar tu contenido en 2019 - Nico.\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/#primaryimage\"},\"image\":{\"@id\":\"https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/#primaryimage\"},\"thumbnailUrl\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/WordPress-con-Yoast-Seo-Para-mejorar-tu-contenido-en-2019-Nico.-Free-Lance-Web-Developer-3.svg\",\"datePublished\":\"2019-02-08T17:33:15+00:00\",\"dateModified\":\"2019-08-31T02:46:04+00:00\",\"author\":{\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1\"},\"description\":\"Wordpress con Yoast Seo es la combinaci\u00f3n ideal para posicionar tu p\u00e1gina. Mejora mucho la visibilidad de tus publicaciones en los buscadores.\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/#primaryimage\",\"url\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/WordPress-con-Yoast-Seo-Para-mejorar-tu-contenido-en-2019-Nico.-Free-Lance-Web-Developer-3.svg\",\"contentUrl\":\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/WordPress-con-Yoast-Seo-Para-mejorar-tu-contenido-en-2019-Nico.-Free-Lance-Web-Developer-3.svg\",\"caption\":\"Wordpress Con Yoast Seo Para Mejorar Tu Contenido En 2019\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"WordPress con Yoast Seo: Para mejorar tu contenido en 2019\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"},{\"@type\":\"Person\",\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1\",\"name\":\"Nicolook Admin 2019\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"es\",\"@id\":\"https:\/\/nicowebsite.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g\",\"caption\":\"Nicolook Admin 2019\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+        "yoast_head_json": {
+            "title": "Wordpress con Yoast Seo: Para mejorar tu contenido en 2019 - Nico.",
+            "description": "Wordpress con Yoast Seo es la combinaci\u00f3n ideal para posicionar tu p\u00e1gina. Mejora mucho la visibilidad de tus publicaciones en los buscadores.",
+            "robots": {
+                "index": "index",
+                "follow": "follow",
+                "max-snippet": "max-snippet:-1",
+                "max-image-preview": "max-image-preview:large",
+                "max-video-preview": "max-video-preview:-1"
+            },
+            "canonical": "https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/",
+            "og_locale": "es_ES",
+            "og_type": "article",
+            "og_title": "Wordpress con Yoast Seo: Para mejorar tu contenido en 2019 - Nico.",
+            "og_description": "Wordpress con Yoast Seo es la combinaci\u00f3n ideal para posicionar tu p\u00e1gina. Mejora mucho la visibilidad de tus publicaciones en los buscadores.",
+            "og_url": "https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/",
+            "og_site_name": "Nico.",
+            "article_publisher": "https:\/\/www.facebook.com\/nicolook.webdeveloper\/",
+            "article_published_time": "2019-02-08T17:33:15+00:00",
+            "article_modified_time": "2019-08-31T02:46:04+00:00",
+            "og_image": [
+                {
+                    "width": 1200,
+                    "height": 628,
+                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Wordpress-con-Yoast-SEO-para-mejorar-tu-contenido-2019-Nico.-Free-Lance-Web-Developer.jpg",
+                    "type": "image\/jpeg"
+                }
+            ],
+            "author": "Nicolook Admin 2019",
+            "twitter_card": "summary_large_image",
+            "twitter_misc": {
+                "Escrito por": "Nicolook Admin 2019",
+                "Tiempo de lectura": "12 minutos"
+            },
+            "schema": {
+                "@context": "https:\/\/schema.org",
+                "@graph": [
+                    {
+                        "@type": "WebPage",
+                        "@id": "https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/",
+                        "url": "https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/",
+                        "name": "Wordpress con Yoast Seo: Para mejorar tu contenido en 2019 - Nico.",
+                        "isPartOf": {
+                            "@id": "https:\/\/nicowebsite.com\/#website"
+                        },
+                        "primaryImageOfPage": {
+                            "@id": "https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/#primaryimage"
+                        },
+                        "image": {
+                            "@id": "https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/#primaryimage"
+                        },
+                        "thumbnailUrl": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/WordPress-con-Yoast-Seo-Para-mejorar-tu-contenido-en-2019-Nico.-Free-Lance-Web-Developer-3.svg",
+                        "datePublished": "2019-02-08T17:33:15+00:00",
+                        "dateModified": "2019-08-31T02:46:04+00:00",
+                        "author": {
+                            "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1"
+                        },
+                        "description": "Wordpress con Yoast Seo es la combinaci\u00f3n ideal para posicionar tu p\u00e1gina. Mejora mucho la visibilidad de tus publicaciones en los buscadores.",
+                        "breadcrumb": {
+                            "@id": "https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/#breadcrumb"
+                        },
+                        "inLanguage": "es",
+                        "potentialAction": [
+                            {
+                                "@type": "ReadAction",
+                                "target": [
+                                    "https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "inLanguage": "es",
+                        "@id": "https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/#primaryimage",
+                        "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/WordPress-con-Yoast-Seo-Para-mejorar-tu-contenido-en-2019-Nico.-Free-Lance-Web-Developer-3.svg",
+                        "contentUrl": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/WordPress-con-Yoast-Seo-Para-mejorar-tu-contenido-en-2019-Nico.-Free-Lance-Web-Developer-3.svg",
+                        "caption": "Wordpress Con Yoast Seo Para Mejorar Tu Contenido En 2019"
+                    },
+                    {
+                        "@type": "BreadcrumbList",
+                        "@id": "https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/#breadcrumb",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Portada",
+                                "item": "https:\/\/nicowebsite.com\/"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "WordPress con Yoast Seo: Para mejorar tu contenido en 2019"
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "WebSite",
+                        "@id": "https:\/\/nicowebsite.com\/#website",
+                        "url": "https:\/\/nicowebsite.com\/",
+                        "name": "Nico.",
+                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                        "potentialAction": [
+                            {
+                                "@type": "SearchAction",
+                                "target": {
+                                    "@type": "EntryPoint",
+                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                },
+                                "query-input": {
+                                    "@type": "PropertyValueSpecification",
+                                    "valueRequired": true,
+                                    "valueName": "search_term_string"
+                                }
+                            }
+                        ],
+                        "inLanguage": "es"
+                    },
+                    {
+                        "@type": "Person",
+                        "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/f1ade5088ab8339f8170e81989c581c1",
+                        "name": "Nicolook Admin 2019",
+                        "image": {
+                            "@type": "ImageObject",
+                            "inLanguage": "es",
+                            "@id": "https:\/\/nicowebsite.com\/#\/schema\/person\/image\/",
+                            "url": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g",
+                            "contentUrl": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g",
+                            "caption": "Nicolook Admin 2019"
+                        }
+                    }
+                ]
+            }
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts\/1419"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/comments?post=1419"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 0,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts\/1419\/revisions"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media\/1584"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media?parent=1419"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories?post=1419"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "Nicolook Admin 2019",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/nicowebsite.com\/author\/nicolook-admin-2019\/",
+                    "slug": "nicolook-admin-2019",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/a5cda7caf0221fafafa8142d81fa6079?s=96&d=mm&r=g"
+                    },
+                    "yoast_head": null,
+                    "yoast_head_json": null,
+                    "acf": [],
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/1"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "id": 1584,
+                    "date": "2019-02-11T20:58:18",
+                    "slug": "wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019-2",
+                    "type": "attachment",
+                    "link": "https:\/\/nicowebsite.com\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019\/wordpress-con-yoast-seo-para-mejorar-tu-contenido-en-2019-2\/",
+                    "title": {
+                        "rendered": "WordPress Con Yoast Seo Para Mejorar Tu Contenido En 2019"
+                    },
+                    "author": 2,
+                    "featured_media": 0,
+                    "acf": [],
+                    "caption": {
+                        "rendered": "<p>Wordpress Con Yoast Seo Para Mejorar Tu Contenido En 2019<\/p>\n"
+                    },
+                    "alt_text": "Wordpress Con Yoast Seo Para Mejorar Tu Contenido En 2019",
+                    "media_type": "image",
+                    "mime_type": "image\/svg+xml",
+                    "media_details": [],
+                    "source_url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/WordPress-con-Yoast-Seo-Para-mejorar-tu-contenido-en-2019-Nico.-Free-Lance-Web-Developer-3.svg",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media\/1584"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/users\/2"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/comments?post=1584"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:term": [
+                [
+                    {
+                        "id": 4,
+                        "link": "https:\/\/nicowebsite.com\/category\/seo\/",
+                        "name": "SEO",
+                        "slug": "seo",
+                        "taxonomy": "category",
+                        "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.4 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>SEO archivos - Nico. Desarrollador Web &amp; Wordpress Freelance<\/title>\n<meta name=\"description\" content=\"\u00bfCansado de trabajar en tu web y que nadie la vea? Necesitas una buena estrategia SEO. Son buenas pr\u00e1cticas que mejoran nuestra posici\u00f3n en los buscadores.\" \/>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/nicowebsite.com\/category\/seo\/\" \/>\n<meta property=\"og:locale\" content=\"es_ES\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"SEO archivos - Nico. Desarrollador Web &amp; Wordpress Freelance\" \/>\n<meta property=\"og:description\" content=\"\u00bfCansado de trabajar en tu web y que nadie la vea? Necesitas una buena estrategia SEO. Son buenas pr\u00e1cticas que mejoran nuestra posici\u00f3n en los buscadores.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/nicowebsite.com\/category\/seo\/\" \/>\n<meta property=\"og:site_name\" content=\"Nico.\" \/>\n<meta property=\"og:image\" content=\"https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1200\" \/>\n\t<meta property=\"og:image:height\" content=\"800\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\/\/nicowebsite.com\/category\/seo\/\",\"url\":\"https:\/\/nicowebsite.com\/category\/seo\/\",\"name\":\"SEO archivos - Nico. Desarrollador Web & Wordpress Freelance\",\"isPartOf\":{\"@id\":\"https:\/\/nicowebsite.com\/#website\"},\"description\":\"\u00bfCansado de trabajar en tu web y que nadie la vea? Necesitas una buena estrategia SEO. Son buenas pr\u00e1cticas que mejoran nuestra posici\u00f3n en los buscadores.\",\"breadcrumb\":{\"@id\":\"https:\/\/nicowebsite.com\/category\/seo\/#breadcrumb\"},\"inLanguage\":\"es\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/nicowebsite.com\/category\/seo\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https:\/\/nicowebsite.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"SEO\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/nicowebsite.com\/#website\",\"url\":\"https:\/\/nicowebsite.com\/\",\"name\":\"Nico.\",\"description\":\"Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/nicowebsite.com\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"es\"}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+                        "yoast_head_json": {
+                            "title": "SEO archivos - Nico. Desarrollador Web & Wordpress Freelance",
+                            "description": "\u00bfCansado de trabajar en tu web y que nadie la vea? Necesitas una buena estrategia SEO. Son buenas pr\u00e1cticas que mejoran nuestra posici\u00f3n en los buscadores.",
+                            "robots": {
+                                "index": "index",
+                                "follow": "follow",
+                                "max-snippet": "max-snippet:-1",
+                                "max-image-preview": "max-image-preview:large",
+                                "max-video-preview": "max-video-preview:-1"
+                            },
+                            "canonical": "https:\/\/nicowebsite.com\/category\/seo\/",
+                            "og_locale": "es_ES",
+                            "og_type": "article",
+                            "og_title": "SEO archivos - Nico. Desarrollador Web & Wordpress Freelance",
+                            "og_description": "\u00bfCansado de trabajar en tu web y que nadie la vea? Necesitas una buena estrategia SEO. Son buenas pr\u00e1cticas que mejoran nuestra posici\u00f3n en los buscadores.",
+                            "og_url": "https:\/\/nicowebsite.com\/category\/seo\/",
+                            "og_site_name": "Nico.",
+                            "og_image": [
+                                {
+                                    "width": 1200,
+                                    "height": 800,
+                                    "url": "https:\/\/nicowebsite.com\/wp-content\/uploads\/2019\/02\/Nico.WebDeveloerFreeLance-Og-image-Nico.-Free-Lance-Web-Developer.jpg",
+                                    "type": "image\/jpeg"
+                                }
+                            ],
+                            "twitter_card": "summary_large_image",
+                            "schema": {
+                                "@context": "https:\/\/schema.org",
+                                "@graph": [
+                                    {
+                                        "@type": "CollectionPage",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/seo\/",
+                                        "url": "https:\/\/nicowebsite.com\/category\/seo\/",
+                                        "name": "SEO archivos - Nico. Desarrollador Web & Wordpress Freelance",
+                                        "isPartOf": {
+                                            "@id": "https:\/\/nicowebsite.com\/#website"
+                                        },
+                                        "description": "\u00bfCansado de trabajar en tu web y que nadie la vea? Necesitas una buena estrategia SEO. Son buenas pr\u00e1cticas que mejoran nuestra posici\u00f3n en los buscadores.",
+                                        "breadcrumb": {
+                                            "@id": "https:\/\/nicowebsite.com\/category\/seo\/#breadcrumb"
+                                        },
+                                        "inLanguage": "es"
+                                    },
+                                    {
+                                        "@type": "BreadcrumbList",
+                                        "@id": "https:\/\/nicowebsite.com\/category\/seo\/#breadcrumb",
+                                        "itemListElement": [
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 1,
+                                                "name": "Portada",
+                                                "item": "https:\/\/nicowebsite.com\/"
+                                            },
+                                            {
+                                                "@type": "ListItem",
+                                                "position": 2,
+                                                "name": "SEO"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@type": "WebSite",
+                                        "@id": "https:\/\/nicowebsite.com\/#website",
+                                        "url": "https:\/\/nicowebsite.com\/",
+                                        "name": "Nico.",
+                                        "description": "Web Developer \u2022 Hosting Planner \u2022 SEO Asisstant",
+                                        "potentialAction": [
+                                            {
+                                                "@type": "SearchAction",
+                                                "target": {
+                                                    "@type": "EntryPoint",
+                                                    "urlTemplate": "https:\/\/nicowebsite.com\/?s={search_term_string}"
+                                                },
+                                                "query-input": {
+                                                    "@type": "PropertyValueSpecification",
+                                                    "valueRequired": true,
+                                                    "valueName": "search_term_string"
+                                                }
+                                            }
+                                        ],
+                                        "inLanguage": "es"
+                                    }
+                                ]
+                            }
+                        },
+                        "acf": [],
+                        "_links": {
+                            "self": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories\/4"
+                                }
+                            ],
+                            "collection": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/categories"
+                                }
+                            ],
+                            "about": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/taxonomies\/category"
+                                }
+                            ],
+                            "wp:post_type": [
+                                {
+                                    "href": "https:\/\/nicowebsite.com\/wp-json\/wp\/v2\/posts?categories=4"
+                                }
+                            ],
+                            "curies": [
+                                {
+                                    "name": "wp",
+                                    "href": "https:\/\/api.w.org\/{rel}",
+                                    "templated": true
+                                }
+                            ]
+                        }
+                    }
+                ]
+            ]
+        }
+    }
+]

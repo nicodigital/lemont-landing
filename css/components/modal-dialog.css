@@ -1,0 +1,82 @@
+  .modal {
+
+    @apply fixed border-none inset-0 w-40% p-4;
+
+    &::backdrop{
+       @apply bg-black/80 backdrop-blur-sm;
+    }
+
+    &[open]{
+
+      animation: show-modal .5s .3s both;
+
+      &::backdrop{
+        animation: show-backdrop .5s forwards;
+      }
+
+    }
+
+    &[close]{
+
+      animation: show-modal .5s .3s reverse;
+
+      &::backdrop{
+        animation: show-backdrop .5s reverse;
+      }
+
+    }
+
+  }
+
+  .close {
+    @apply absolute
+          top-0
+          right-2
+          size-4
+          cursor-pointer
+          text-white
+          z-[9999];
+
+    &:before,
+    &:after {
+      position: absolute;
+      content: "";
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) rotate(45deg);
+      width: 0.3rem;
+      height: 3.2rem;
+      background: currentColor;
+    }
+
+    &:after {
+      transform: translate(-50%, -50%) rotate(-45deg);
+    }
+
+  }
+
+  @keyframes show-modal{
+
+    0%{
+      transform: translateY(3rem);
+      opacity: 0;
+    }
+
+    100%{
+      transform: translateY(0%);
+      opacity: 1;
+    }
+
+  }
+
+  @keyframes show-backdrop{
+
+    0%{
+      transform: translateY(100%);
+    }
+
+    100%{
+      transform: translateY(0%);
+    }
+
+  }

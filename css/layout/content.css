@@ -1,0 +1,7 @@
+.content p{
+  @apply mb-[1.5rem];
+}
+
+.content a:not(.no-underline){
+  @apply underline;
+}

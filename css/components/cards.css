@@ -1,0 +1,27 @@
+.card{
+
+    @apply p-2 bg-neutral-300/50 rounded-lg;
+
+    .h3{
+        @apply py-1;
+        font-size: theme(fontSize.h2);
+    }
+
+    p{
+        font-size: theme(fontSize.small);
+    }
+
+}
+
+.card img{
+    @apply w-full aspect-[9/12] object-cover rounded-lg;
+}
+
+.card-post{
+    @apply grid grid-rows-[1fr_3fr] gap-1
+    bg-slate-200 rounded-xl overflow-hidden;
+}
+
+.card-post img{
+    @apply aspect-[16/9] h-full;
+}

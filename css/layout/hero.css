@@ -1,0 +1,9 @@
+.hero {
+   @apply 
+   relative flex flex-col items-center justify-around
+   text-center uppercase text-mud
+   overflow-hidden ;
+   height: 100vh;
+   height: 100svh;
+}
+

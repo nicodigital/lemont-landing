@@ -1,0 +1,82 @@
+.accordion{
+  @apply  flex flex-col;
+}
+
+.accordion-item{
+  @apply  overflow-hidden;
+}
+
+.accordion.lined .accordion-item{
+  @apply border-t border-current;
+}
+
+.accordion-header{
+  @apply flex relative w-full justify-between
+  transition-all duration-300 ease-in-out;
+}
+
+.accordion-header .label{
+  @apply inline-flex relative;
+}
+
+.accordion-collapse {
+  overflow: hidden;
+  transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+  max-height: 0;
+  opacity: 0;
+}
+
+/* Accordion Lined */
+.accordion.lined .accordion-item{
+  @apply border-t border-green-600;
+}
+
+/* Accordion Plus */
+.accordion-item.plus .accordion-header > div{
+  @apply absolute top-[58%] right-0 translate-y-[-50%]; 
+}
+
+.accordion-item.plus .accordion-header > div span{
+  @apply relative text-[2.5rem] xg:text-[3.5rem];
+}
+
+.accordion-item.plus .accordion-header > div span:last-child,
+.accordion-item.plus .accordion-header.active > div span:first-child{
+  display: none;
+}
+
+.accordion-item.plus .accordion-header.active > div span:last-child {
+  display: block;
+}
+
+/* Accordion Gradient */
+.accordion.gradient > .accordion-item > .accordion-header{
+  @apply text-h2 xg:text-h1 font-[500]
+  py-2 xg:py-3 ctr-px;
+}
+
+.accordion.gradient > .accordion-item > .accordion-collapse{
+  @apply text-body xg:text-h4;
+  @apply ctr-px !important;
+}
+
+.accordion.gradient > .accordion-item > .accordion-collapse > .content{
+  @apply pt-2 pb-4;
+}
+
+.accordion.gradient > .accordion-item > .accordion-collapse > .accordion-content{
+  @apply py-3;
+}
+
+.accordion.gradient .accordion-collapse .accordion-collapse{
+  @apply xg:translate-y-[-5rem] pointer-events-none;
+}
+
+.accordion.gradient .accordion-collapse .accordion-header{
+  @apply py-2;
+}
+
+.accordion.gradient .accordion-collapse .accordion-collapse .content{
+  @apply py-1 translate-y-[-1rem];
+}
+

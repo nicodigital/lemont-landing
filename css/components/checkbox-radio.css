@@ -1,0 +1,54 @@
+/* Custom Checkbox */
+.checkbox, .radio {
+
+  @apply relative flex items-center pl-3 cursor-pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+
+  input {
+    position: absolute;
+    opacity: 0;
+    height: 0 !important;
+    width: 0 !important;
+  }
+
+
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  @apply .absolute rounded-full bg-white cursor-pointer;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  width: 2rem;
+}
+
+/* On mouse-over, add a grey background color */
+.checkbox:hover input ~ .checkmark {
+  background-color: #000;
+}
+
+
+
+/* When the checkbox is checked, add a blue background */
+.checkbox input:checked ~ .checkmark,
+.checkbox:has(input:checked) .checkmark {
+  background-color: #000;
+}
+
+/* Radio Buttons */
+.radio{
+
+  &:hover input ~ .checkmark {
+    background-color: #ccc;
+  }
+
+  input:checked ~ .checkmark {
+    background-color: var(--green-dark);
+  }
+
+}
