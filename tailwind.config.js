@@ -12,7 +12,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Brown', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'sans-serif']
+        sans: ['P22 Underground Pro', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'sans-serif']
         // serif: ['Roboto Slab'],
       },
       colors: {

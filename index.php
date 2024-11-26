@@ -11,7 +11,7 @@ if ($bfe_slug != 'data') {
 			'base_url' => $base_url,
 			'i18n' => $i18n,
 			'case' => $uri[0],
-			'data' => $data,
+			// 'data' => $data,
 		]);
 		
 	} else if ( $bfe_slug == 'post' ){ // CASO POST
@@ -22,7 +22,7 @@ if ($bfe_slug != 'data') {
 			'base_url' => $base_url,
 			'i18n' => $i18n,
 			'post' => $uri[0],
-			'data' => $data,
+			// 'data' => $data,
 		]);
 
 	} else { // CASO NORMAL
@@ -32,7 +32,7 @@ if ($bfe_slug != 'data') {
 		$content = new Template('pages/' . $uri[0] . '.php', [
 			'base_url' => $base_url,
 			'i18n' => $i18n,
-			'data' => $data
+			// 'data' => $data
 		]);
 	}
 

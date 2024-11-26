@@ -1,5 +1,5 @@
 function scrollMarkers (device_data) {
-  console.log(device_data)
+  // console.log(device_data)
   const body = device_data.body
   const footer = device_data.footer
   const isDesktop = device_data.isDesktop

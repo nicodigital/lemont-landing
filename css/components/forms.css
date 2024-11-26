@@ -18,14 +18,12 @@
 
 .form input:not([type="submit"]), 
 .form textarea{
-  @apply uppercase;
   font-family: theme(fontFamily.sans);
   width: 100%;
   background: transparent;
   color: var(--form-color);
   border-bottom: var(--line-width) solid var(--form-color); 
   min-height: var(--field-height);
-  height: var(--field-height);
   padding: 2rem 2rem 2rem 0;
   line-height: 1;
   outline: none !important;
@@ -34,19 +32,17 @@
   overflow: hidden;
 }
 
+.form input:not([type="submit"]){
+  height: var(--field-height);
+}
+
 .form textarea {
-  @apply uppercase xg:mt-4;
+  @apply h-auto xg:h-6 min-h-[15rem] xg:min-h-[initial] xg:mt-4;
   resize: none;
   overflow: hidden;
   vertical-align: bottom;
-  min-height: auto;
   line-height: 1.3;
   @apply h-auto border-b !important;
-}
-
-.form label,
-.form [type="submit"]{
-  @apply uppercase;
 }
 
 .form .title{

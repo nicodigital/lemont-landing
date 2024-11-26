@@ -2,9 +2,11 @@
 $lang = $GLOBALS["lang"];
 ?>
 
-<form id="contact-form" class="form" action="" method="POST" accept-charset="utf-8">
+<form id="sheetdb-form" class="form" action="" method="POST" accept-charset="utf-8">
 
     <input type="checkbox" name="_honeypot" style="display:none" tabindex="-1" autocomplete="off" />
+    <input type="hidden" name="_email.template.footer" value="false" />
+
     <input type="hidden" name="lang" value="<?= $GLOBALS['lang']  ?>" />
 
     <div class="field">
@@ -85,13 +87,13 @@ $lang = $GLOBALS["lang"];
 
     <div class="select">
         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path fill="currentColor" d="m5.84 9.59l5.66 5.66l5.66-5.66l-.71-.7l-4.95 4.95l-4.95-4.95z"/></svg>
-        <select name="contact-preference" id="contact-preference">
+        <select name="contact_preference" id="contact-preference">
             <option value="Como">
                 ¿Cómo prefiere que lo contactemos?
             </option>
-            <option value="whatsapp">WhatsApp</option>
-            <option value="email">Email</option>
-            <option value="call">Llamada</option>
+            <option value="Email">Email</option>
+            <option value="Telefono">Telefono</option>
+            <option value="Texto">Texto</option>
         </select>
     </div>
 
@@ -101,9 +103,13 @@ $lang = $GLOBALS["lang"];
             <option value="Como">
                 ¿Cómo se enteró de LEMONT?
             </option>
-            <option value="whatsapp"> Google </option>
-            <option value="email"> Redes sociales </option>
-            <option value="call"> Un amigo </option>
+            <option value="Publicidad">Publicidad</option>
+            <option value="Broker">Broker</option>
+            <option value="Online">Online</option>
+            <option value="Referido">Referido</option>
+            <option value="Valla de Obra">Valla de Obra</option>
+            <option value="Redes Sociales">Redes Sociales</option>
+            <option value="Otros">Otros</option>
         </select>
     </div>
 
@@ -127,6 +133,7 @@ $lang = $GLOBALS["lang"];
                                                     ?>"></div> -->
 
         <div id="result"></div>
+        
 
     </div>
 

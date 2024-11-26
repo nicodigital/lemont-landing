@@ -1,6 +1,7 @@
 .hero {
    @apply 
    relative flex flex-col items-center justify-around
+   w-90% xg:w-100% mx-auto
    text-center uppercase text-mud
    overflow-hidden ;
    height: 100vh;

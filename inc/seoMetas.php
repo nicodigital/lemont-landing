@@ -3,7 +3,7 @@
 $page_title = str_replace('-',' ', $page );
 
 if( $page == 'home'){
-  $meta_title = $site_name." — ".$claim;
+  $meta_title = "LE MONT · Puerto del Buceo - Montevideo - Uruguay";
 }else{
   $meta_title = ucfirst($page_title)." — ".$site_name;
 }

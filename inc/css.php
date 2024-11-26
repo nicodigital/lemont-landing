@@ -2,8 +2,8 @@
 <?php
 
 /* CSS MODE */
-$css_mode = 'normal';
-// $css_mode = 'inline';
+// $css_mode = 'normal';
+$css_mode = 'inline';
 
 $css = ASSETS . 'style.css';
 $style_url = $css.$cache;

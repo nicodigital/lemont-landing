@@ -3,11 +3,12 @@
 }
 
 .select {
-  @apply relative w-full uppercase mt-2 xg:mt-4;
+  @apply relative w-full mt-2 xg:mt-4;
 }
 
 .select svg{
-  @apply absolute top-1 right-[-1rem] size-[4.5rem] transition-all duration-300 ease-in-out;
+  @apply absolute top-1 right-[-1rem] size-[4.5rem] pointer-events-none
+  transition-all duration-300 ease-in-out;
 }
 
 .select:has(.select-arrow-active) svg{

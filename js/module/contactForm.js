@@ -1,216 +1,205 @@
-function contactForm(container = document) {
-  // console.log(container)
-
-  const form = container.querySelector("#contact-form");
+function contactForm (container = document) {
+  const form = container.querySelector('#sheetdb-form')
 
   if (form) {
+    const SPARK_ID = 'WYTGf3H3i'
+    const SHEETDB = 'https://sheetdb.io/api/v1/bssql5iq0d9pw'
+    let notices, from, subject
 
-    const SPARK_ID = 'wuOzFDQU8'; // ID DEL FORMULARIO ID
-    let notices, from, subject;
+    const protocolo = window.location.protocol
+    const dominio = window.location.hostname
+    const baseURL = protocolo + '//' + dominio
+    const AJAX_URL = 'https://submit-form.com/' + SPARK_ID
 
-    const protocolo = window.location.protocol;
-    const dominio = window.location.hostname;
-    const baseURL = protocolo + "//" + dominio;
+    const result = container.querySelector('#result')
+    const loader = container.querySelector('.loader')
 
-    const ajax_form_url = 'https://submit-form.com/' + SPARK_ID;
-    const result = container.querySelector('#result');
+    // Form fields
+    const lang = form.querySelector('[name=lang]')
+    const name = form.querySelector('[name=name]')
+    const email = form.querySelector('[name=email]')
+    const phone = form.querySelector('[name=phone]')
+    const message = form.querySelector('[name=message]')
+    const btn_submit = form.querySelector('[type=submit]')
 
-    const lang = form.querySelector('[name=lang]');
-    const name = form.querySelector('[name=name]');
-    const email = form.querySelector('[name=email]');
-    const phone = form.querySelector('[name=phone]');
-    const message = form.querySelector('[name=message]');
-    const btn_submit = form.querySelector('[type=submit]');
+    // Validation regex
+    const nameRegex = /^[A-Za-z]+ [A-Za-z]+$/
+    const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/
+    const phoneRegex = /^\+\d{0,3}(?:\s?\d{1,3}){1,4}$|^\d{8,9}$/
+    const messageRegex = /^.{16,}$/ // min 16 caracteres
 
-    const nameRegex = /^[A-Za-z]+ [A-Za-z]+$/;
-    const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
-    const phoneRegex = /^\+\d{0,3}(?:\s?\d{1,3}){1,4}$|^\d{8,9}$/;
-    const messageRegex = /^.{16,}$/; // min 16 caracteres
-
-    /* /////////////////// FROM & SUBJECT ////////////////////*/
-    function formatDateTime() {
-      const now = new Date();
-
-      const day = String(now.getDate()).padStart(2, '0');
-      const month = String(now.getMonth() + 1).padStart(2, '0');
-      const year = now.getFullYear();
-
-      const hours = String(now.getHours()).padStart(2, '0');
-      const minutes = String(now.getMinutes()).padStart(2, '0');
-
-      return `${day}-${month}-${year} | ${hours}:${minutes} hs`;
+    /* /////////////////// FROM & SUBJECT //////////////////// */
+    function formatDateTime () {
+      const now = new Date()
+      const day = String(now.getDate()).padStart(2, '0')
+      const month = String(now.getMonth() + 1).padStart(2, '0')
+      const year = now.getFullYear()
+      const hours = String(now.getHours()).padStart(2, '0')
+      const minutes = String(now.getMinutes()).padStart(2, '0')
+      return `${day}-${month}-${year} | ${hours}:${minutes} hs`
     }
 
-    from = "GRIDBOX 2.0";
-    subject = "Consulta desde GRIDBOX 2.0 — " + formatDateTime();
+    from = 'LE MONT'
+    subject = 'Consulta desde LE MONT — ' + formatDateTime()
 
-    /* ///////////////////// NOTICES ///////////////////////*/
+    /* ///////////////////// NOTICES /////////////////////// */
+    notices = {
+      success: lang.value === 'en'
+        ? 'Thank you for contacting us. We will get back to you shortly.'
+        : 'Gracias por escribirnos. En breve nos pondremos en contacto con usted.',
+      error: lang.value === 'en'
+        ? 'Error. Please try again.'
+        : 'Error. Por favor, intenta de nuevo.'
+    }
 
-    if (lang.value === "en") {
+    /* ////////////////// VALIDACIÓN /////////////////// */
+    function validField (field, regex) {
+      if (!field || !field.value) return false
+      const isValid = regex.test(field.value.trim())
+      field.classList.toggle('invalid', !isValid)
+      return isValid
+    }
 
-      notices = {
-        success: 'Thank you for contacting us. We will get back to you shortly.',
-        error: 'Error. Please try again.',
+    function checkForm () {
+      const isNameValid = validField(name, nameRegex)
+      const isEmailValid = validField(email, emailRegex)
+      const isPhoneValid = validField(phone, phoneRegex)
+      const isMessageValid = validField(message, messageRegex)
+
+      const isFormValid = isNameValid && isEmailValid && isPhoneValid && isMessageValid
+
+      btn_submit.disabled = !isFormValid
+
+      return isFormValid
+    }
+
+    /* ////////////////// EVENT LISTENERS /////////////////// */
+    const debounce = (fn, delay) => {
+      let timeoutId
+      return function (...args) {
+        clearTimeout(timeoutId)
+        timeoutId = setTimeout(() => fn.apply(this, args), delay)
       }
-
-    } else {
-
-      notices = {
-        success: 'Gracias por contactarnos. En breve nos pondremos en contacto.',
-        error: 'Error. Por favor, intenta de nuevo.',
-      }
-
     }
 
-    /* ////////////////// TEMPORIZADORES ///////////////////*/
-    // Definir una variable para el temporizador de retraso
-    let typingTimer;
-
-    // Tiempo de espera en milisegundos antes de ejecutar la validación
-    const doneTypingInterval = 500; // 500 milisegundos (0.5 segundos)
-
-    // Función para manejar el evento de entrada en el campo
-    function handleInput(field, regex) {
-      // Limpiar el temporizador existente
-      clearTimeout(typingTimer);
-
-      // Comenzar un nuevo temporizador
-      typingTimer = setTimeout(function () {
-        // Ejecutar la validación después del tiempo de espera
-        validField(field, regex);
-      }, doneTypingInterval);
-    }
-
-    /* ////////////////// VALIDAR ///////////////////*/
-
-    function validField(field, regex) {
-      let field_val = field.value;
-      // console.log(field_val); 
-    
-      if (!field_val.match(regex)) {
-        field.classList.add('invalid');
-        return false;
-      }
-    
-      field.classList.remove('invalid');
-      return true;
-    }
-    
-    /* ////////////////// CHECK FORM ///////////////////*/
-    function checkForm() {
-
-      let formStatus = '';
-
-      if (validField(name, nameRegex) && validField(email, emailRegex) && validField(phone, phoneRegex) && validField(message, messageRegex)) {
-        btn_submit.disabled = false;
-        formStatus = true;
-      } else {
-        btn_submit.disabled = true;
-        formStatus = false;
-      }
-
-      return formStatus;
-
-    }
-
-    /* ////////////////// EVENT HANDLING ///////////////////*/
-
-    name.addEventListener('input', function () {
-      handleInput(name, nameRegex);
-    });
-
-    email.addEventListener('input', function () {
-      handleInput(email, emailRegex);
-    });
-
-    phone.addEventListener('input', function () {
-      handleInput(phone, phoneRegex);
-    });
-
-    message.addEventListener('input', function () {
-      handleInput(message, messageRegex);
-    });
-
-    form.onchange = () => {
+    const debouncedCheck = debounce(() => {
       checkForm()
-    }
+    }, 300)
 
-    message.addEventListener('mouseleave', function () {
-      checkForm();
+    // Agregar event listeners para validación en tiempo real
+    ;[name, email, phone, message].forEach(field => {
+      if (field) {
+        ['input', 'blur', 'change'].forEach(eventType => {
+          field.addEventListener(eventType, debouncedCheck)
+        })
+      }
     })
 
-    /* ////////////////// SUBMIT ///////////////////*/
+    // Validar también cuando el mouse sale del formulario
+    form.addEventListener('mouseleave', checkForm)
 
-    form.addEventListener("submit", async (e) => {
-      e.preventDefault();
+    /* ////////////////// OBTENER VALORES DE INPUTS /////////////////// */
+    function getSelectedRadioValue (name) {
+      const selected = form.querySelector(`input[name="${name}"]:checked`)
+      return selected ? selected.value : ''
+    }
 
-      let loader = container.querySelector(".loader");
-      loader.style.display = "block";
+    function getSelectedValue (name) {
+      const select = form.querySelector(`select[name="${name}"]`)
+      return select ? select.value : ''
+    }
+
+    /* ////////////////// SUBMIT /////////////////// */
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault()
+
+      const loader = container.querySelector('.loader')
+      loader.style.display = 'block'
 
       if (checkForm()) {
-
         const formData = {
-          "name": name.value,
-          "email": email.value,
-          "phone": phone.value,
-          "message": message.value,
-          // "g-recaptcha-response": grecaptcha.getResponse()
-        };
+          name: name.value,
+          email: email.value,
+          phone: phone.value,
+          property_type: getSelectedRadioValue('property_type'),
+          price_range: getSelectedRadioValue('price_range'),
+          contact_preference: getSelectedValue('contact_preference'),
+          message: message.value
+        }
 
         const json = JSON.stringify({
           ...formData,
           _email: {
-            from: from,
-            subject: subject,
+            from,
+            subject,
             template: {
               title: false,
-              footer: false,
+              footer: false
             }
           }
-        });
+        })
 
-        fetch(ajax_form_url, {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'Accept': 'application/json'
-          },
-          body: json
-        }).then(async (response) => {
+        let sheetdbSuccess = false
+        let emailSuccess = false
 
-          let json = await response.json();
+        try {
+          const [sheetdbResponse, emailResponse] = await Promise.allSettled([
+            // SheetDB request
+            fetch(SHEETDB, {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+                Accept: 'application/json'
+              },
+              body: json
+            }),
+            // Email request
+            fetch(AJAX_URL, {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+                Accept: 'application/json'
+              },
+              body: json
+            })
+          ])
 
-          if (response.status == 200) {
-
-            // window.location.href = baseURL + "/gracias";
-            loader.style = "display: none";
-            result.innerHTML = notices.success;
-
-          } else {
-            console.log(response);
-            // result.innerHTML = notices.error;
+          // Verificar resultado de SheetDB
+          if (sheetdbResponse.status === 'fulfilled') {
+            const sheetData = await sheetdbResponse.value.json()
+            sheetdbSuccess = sheetdbResponse.value.ok // Verifica solo si la respuesta fue exitosa
           }
 
-        }).catch(error => {
+          // Verificar resultado del email
+          if (emailResponse.status === 'fulfilled') {
+            emailSuccess = emailResponse.value.ok
+          }
 
-          console.log(error);
-          result.innerHTML = notices.error;
+          // Manejar el resultado final
+          if (sheetdbSuccess && emailSuccess) {
+            loader.style.display = 'none'
+            result.innerHTML = notices.success
+            form.reset()
+          } else {
+            throw new Error('Error en el envío')
+          }
+        } catch (error) {
+          console.error('Error:', error)
+          result.innerHTML = notices.error
+        } finally {
+          loader.style.display = 'none'
+          result.style.display = 'block'
 
-        }).then(function () {
-
-          form.reset();
-          setTimeout(() => {
-            result.style.display = "none";
-          }, 3000);
-
-        });
-
+          // Si todo fue exitoso, ocultar el mensaje después de 3 segundos
+          if (sheetdbSuccess && emailSuccess) {
+            setTimeout(() => {
+              result.style.display = 'none'
+            }, 3000)
+          }
+        }
       }
-
-    });
-
-  } // if contact from
-
+    })
+  }
 }
 
-export default contactForm;
+export default contactForm
