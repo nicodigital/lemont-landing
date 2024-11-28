@@ -1,34 +1,16 @@
 <footer class="container py-4">
 	<row class="mb-4 xg:mb-10">
-		<div class="col-1-7 xg:col-1-7 mb-10 xg:mb-0">
-			<?php
-				$img = new Picture('img/logos/logo-foot.jpg');
-				$img->set('alt', 'LE MONT');
-				$img->set('class', 'w-14');
-				echo $img->generate();
-			?>
+		<div class="col-1-7 xg:col-1-7 mb-10 xg:mb-0 flex xg:items-center">
+			<?= $GLOBALS['loader']->loadSVG('img/logos/logo.svg', 'w-14 text-ivory', null, true ) ?>
 		</div>
-		<div class="xg:col-7-13 flex flex-col xg:flex-row xg:justify-between gap-3 xg:gap-2">
-			<?php
-				$img = new Picture('img/logos/Planet-Partners.jpg');
-				$img->set('alt', 'Planet Partners');
-				$img->set('class', 'w-33% xg:w-14');
-				echo $img->generate();
-			?>
+		<div class="xg:col-7-13 flex flex-col xg:flex-row xg:justify-between xg:items-center gap-3 xg:gap-2">
 
-		<?php
-				$img = new Picture('img/logos/Arthur-Casas.jpg');
-				$img->set('alt', 'Arthur Casas');
-				$img->set('class', 'w-60% xg:w-[25rem]');
-				echo $img->generate();
-			?>
+			<?= $GLOBALS['loader']->loadSVG('img/logos/planet.svg', 'w-33% xg:w-14', null, true ) ?>
 
-		<?php
-				$img = new Picture('img/logos/Gomez-Platero.jpg');
-				$img->set('alt', 'Gomez Platero');
-				$img->set('class', 'w-40% xg:w-14');
-				echo $img->generate();
-			?>
+			<?= $GLOBALS['loader']->loadSVG('img/logos/gomez-platero.svg', 'w-40% xg:w-17', null, true ) ?>
+
+			<?= $GLOBALS['loader']->loadSVG('img/logos/sac.svg', 'w-60% xg:w-[25rem]', null, true ) ?>
+
 		</div>
 	</row>
 

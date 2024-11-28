@@ -22,7 +22,7 @@
   width: 100%;
   background: transparent;
   color: var(--form-color);
-  border-bottom: var(--line-width) solid var(--form-color); 
+  border-bottom: 1px solid var(--form-color); 
   min-height: var(--field-height);
   padding: 2rem 2rem 2rem 0;
   line-height: 1;
@@ -46,7 +46,8 @@
 }
 
 .form .title{
-  @apply block border-b border-white pt-1 pb-2 leading-[1] uppercase;
+  @apply block pt-1 pb-2 leading-[1] uppercase;
+  border-bottom: 1px solid var(--ivory);
   margin-top: var(--field-margin-bottom);
   margin-bottom: var(--field-margin-bottom);
 }
@@ -84,7 +85,7 @@
 }
 
 .form input:-webkit-autofill {
-  -webkit-box-shadow: 0 0 0px 1000px #fff inset;
+  -webkit-box-shadow: 0 0 0px 1000px var(--ivory) inset;
 }
 
 .form input[type="checkbox"],
@@ -93,7 +94,7 @@
 }
 
 .valid-msg{
-  @apply hidden absolute top-[2.2rem] left-0 font-[400] text-black text-right pointer-events-none;
+  @apply hidden absolute top-[2.2rem] left-0 font-[400] text-ivory text-right pointer-events-none;
 }
 
 /* El placeholder solo lo agarra aca */

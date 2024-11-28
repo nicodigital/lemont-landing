@@ -15,7 +15,7 @@ html {
 } */
 
 body{
-  @apply text-body bg-greendark text-white;
+  @apply text-body bg-greendark text-ivory;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   word-wrap: break-word;

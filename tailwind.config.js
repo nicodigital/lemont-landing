@@ -18,7 +18,8 @@ export default {
       colors: {
         red: 'var(--red)',
         greendark: 'var(--greendark)',
-        mud: 'var(--mud)'
+        mud: 'var(--mud)',
+        ivory: 'var(--ivory)'
       },
       fontSize: {
         big: 'var(--big)',
