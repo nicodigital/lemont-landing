@@ -3,7 +3,7 @@ import lenisScroll from './module/lenisScroll.js'
 // import menuMobile from './module/menuMobile.js'
 import scrollMarkers from './module/scrollMarkers.js'
 // import customSwiper from './module/customSwiper.js'
-// import modal from './module/modal.js'
+import modal from './module/modal.js'
 // import accordion from './module/accordion.js'
 import customSelect from './module/customSelect.js'
 import customRellax from './module/customRellax.js'
@@ -26,7 +26,7 @@ function functions (deviceData) {
   customRellax()
   customSelect()
   // customSwiper()
-  // modal()
+  modal()
   // filters()
   // accordion()
   darkModeOS(cookies)

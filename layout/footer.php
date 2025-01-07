@@ -24,5 +24,7 @@
 
 </footer>
 
+<?php include 'layout/modals/politicas.php' ?>
+
 </body>
 </html>

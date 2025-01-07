@@ -1,4 +1,4 @@
-<?php
+<div?php
 $lang = $GLOBALS["lang"];
 ?>
 
@@ -117,6 +117,11 @@ $lang = $GLOBALS["lang"];
         <textarea name="message" placeholder="Hay alguna información adicional que le gustaría compratir sobre su búsqueda?" minlength="16" rows="1" cols="50"></textarea>
         <div class="valid-msg">Tu mensaje debe ser de mas de 16 caracteres.</div>
     </div>
+
+    <label class="checkbox flex gap-1 mt-4" for="privacy-policy">
+        <input type="radio" id="privacy-policy" name="privacy_policy" value="Aceptado">
+        <span class="checkmark"></span> <span class="txt flex gap-1 items-center"> <span>Acepto</span> <div class="underline open-modal" data-modal="politicas" >políticas de privacidad</div> </span>
+    </label>
 
     <div class="flex items-center gap-2 md:gap-4 mt-2 xg:mt-8">
 

@@ -13,10 +13,12 @@
 }
 
 .modal .modal-box {
-   @apply relative flex flex-col justify-center
-          p-4 xg:px-6
-          w-[90%] xg:w-[50%] min-h-[50vh]
-          border border-white;
+   @apply relative flex flex-col
+          p-4 xg:px-6 py-10
+          w-[90%] xg:w-[50%] h-screen
+          overflow-y-auto;
+
+          &::-webkit-scrollbar {width: 0}
 }
 
 .modal .close {

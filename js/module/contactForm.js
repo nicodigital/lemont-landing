@@ -20,6 +20,7 @@ function contactForm (container = document) {
     const email = form.querySelector('[name=email]')
     const phone = form.querySelector('[name=phone]')
     const message = form.querySelector('[name=message]')
+    const privacy_policy = form.querySelector('[name=privacy_policy]')
     const btn_submit = form.querySelector('[type=submit]')
 
     // Validation regex
@@ -124,7 +125,8 @@ function contactForm (container = document) {
           property_type: getSelectedRadioValue('property_type'),
           price_range: getSelectedRadioValue('price_range'),
           contact_preference: getSelectedValue('contact_preference'),
-          message: message.value
+          message: message.value,
+          privacy_policy: getSelectedRadioValue('privacy_policy')
         }
 
         const json = JSON.stringify({
